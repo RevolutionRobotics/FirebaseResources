@@ -1,0 +1,64 @@
+{
+    "id": "c92b9a90-e069-11e9-9d36-2a2ae2dbcce4",
+    "buildTime": "20m",
+    "description": {
+        "en": "Our simplest robot"
+    },
+    "name": {
+        "en": "Revvy"
+    },
+    "order": 1,
+    "configuration": {
+        "mapping": {
+            "M1": {
+                "reversed": false,
+                "side": "left",
+                "type": "drive",
+                "variableName": "drive1"
+            },
+            "M2": {
+                "reversed": false,
+                "side": "left",
+                "type": "drive",
+                "variableName": "drive2"
+            },
+            "M4": {
+                "reversed": false,
+                "side": "right",
+                "type": "drive",
+                "variableName": "drive4"
+            },
+            "M5": {
+                "reversed": false,
+                "side": "right",
+                "type": "drive",
+                "variableName": "drive5"
+            },
+            "S1": {
+                "type": "bumper",
+                "variableName": "bumper"
+            },
+            "S4": {
+                "type": "distance",
+                "variableName": "distance"
+            }
+        },
+        "controller": {
+            "description": {
+                "en": "desc"
+            },
+            "joystickPriority": 1,
+            "lastModified": 1557908790,
+            "mapping": {
+                "b1": {
+                    "priority": 2,
+                    "programId": "8732422b-1f24-416d-99e8-fd8148272bcf"
+                }
+            },
+            "name": {
+                "en": "Revvy controller"
+            },
+            "type": "gamer"
+        }
+    }
+}

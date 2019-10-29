@@ -9,6 +9,7 @@
     },
     "order": 1,
     "configuration": {
+        "id": "c2eb9436-32eb-4907-b123-6dd75770d3a3",
         "mapping": {
             "M1": {
                 "reversed": false,
@@ -44,6 +45,7 @@
             }
         },
         "controller": {
+            "id": "3e507edc-b601-4877-9720-308860fac27a",
             "description": {
                 "en": "desc"
             },

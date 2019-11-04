@@ -3,6 +3,7 @@
    "name":{
       "en":"Directions"
    },
+   "order": 1,
    "steps":[
       {
          "id":"a8682faf-0419-4123-9436-eee93f9248c3",

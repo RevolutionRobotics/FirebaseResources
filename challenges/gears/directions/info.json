@@ -1,0 +1,28 @@
+{
+    "id": "d6041198-0c67-496d-9f0a-8a454dfe01e4",
+    "name": {
+        "en": "Directions"
+    },
+    "steps": [
+        {
+            "id": "a8682faf-0419-4123-9436-eee93f9248c3",
+            "title": {
+                "en": "Intro"
+            },
+            "description": {
+                "en": "In this challenge you will learn about the direction of gears"
+            },
+            "challengeType": "horizontal"
+        },
+        {
+            "id": "25f05b1f-362a-4d9c-a30e-ca3e48777a16",
+            "title": {
+                "en": "Intro"
+            },
+            "description": {
+                "en": "In this challenge you will learn about the direction of gears"
+            },
+            "challengeType": "zoomable"
+        }
+    ]
+}

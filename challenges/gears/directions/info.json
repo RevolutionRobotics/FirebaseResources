@@ -1,28 +1,88 @@
 {
-    "id": "d6041198-0c67-496d-9f0a-8a454dfe01e4",
-    "name": {
-        "en": "Directions"
-    },
-    "steps": [
-        {
-            "id": "a8682faf-0419-4123-9436-eee93f9248c3",
-            "title": {
-                "en": "Intro"
-            },
-            "description": {
-                "en": "In this challenge you will learn about the direction of gears"
-            },
-            "challengeType": "horizontal"
-        },
-        {
-            "id": "25f05b1f-362a-4d9c-a30e-ca3e48777a16",
-            "title": {
-                "en": "Intro"
-            },
-            "description": {
-                "en": "In this challenge you will learn about the direction of gears"
-            },
-            "challengeType": "zoomable"
-        }
-    ]
+   "id":"d6041198-0c67-496d-9f0a-8a454dfe01e4",
+   "name":{
+      "en":"Directions"
+   },
+   "steps":[
+      {
+         "id":"a8682faf-0419-4123-9436-eee93f9248c3",
+         "title":{
+            "en":"Directions"
+         },
+         "description":{
+            "en":"In this challenge you will learn about direction changes."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"25f05b1f-362a-4d9c-a30e-ca3e48777a16",
+         "title":{
+            "en":"Directions"
+         },
+         "description":{
+            "en":"When two gears don’t touch, they have no effect on each other."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"6c17e85b-a9f0-4c18-95e4-1e6760eef468",
+         "title":{
+            "en":"Directions"
+         },
+         "description":{
+            "en":"The power is in the teeth. "
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"44dbc087-2964-450a-89e6-13bd895685d0",
+         "title":{
+            "en":"Directions"
+         },
+         "description":{
+            "en":"Gear train: the second gear (follow gear) will move in the opposite direction of the first gear (drive gear)"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"1df74626-fe75-4476-889e-9a2320d1daf6",
+         "title":{
+            "en":"Directions"
+         },
+         "description":{
+            "en":"Now let’s use another gear. The direction will change again, the new follow gear will move in the same direction of the drive gear."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"dfbc90ee-3dee-4006-be79-98398db85515",
+         "title":{
+            "en":"You've got this!"
+         },
+         "description":{
+            "en":"If we continued to build the gear train, in what direction would the fifth gear rotate?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5a201243-08de-4fd4-8a50-53610bbc6ebc",
+         "title":{
+            "en":"Answer"
+         },
+         "description":{
+            "en":"In the same direction of the drive gear."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"07510756-a90b-41d6-87ed-a1670cb8aeb2",
+         "title":{
+            "en":"Directions"
+         },
+         "description":{
+            "en":"Good job!!!"
+         },
+         "challengeType":"horizontal"
+      }
+   ]
 }

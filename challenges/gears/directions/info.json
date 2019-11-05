@@ -63,7 +63,7 @@
          "description":{
             "en":"If we continued to build the gear train, in what direction would the fifth gear rotate?"
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"5a201243-08de-4fd4-8a50-53610bbc6ebc",
@@ -73,7 +73,7 @@
          "description":{
             "en":"In the same direction as the drive gear."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"07510756-a90b-41d6-87ed-a1670cb8aeb2",

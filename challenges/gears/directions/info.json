@@ -51,7 +51,7 @@
             "en":"Directions"
          },
          "description":{
-            "en":"Now let’s use another gear. The direction will change again, the new follow gear will move in the same direction of the drive gear."
+            "en":"Now let’s use another gear. The direction will change again, the new follow gear will move in the same direction as the drive gear."
          },
          "challengeType":"horizontal"
       },
@@ -71,7 +71,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"In the same direction of the drive gear."
+            "en":"In the same direction as the drive gear."
          },
          "challengeType":"horizontal"
       },

@@ -1,0 +1,327 @@
+{
+   "id":"bceaaf9c-c2e9-4be9-8eef-04b8d8776f25",
+   "name":{
+      "en":"Let's gear up!"
+   },
+   "order": 1,
+   "steps":[
+      {
+         "id":"c334852d-d6b6-42c7-a937-e7bcdfdd7664",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"In this challenge you will learn how to run your wheel even faster."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"d8fd367a-23dd-47ee-8a18-fbf024368e73",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"In the kit you can find different sizes of basic gears. The smallest one has 20 teeth, the next size has 40 teeth and the biggest one has 60 teeth. "
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"0b247b37-caf4-49b9-b832-a5832a36cb92",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"Before building our next model, let's count a bit.\n2x20=40\nIt means the 40-teeth-gear doubles the speed of the 20-teeth-gear."         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"2208861f-369d-4c60-9168-3066468ebeda",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"3x20=60\nIt means the 60-teeth-gear triples the speed of the 20-teeth-gear."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"75c0b7cf-541e-4da3-abc1-745b84644677",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":"The next couple of slides will show you how to build our model for this challenge."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"d7cd420c-a362-4ffb-81a2-256140ec69c2",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },      {
+         "id":"16e9fc1d-2e0e-4b1d-a617-05c1d2b2c669",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"8c5e9cb1-5c53-449c-a1c8-5ebaf6a7fc48",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"b4933079-c11e-448b-a6e5-7daef462a080",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+     {
+         "id":"b7d651d5-a255-48ec-8165-107b4bb98597",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"1082cfc5-8c41-4731-808e-378441e96374",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"fd3f1e44-0372-4e48-9a6c-d288a18c61a5",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"b98b81fc-0949-44d5-8ad3-d635c6d44546",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"4ff84e19-6211-4280-b131-9d5c54fe7dd8",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"437f7cf2-5861-4192-8941-0bb71b6ee113",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"41d114c0-645b-4cf6-9a64-e9ff10f112be",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"83221f48-431c-4b4a-80f6-9f2ab8adf499",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"33a2957d-e601-47c4-9e3b-8b60b303c788",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"a98f56f3-886c-4d87-913d-5a88f62d8d0e",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"527b867a-ac22-4225-9655-75b4fe340e3e",
+         "title":{
+            "en":"Building time"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },    
+      {
+         "id":"528c08b4-7307-4a17-b1e5-365db0d240e5",     
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"You can see an arrow on the wheel's tyre, it will help you to find out how the different gear sizes change the wheel's speed. Make sure it stands on the top while the wheel is attached to the frame."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"123e8d40-4a7f-4df9-b063-57b330a9f997",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"First, we use a 20-teeth-gear as a drive gear to move the wheel. While checking the arrow on the tyre let's count how many rounds the wheel turns with one spin of the handle."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a2ee2093-b484-426d-9d6e-450b4f28ec30",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"When we use the same size of gears, they don't change the speed of the wheel, so the wheel rotates one full circle with one spin of the handle."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"722b31ae-9163-4350-a3ef-8e0d24cf05d7",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"Now let's swap the drive gear to a 40-teeth-gear. How many rounds does the wheel turn with one spin of the handle?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"e753dc21-2544-4517-b66d-052898d6d9fb",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"If the drive gear is two times bigger than the follow gear, it will double its speed, so the wheel will run twice as fast. In other words, with one spin of the handle our wheel will run two full circles.\n40/20=2\n2x20=40"
+         },
+         "challengeType":"horizontal"
+      }, 
+{
+         "id":"be4bc6ed-a444-48b8-a800-816276f35fc5",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"Now let's use a 60-teeth-gear to rotate the wheel even faster. How many rounds does the wheel turn with one spin of the handle?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a52c5899-46b4-4c58-8065-c32a5bc3814b",
+         "title":{
+            "en":"Let's gear up!"
+         },
+         "description":{
+            "en":"If the drive gear has three times as many teeth as the follow gear, it will triple its speed, so with one spin of the handle our wheel will rotate three full circles.\n60/20=3\n3x20=60"
+         },
+         "challengeType":"horizontal"
+      }, 
+      {
+         "id":"aeb86606-b152-4909-9081-f0016c3f3426",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },  
+{
+         "id":"beb1d816-fefe-4c7f-a8d6-92461151dff9",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":"How many rounds does the wheel rotate if we attach a 60-teeth-gear(drive gear) to a 40-teeth-gear (follow gear)?"
+         },
+         "challengeType":"horizontal"
+      }, 
+      {
+         "id":"1724e9cd-69ed-4260-998b-467e7cce3063",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },  
+      {
+         "id":"487d6c5e-58b4-4fb8-b891-2001904024d5",
+         "title":{
+            "en":"Answer"
+         },
+         "description":{
+            "en":"The wheel rotates 1.5 rounds with one spin of the handle.\n60/40=1.5\n1.5x40=60."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"de2704d9-4d73-48ba-a810-1c7d71a225b2",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },  
+]
+}

@@ -31,7 +31,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"Before building our next model, let's count a bit.</br>2x20=40</br>It means the 40-teeth-gear doubles the speed of the 20-teeth-gear."         },
+            "en":"Before building our next model, let's count a bit.<br/>2x20=40<br/>It means the 40-teeth-gear doubles the speed of the 20-teeth-gear."         },
          "challengeType":"horizontal"
       },
       {
@@ -40,7 +40,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"3x20=60</br>It means the 60-teeth-gear triples the speed of the 20-teeth-gear."
+            "en":"3x20=60<br/>It means the 60-teeth-gear triples the speed of the 20-teeth-gear."
          },
          "challengeType":"horizontal"
       },
@@ -219,7 +219,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"First, we use a 20-teeth-gear as a drive gear to move the wheel. While checking the arrow on the tyre let's count how many rounds the wheel turns with one spin of the handle."
+            "en":"First, we use a 20-teeth-gear as a drive gear to move the wheel. While checking the arrow on the tyre, let's count how many rounds the wheel turns with one spin of the handle."
          },
          "challengeType":"horizontal"
       },
@@ -249,7 +249,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"If the drive gear is two times bigger than the follow gear, it will double its speed, so the wheel will run twice as fast. In other words, with one spin of the handle our wheel will run two full circles.</br>40/20=2</br>2x20=40"
+            "en":"If the drive gear is two times bigger than the follow gear, it will double its speed, so the wheel will run twice as fast. In other words, with one spin of the handle our wheel will run two full circles.<br/>40/20=2<br/>2x20=40"
          },
          "challengeType":"horizontal"
       }, 
@@ -269,7 +269,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"If the drive gear has three times as many teeth as the follow gear, it will triple its speed, so with one spin of the handle our wheel will rotate three full circles.</br>60/20=3</br>3x20=60"
+            "en":"If the drive gear has three times as many teeth as the follow gear, it will triple its speed, so with one spin of the handle our wheel will rotate three full circles.<br/>60/20=3<br/>3x20=60"
          },
          "challengeType":"horizontal"
       }, 
@@ -309,7 +309,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"The wheel rotates 1.5 rounds with one spin of the handle.</br>60/40=1.5</br>1.5x40=60."
+            "en":"The wheel rotates 1.5 rounds with one spin of the handle.<br/>60/40=1.5<br/>1.5x40=60."
          },
          "challengeType":"horizontal"
       },

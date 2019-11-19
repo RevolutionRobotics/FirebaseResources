@@ -3,7 +3,7 @@
    "name":{
       "en":"Let's gear up!"
    },
-   "order": 1,
+   "order": 2,
    "steps":[
       {
          "id":"c334852d-d6b6-42c7-a937-e7bcdfdd7664",
@@ -31,7 +31,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"Before building our next model, let's count a bit.\n2x20=40\nIt means the 40-teeth-gear doubles the speed of the 20-teeth-gear."         },
+            "en":"Before building our next model, let's count a bit.</br>2x20=40</br>It means the 40-teeth-gear doubles the speed of the 20-teeth-gear."         },
          "challengeType":"horizontal"
       },
       {
@@ -40,7 +40,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"3x20=60\nIt means the 60-teeth-gear triples the speed of the 20-teeth-gear."
+            "en":"3x20=60</br>It means the 60-teeth-gear triples the speed of the 20-teeth-gear."
          },
          "challengeType":"horizontal"
       },
@@ -57,7 +57,7 @@
       {
          "id":"d7cd420c-a362-4ffb-81a2-256140ec69c2",
          "title":{
-            "en":"Building time"
+            "en":"Model parts"
          },
          "description":{
             "en":""
@@ -66,7 +66,7 @@
       },      {
          "id":"16e9fc1d-2e0e-4b1d-a617-05c1d2b2c669",
          "title":{
-            "en":"Building time"
+            "en":"Step 1"
          },
          "description":{
             "en":""
@@ -76,7 +76,7 @@
       {
          "id":"8c5e9cb1-5c53-449c-a1c8-5ebaf6a7fc48",
          "title":{
-            "en":"Building time"
+            "en":"Step 2"
          },
          "description":{
             "en":""
@@ -86,7 +86,7 @@
       {
          "id":"b4933079-c11e-448b-a6e5-7daef462a080",
          "title":{
-            "en":"Building time"
+            "en":"Step 3"
          },
          "description":{
             "en":""
@@ -96,7 +96,7 @@
      {
          "id":"b7d651d5-a255-48ec-8165-107b4bb98597",
          "title":{
-            "en":"Building time"
+            "en":"Step 4"
          },
          "description":{
             "en":""
@@ -106,7 +106,7 @@
       {
          "id":"1082cfc5-8c41-4731-808e-378441e96374",
          "title":{
-            "en":"Building time"
+            "en":"Step 5"
          },
          "description":{
             "en":""
@@ -116,7 +116,7 @@
       {
          "id":"fd3f1e44-0372-4e48-9a6c-d288a18c61a5",
          "title":{
-            "en":"Building time"
+            "en":"Step 6"
          },
          "description":{
             "en":""
@@ -126,7 +126,7 @@
       {
          "id":"b98b81fc-0949-44d5-8ad3-d635c6d44546",
          "title":{
-            "en":"Building time"
+            "en":"Step 7"
          },
          "description":{
             "en":""
@@ -136,7 +136,7 @@
       {
          "id":"4ff84e19-6211-4280-b131-9d5c54fe7dd8",
          "title":{
-            "en":"Building time"
+            "en":"Step 8"
          },
          "description":{
             "en":""
@@ -146,7 +146,7 @@
       {
          "id":"437f7cf2-5861-4192-8941-0bb71b6ee113",
          "title":{
-            "en":"Building time"
+            "en":"Step 9"
          },
          "description":{
             "en":""
@@ -156,7 +156,7 @@
       {
          "id":"41d114c0-645b-4cf6-9a64-e9ff10f112be",
          "title":{
-            "en":"Building time"
+            "en":"Step 10"
          },
          "description":{
             "en":""
@@ -166,7 +166,7 @@
       {
          "id":"83221f48-431c-4b4a-80f6-9f2ab8adf499",
          "title":{
-            "en":"Building time"
+            "en":"Step 11"
          },
          "description":{
             "en":""
@@ -176,7 +176,7 @@
       {
          "id":"33a2957d-e601-47c4-9e3b-8b60b303c788",
          "title":{
-            "en":"Building time"
+            "en":"Step 12"
          },
          "description":{
             "en":""
@@ -186,7 +186,7 @@
       {
          "id":"a98f56f3-886c-4d87-913d-5a88f62d8d0e",
          "title":{
-            "en":"Building time"
+            "en":"Step 13"
          },
          "description":{
             "en":""
@@ -196,7 +196,7 @@
       {
          "id":"527b867a-ac22-4225-9655-75b4fe340e3e",
          "title":{
-            "en":"Building time"
+            "en":"Step 14"
          },
          "description":{
             "en":""
@@ -249,7 +249,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"If the drive gear is two times bigger than the follow gear, it will double its speed, so the wheel will run twice as fast. In other words, with one spin of the handle our wheel will run two full circles.\n40/20=2\n2x20=40"
+            "en":"If the drive gear is two times bigger than the follow gear, it will double its speed, so the wheel will run twice as fast. In other words, with one spin of the handle our wheel will run two full circles.</br>40/20=2</br>2x20=40"
          },
          "challengeType":"horizontal"
       }, 
@@ -269,7 +269,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"If the drive gear has three times as many teeth as the follow gear, it will triple its speed, so with one spin of the handle our wheel will rotate three full circles.\n60/20=3\n3x20=60"
+            "en":"If the drive gear has three times as many teeth as the follow gear, it will triple its speed, so with one spin of the handle our wheel will rotate three full circles.</br>60/20=3</br>3x20=60"
          },
          "challengeType":"horizontal"
       }, 
@@ -289,7 +289,7 @@
             "en":"Let us challenge you now!"
          },
          "description":{
-            "en":"How many rounds does the wheel rotate if we attach a 60-teeth-gear(drive gear) to a 40-teeth-gear (follow gear)?"
+            "en":"How many rounds does the wheel rotate if we attach a 60-teeth-gear (drive gear) to a 40-teeth-gear (follow gear)?"
          },
          "challengeType":"horizontal"
       }, 
@@ -309,7 +309,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"The wheel rotates 1.5 rounds with one spin of the handle.\n60/40=1.5\n1.5x40=60."
+            "en":"The wheel rotates 1.5 rounds with one spin of the handle.</br>60/40=1.5</br>1.5x40=60."
          },
          "challengeType":"horizontal"
       },
@@ -322,6 +322,6 @@
             "en":""
          },
          "challengeType":"zoomable"
-      }
+      },  
 ]
 }

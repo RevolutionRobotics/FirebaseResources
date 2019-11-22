@@ -70,7 +70,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"If you connect successfully to the brain, the following message will come up."
+            "en":"If your device connects to the brain successfully, the following message will come up."
          },
          "challengeType":"vertical"
       },
@@ -80,7 +80,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"Now you will have your controller. On the left you can find the button which will help you to lead Revvy."
+            "en":"Now you have your controller. On the left you can find the button which will help you to lead Revvy."
          },
          "challengeType":"vertical"
       },

@@ -1,0 +1,147 @@
+{
+   "id":"ce95005e-16e1-4d7b-ac9c-b24ba9b6625f",
+   "name":{
+      "en":"Let's ride now!"
+   },
+   "order": 2,
+   "steps":[
+      {
+         "id":"dd78eb71-98a7-4bff-80e7-e7ef3cef4003",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"Once you have built Revvy, it's time to get familiar with driving it. In this challenge you will learn how to control Revvy using your device connecting bluetooth."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a2b488b1-2c1a-4c73-b14c-3f1b3b02fc31",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"First, switch on the brain. After clicking the button, a circle will light up around the Revolution Robotics logo. When the full circle is flashing, you will hear a buzzing sound which means your robot is ready to play."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"82918e5f-c97e-436c-9db7-1dc886f7faae",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"As your next step, you will need to choose the 'robots' card within your main menu."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"cffea818-db4a-4c87-81f6-dbcfa6043c62",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"Now, please click on 'Revvy' card. "
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"161a731a-0e7c-4582-b639-f6027e17cb97",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"A message will pop up telling you to switch on the brain. If you didn't do it at the beginning of this challenge, now it's time to do so. If you are sure the brain is on, you need to click on 'Start'."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"81cd4de0-5cb4-48a7-9c4e-b9299aae93ee",
+         "title":{
+            "en":"Make sure the bluetooth is active on your device. Click on Revolution Robotics Brain. (Later on, once your device recognises your robot, its serial number will come up here. It is the number you can find at the bottom of the brain.)"
+         },
+         "description":{
+            "en":""   },      
+         "challengeType":"vertical"
+      },
+      {
+         "id":"81cd4de0-5cb4-48a7-9c4e-b9299aae93ee",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"If you connect successfully to the brain, the following message will come up."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"8eb2b735-c2e9-4e1f-91d7-0bc8c954535d",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"Now you will have your controller. On the left you can find the button which will help you to lead Revvy."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"ed1a837c-0377-4554-8835-61d493f0398d",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"To move Revvy forward keep your thumb on the button and move it upward."
+         },
+         "challengeType":"vertical"
+      },      {
+         "id":"973e5053-886f-4960-ad75-aa7b5d993273",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"If you want to drive backward, do the same step downward."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"98abb0db-7a3b-4053-ad76-3dbdb4247d61",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"To turn Revvy right, push the button to the right. Revvy will spin around if you keep your finger on the button."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"88a3fab1-ac6e-4873-a5f1-dbe7a7f1227d",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"Now let's spin in the other direction, so push the button left and see what happens."
+         },
+         "challengeType":"vertical"
+      },
+     {
+         "id":"a0a90afe-acf9-4e2a-8344-8606ea5e4046",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"You can see some more buttons on this screen, they will be used later on when you are ready to program your robot. However, the top right one has already been coded. Let's see what happens when you push it. Yee-haw!!!"
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"33a274c8-c295-4ae9-aee1-c5c296dd5ba0",
+         "title":{
+            "en":"Let's ride now!"
+         },
+         "description":{
+            "en":"Now you are ready to practice driving your robot. Enjoy the ride!"
+         },
+         "challengeType":"horizontal"
+      }
+]
+}

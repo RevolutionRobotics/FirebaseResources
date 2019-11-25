@@ -21,7 +21,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Also, you can find Revvy's configuration within your app, too, in case you plan to build your robot again anytime in the future. To find the steps, you just need to click on 'robots' card in the main menu."
+            "en":"Also, you can find Revvy's configuration within your app, too, in case you plan to build your robot again anytime in the future. To find the steps, you just need to click on the 'robots' card in the main menu."
          },
          "challengeType":"vertical"
       },
@@ -31,7 +31,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Once you clicked on 'robots' , you need to choose 'New Robot' card."
+            "en":"Once you clicked on 'robots', you need to choose the 'New Robot' card."
          },
          "challengeType":"vertical"
       },
@@ -41,7 +41,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Finally you need to click on 'Revvy' card to find the steps of configuration. "
+            "en":"Finally, you need to click on the 'Revvy' card to find the steps of configuration. "
          },
          "challengeType":"vertical"
       },
@@ -269,7 +269,7 @@
             "en":"Good job!"
          },
          "description":{
-            "en":"Well done, now you have Revvy, your robot in your hands. Together you have plenty of exciting adventures ahead whenever you have time for discovery. Let's get the most out of the countless opportunities you have!"
+            "en":"Well done, now you have Revvy, your robot in your hands. Together you have plenty of exciting adventures ahead whenever you find the time for discovery. Let's get the most out of the countless opportunities you have!"
          },
          "challengeType":"horizontal"
       }

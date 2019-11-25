@@ -11,7 +11,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"Once you have built Revvy, it's time to get familiar with driving it. In this challenge you will learn how to control Revvy using your device connecting bluetooth."
+            "en":"Once you have built Revvy, it's time to get familiar with driving it. In this challenge you will learn how to control Revvy using your device connected through bluetooth."
          },
          "challengeType":"horizontal"
       },
@@ -21,7 +21,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"First, switch on the brain. After clicking the button, a circle will light up around the Revolution Robotics logo. When the full circle is flashing, you will hear a buzzing sound which means your robot is ready to play."
+            "en":"First, turn on the brain. Once the switch is up, the circle will light up around the Revolution Robotics logo. When the full circle is flashing, you will hear a buzzing sound which means your robot is ready to play."
          },
          "challengeType":"vertical"
       },
@@ -41,7 +41,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"Now, please click on 'Revvy' card. "
+            "en":"Now, please click on the 'Revvy' card."
          },
          "challengeType":"vertical"
       },
@@ -80,7 +80,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"Now you have your controller. On the left you can find the button which will help you to lead Revvy."
+            "en":"Now your controller is active. On the left you can find the button which will help you to navigate Revvy."
          },
          "challengeType":"vertical"
       },
@@ -90,7 +90,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"To move Revvy forward keep your thumb on the button and move it upward."
+            "en":"To move Revvy forward, keep your thumb on the button and move it upward."
          },
          "challengeType":"vertical"
       },      {
@@ -129,7 +129,7 @@
             "en":"Let's ride now!"
          },
          "description":{
-            "en":"You can see some more buttons on this screen, they will be used later on when you are ready to program your robot. However, the top right one has already been coded. Let's see what happens when you push it. Yee-haw!!!"
+            "en":"You can see some more buttons on this screen, they will be used later on when you are ready to program your robot. However, the top button on the right has already been coded. Let's see what happens when you push it. Yee-haw!!!"
          },
          "challengeType":"vertical"
       },

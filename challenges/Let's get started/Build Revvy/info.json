@@ -11,7 +11,7 @@
             "en":"Let's get started!"
          },
          "description":{
-            "en":"In this challenge you will learn how to build Revvy, your robot. Besides this challenge, you can also find Revvy's build instructions at the bottom of the Challenge Kit Parts Poster."
+            "en":"This Challenge provides instructions to build a simply robot: Revvy. The same robot is shown on your Parts Poster."
          },
          "challengeType":"horizontal"
       },
@@ -269,7 +269,7 @@
             "en":"Good job!"
          },
          "description":{
-            "en":"Well done, now you have Revvy, your robot in your hands. Together you have plenty of exciting adventures ahead whenever you find the time for discovery. Let's get the most out of the countless opportunities you have!"
+            "en":"Well done! You have built Revvy!\nAre your ready to take Revvy for a drive?"
          },
          "challengeType":"horizontal"
       }

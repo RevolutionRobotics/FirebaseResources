@@ -219,7 +219,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"First, we use a 20-teeth-gear as a drive gear to move the wheel. While checking the arrow on the tyre, let's count how many rounds the wheel turns with one spin of the handle."
+            "en":"First, we use a 20-teeth-gear as a driver gear to move the wheel. While checking the arrow on the tyre, let's count how many rounds the wheel turns with one spin of the handle."
          },
          "challengeType":"horizontal"
       },
@@ -239,7 +239,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"Now let's swap the drive gear to a 40-teeth-gear. How many rounds does the wheel turn with one spin of the handle?"
+            "en":"Now let's swap the driver gear to a 40-teeth-gear. How many rounds does the wheel turn with one spin of the handle?"
          },
          "challengeType":"horizontal"
       },
@@ -249,7 +249,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"If the drive gear is two times bigger than the follow gear, it will double its speed, so the wheel will run twice as fast. In other words, with one spin of the handle our wheel will run two full circles.<br/>40/20=2<br/>2x20=40"
+            "en":"If the driver gear is two times bigger than the driven gear, it will double its speed, so the wheel will run twice as fast. In other words, with one spin of the handle our wheel will run two full circles.<br/>40/20=2<br/>2x20=40"
          },
          "challengeType":"horizontal"
       }, 
@@ -269,7 +269,7 @@
             "en":"Let's gear up!"
          },
          "description":{
-            "en":"If the drive gear has three times as many teeth as the follow gear, it will triple its speed, so with one spin of the handle our wheel will rotate three full circles.<br/>60/20=3<br/>3x20=60"
+            "en":"If the driver gear has three times as many teeth as the driven gear, it will triple its speed, so with one spin of the handle our wheel will rotate three full circles.<br/>60/20=3<br/>3x20=60"
          },
          "challengeType":"horizontal"
       }, 
@@ -289,7 +289,7 @@
             "en":"Let us challenge you now!"
          },
          "description":{
-            "en":"How many rounds does the wheel rotate if we attach a 60-teeth-gear (drive gear) to a 40-teeth-gear (follow gear)?"
+            "en":"How many rounds does the wheel rotate if we attach a 60-teeth-gear (driver gear) to a 40-teeth-gear (driven gear)?"
          },
          "challengeType":"horizontal"
       }, 

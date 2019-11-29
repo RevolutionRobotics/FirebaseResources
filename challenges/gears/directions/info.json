@@ -41,7 +41,7 @@
             "en":"Directions"
          },
          "description":{
-            "en":"Gear train: the second gear (follow gear) will rotate in the opposite direction of the first gear (drive gear)"
+            "en":"Gear train: the second gear (driven gear) will rotate in the opposite direction of the first gear (driver gear)"
          },
          "challengeType":"horizontal"
       },
@@ -51,7 +51,7 @@
             "en":"Directions"
          },
          "description":{
-            "en":"Now let's use another gear. The direction will change again, the new follow gear will rotate in the same direction as the drive gear."
+            "en":"Now let's use another gear. The direction will change again, the new driven gear will rotate in the same direction as the driver gear. The second gear between the driver gear and the driven gear is called the idler gear."
          },
          "challengeType":"horizontal"
       },
@@ -90,7 +90,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"In the same direction as the drive gear."
+            "en":"In the same direction as the driver gear."
          },
          "challengeType":"vertical"
       },

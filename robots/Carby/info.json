@@ -1,0 +1,68 @@
+{
+    "id": "c92b9a90-e069-11e9-9d36-2a2ae2dbcce4",
+    "buildTime": "90m",
+    "description": {
+        "en": "Carby can grab and shoot balls"
+    },
+    "name": {
+        "en": "Carby"
+    },
+    "order": 1,
+    "configuration": {
+        "id": "c2eb9436-32eb-4907-b123-6dd75770d3a3",
+        "mapping": {
+            "M1": {
+                "reversed": false,
+                "side": "left",
+                "type": "drive",
+                "variableName": "drive1"
+            },
+            "M2": {
+                "reversed": false,
+                "side": "left",
+                "type": "motor",
+                "variableName": "lift"
+            },
+            "M3": {
+                "reversed": false,
+                "side": "right",
+                "type": "motor",
+                "variableName": "gripper"
+            },
+            "M4": {
+                "reversed": false,
+                "side": "right",
+                "type": "drive",
+                "variableName": "drive4"
+            },
+            "M5": {
+                "reversed": false,
+                "side": "right",
+                "type": "motor",
+                "variableName": "shooter"
+            },
+            "S3": {
+                "type": "distance",
+                "variableName": "distance"
+            }
+        },
+        "controller": {
+            "id": "3e507edc-b601-4877-9720-308860fac27a",
+            "description": {
+                "en": "desc"
+            },
+            "joystickPriority": 1,
+            "lastModified": 1557908790,
+            "mapping": {
+                "b1": {
+                    "priority": 2,
+                    "programId": "8732422b-1f24-416d-99e8-fd8148272bcf"
+                }
+            },
+            "name": {
+                "en": "Carby controller"
+            },
+            "type": "gamer"
+        }
+    }
+}

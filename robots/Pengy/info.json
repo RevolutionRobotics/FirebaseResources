@@ -1,0 +1,50 @@
+{
+    "id": "d32b9a90-e069-11e9-9d36-2a2ae2dbcce4",
+    "buildTime": "20m",
+    "description": {
+        "en": "The cute penguin robot"
+    },
+    "name": {
+        "en": "Pengy"
+    },
+    "order": 1,
+    "configuration": {
+        "id": "c2eb9436-32eb-4907-b123-6dd7997993a3",
+        "mapping": {
+            "M1": {
+                "reversed": false,
+                "side": "left",
+                "type": "drive",
+                "variableName": "drive1"
+            },
+            "M4": {
+                "reversed": false,
+                "side": "right",
+                "type": "drive",
+                "variableName": "drive4"
+            },
+            "S3": {
+                "type": "distance",
+                "variableName": "distance"
+            }
+        },
+        "controller": {
+            "id": "3e507edc-b601-4877-9720-310990fac27a",
+            "description": {
+                "en": "desc"
+            },
+            "joystickPriority": 1,
+            "lastModified": 1557908800,
+            "mapping": {
+                "b1": {
+                    "priority": 2,
+                    "programId": "e0a7e2ae-2c4e-4837-927f-ca4e1283d990"
+                }
+            },
+            "name": {
+                "en": "Pengy controller"
+            },
+            "type": "gamer"
+        }
+    }
+}

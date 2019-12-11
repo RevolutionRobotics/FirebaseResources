@@ -1,0 +1,17 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+    <block type="block_drive" id="C7r7KgWnA4Ir06JeA5Pt" x="101" y="76">
+        <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+        <field name="UNIT_ROTATION_SELECTOR">Motor.UNIT_SEC</field>
+        <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+        <value name="ROTATION">
+            <shadow type="math_number" id="bHZB8C0PcOiO80tZtkKO">
+                <field name="NUM">3</field>
+            </shadow>
+        </value>
+        <value name="SPEED_SLIDER">
+            <shadow type="math_number" id="fHWabYF6wHreKM0zvXcu">
+                <field name="NUM">95</field>
+            </shadow>
+        </value>
+    </block>
+</xml>

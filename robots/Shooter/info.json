@@ -1,11 +1,11 @@
 {
     "id": "d32b9a90-e069-11e9-9d36-123ae2dbcce4",
-    "buildTime": "20m",
+    "buildTime": "40m",
     "description": {
-        "en": "The cute penguin robot"
+        "en": "You can shoot ping pong balls with this robot!"
     },
     "name": {
-        "en": "Pengy"
+        "en": "Shooter"
     },
     "order": 1,
     "configuration": {

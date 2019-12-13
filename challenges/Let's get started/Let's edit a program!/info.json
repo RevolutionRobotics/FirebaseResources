@@ -41,7 +41,7 @@
             "en":"Challenge time"
          },
          "description":{
-            "en":"Edit the existing program to start with 'play tune' then drive for six seconds forward.<br/>Next, let's have a full cirle to the right that repeats 2 times.<br/>Now let's create a 2-second-long pause.<br/>Finally move your robot backward for 4 seconds.<br/>Play the tune again at the end."
+            "en":"Edit the existing program to start with 'play tune' then drive for six seconds forward.<br/>Next, let's have a full cirle to the right that repeats for two times.<br/>Now let's create a 2-second-long pause.<br/>Finally move your robot backward for four seconds.<br/>Play the tune again at the end."
          },
          "challengeType":"vertical"
       },
@@ -61,7 +61,7 @@
             "en":"Editing a program"
          },
          "description":{
-            "en":"Once you finished editing the program, let's save it by clicking on the floppy icon. Give it a name of your choice. We saved it as 'Program edit'."   
+            "en":"Once you finished editing the program, let's save it by clicking on the save icon. Give it a name of your choice. We saved it as 'Program edit'."   
          },      
          "challengeType":"vertical"
       },
@@ -71,7 +71,7 @@
             "en":"Editing a program"
          },
          "description":{
-            "en":"You can reach the main menu by clicking on the arrow in the top left corner. Choose robots card in the main menu."
+            "en":"You can reach Home Screen by clicking on the arrow in the top left corner. Choose robots card in the main menu."
          },
          "challengeType":"vertical"
       },
@@ -91,7 +91,7 @@
             "en":"Editing a program"
          },
          "description":{
-            "en":"First, you will see the 'Configure' map, let's choose 'Controller' here by clicking on it."
+            "en":"First, you will see the 'Configure' map. However, we need to choose 'Controller' now by clicking on it."
          },
          "challengeType":"vertical"
       },      {

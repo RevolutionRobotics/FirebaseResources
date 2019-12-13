@@ -41,7 +41,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Now let's make the first steps. Move Revvy forward for 2 seconds."
+            "en":"Now let's make the first steps. Move Revvy forward for two seconds."
          },
          "challengeType":"vertical"
       },
@@ -91,7 +91,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Move backward for 3 seconds "
+            "en":"Move backward for three seconds "
          },
          "challengeType":"vertical"
       },    

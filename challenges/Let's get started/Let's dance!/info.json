@@ -6,7 +6,7 @@
    "order":5,
    "steps":[
       {
-         "id":"5ba0e899-582b-4a72-bc97-2870546a25ca",
+         "id":"d8dd34e9-e758-4ead-8caa-dce4ecafd647",
          "title":{
             "en":"Let's dance!"
          },
@@ -16,7 +16,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"6a4539b0-688c-4fa7-a75d-3b157e76bdd1",
+         "id":"cca0555b-f995-448f-9fac-fa30ef4fa57e",
          "title":{
             "en":"Let's dance!"
          },
@@ -26,7 +26,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"6a4539b0-688c-4fa7-a75d-3b157e76bdd1",
+         "id":"bfa87ee6-5bb7-41eb-8024-836be77fb435",
          "title":{
             "en":"Let's dance!"
          },

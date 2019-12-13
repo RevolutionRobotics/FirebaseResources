@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="block_stop_motor" id="Qv3Bgi7aSp5RgBS9KO6j" x="57" y="75">
+      <field name="NAME_INPUT">motor3</field>
+      <field name="STOP_ACTION_SELECTOR">Motor.ACTION_RELEASE</field>
+      <next>
+         <block type="block_stop_motor" id="lG9TxzQtGj1uLw63pnpl">
+            <field name="NAME_INPUT">motor6</field>
+            <field name="STOP_ACTION_SELECTOR">Motor.ACTION_RELEASE</field>
+         </block>
+      </next>
+   </block>
+</xml>

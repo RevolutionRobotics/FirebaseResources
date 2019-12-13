@@ -43,10 +43,34 @@
             "lastModified": 1557908790,
             "mapping": {
                 "b1": {
-                    "priority": 2,
-                    "programId": "2334d766-dba0-4344-9e57-edc7ce151cd7"
+                    "priority": 5,
+                    "programId": "52faf09e-1d97-11ea-978f-2e728ce88125"
+                },
+                "b2": {
+                    "priority": 6,
+                    "programId": "52faf206-1d97-11ea-978f-2e728ce88125"
+                },
+                "b3": {
+                    "priority": 7,
+                    "programId": "52faf346-1d97-11ea-978f-2e728ce88125"
+                },
+                "b4": {
+                    "priority": 8,
+                    "programId": "52faf47c-1d97-11ea-978f-2e728ce88125"
+                },
+                "b5": {
+                    "priority": 4,
+                    "programId": "52faeb44-1d97-11ea-978f-2e728ce88125"
+                },
+                "b6": {
+                    "priority": 3,
+                    "programId": "52faedce-1d97-11ea-978f-2e728ce88125"
                 }
             },
+            "backgroundProgramBindings": [{
+                "programId": "52faf5b2-1d97-11ea-978f-2e728ce88125",
+                "priority": 2
+            }],
             "name": {
                 "en": "Crabby controller"
             },

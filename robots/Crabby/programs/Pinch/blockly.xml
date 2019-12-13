@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="spin_motor" id="67vC5sYYd32l79HSvgbq" x="22" y="76">
+      <field name="NAME_INPUT">motor3</field>
+      <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+      <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+      <value name="ROTATION_SLIDER">
+         <shadow type="math_number" id="skfgJJFv6EjQoit0yHOK">
+            <field name="NUM">50</field>
+         </shadow>
+      </value>
+      <next>
+         <block type="spin_motor" id="GCKzL07JRg5n4eVaiIeh">
+            <field name="NAME_INPUT">motor6</field>
+            <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+            <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+            <value name="ROTATION_SLIDER">
+               <shadow type="math_number" id="2ty9H8r7Q3WRKcyiaQGM">
+                  <field name="NUM">50</field>
+               </shadow>
+            </value>
+         </block>
+      </next>
+   </block>
+</xml>

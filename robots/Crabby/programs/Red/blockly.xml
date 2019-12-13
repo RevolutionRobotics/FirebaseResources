@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="block_set_multiple_led" id="vkkUhEp0WXChIEII2AlW" x="-110" y="20">
+      <field name="LED_IDS">1,2,3,4,5,6,7,8,9,10,11,12</field>
+      <value name="COLOR">
+         <shadow type="colour_picker" id="LAzZSkJpTVZeywKNtqHe">
+            <field name="COLOUR">#ff0000</field>
+         </shadow>
+      </value>
+   </block>
+</xml>

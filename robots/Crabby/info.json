@@ -1,6 +1,6 @@
 {
     "id": "6c54b16e-9add-487c-a055-45a7ac228af4",
-    "buildTime": "0.5 h",
+    "buildTime": "3h",
     "description": {
         "en": "It's a crab!"
     },
@@ -11,23 +11,11 @@
     "configuration": {
         "id": "87a54d2d-4fd5-4134-81d9-d727b8b481c2",
         "mapping": {
-            "M1": {
+            "M3": {
                 "reversed": false,
                 "side": "left",
-                "type": "drive",
-                "variableName": "drive1"
-            },
-            "M2": {
-                "reversed": false,
-                "side": "left",
-                "type": "drive",
-                "variableName": "drive2"
-            },
-            "M4": {
-                "reversed": false,
-                "side": "right",
-                "type": "drive",
-                "variableName": "drive4"
+                "type": "motor",
+                "variableName": "motor3"
             },
             "M5": {
                 "reversed": false,
@@ -35,11 +23,13 @@
                 "type": "drive",
                 "variableName": "drive5"
             },
-            "S1": {
-                "type": "bumper",
-                "variableName": "bumper"
+            "M6": {
+                "reversed": false,
+                "side": "left",
+                "type": "motor",
+                "variableName": "motor6"
             },
-            "S4": {
+            "S1": {
                 "type": "distance",
                 "variableName": "distance"
             }

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="block_motor" id="wjMMxdMwFydEFhy7w2GT" x="11" y="-39">
+      <field name="NAME_INPUT">shooter</field>
+      <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+      <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_SEC</field>
+      <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_PWR</field>
+      <value name="AMOUNT">
+         <shadow type="math_number" id="GI7ghVRaHQ3WRngg8qG9">
+            <field name="NUM">0.1</field>
+         </shadow>
+      </value>
+      <value name="LIMIT_SLIDER">
+         <shadow type="math_number" id="tqEk8YBIEXDC1VKnh6PO">
+            <field name="NUM">100</field>
+         </shadow>
+      </value>
+      <next>
+         <block type="block_wait" id="e98AmoR7H96NtKAoRiCO">
+            <value name="WAIT">
+               <shadow type="math_number" id="zWjut8XG8LN6lmnG2yZz">
+                  <field name="NUM">1</field>
+               </shadow>
+            </value>
+            <next>
+               <block type="block_motor" id="L7O8sFpjkFq8l24kRIY8">
+                  <field name="NAME_INPUT">shooter</field>
+                  <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+                  <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_SEC</field>
+                  <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_PWR</field>
+                  <value name="AMOUNT">
+                     <shadow type="math_number" id="lqZ3OI1V9gEZf4PYE76E">
+                        <field name="NUM">1</field>
+                     </shadow>
+                  </value>
+                  <value name="LIMIT_SLIDER">
+                     <shadow type="math_number" id="VzKL92jGLFZs90PA4mB6">
+                        <field name="NUM">20</field>
+                     </shadow>
+                  </value>
+               </block>
+            </next>
+         </block>
+      </next>
+   </block>
+</xml>

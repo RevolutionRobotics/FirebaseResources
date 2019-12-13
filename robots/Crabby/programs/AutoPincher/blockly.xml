@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="block_repeat_forever" id="GKPD5umhOVamBgQ5IfFv" x="63" y="94">
+      <statement name="STATEMENT">
+         <block type="if_then" id="gPiZOsB2eM8TgOxh7bAN">
+            <value name="COND">
+               <block type="logic_compare2" id="eY8GlCHJJJ8Cen7v6tGu">
+                  <field name="LOGIC_SELECTOR">LT</field>
+                  <value name="A">
+                     <block type="block_ultrasonic_sensor" id="PsQNZGAPCIkyOITx1ebE">
+                        <field name="NAME_INPUT">distance</field>
+                     </block>
+                  </value>
+                  <value name="B">
+                     <shadow type="math_number" id="bWA12UAnTXPln6FIKHLj">
+                        <field name="NUM">50</field>
+                     </shadow>
+                  </value>
+               </block>
+            </value>
+            <statement name="IN_IF">
+               <block type="spin_motor" id="orzauY1ifJjWRlpp2fa8">
+                  <field name="NAME_INPUT">motor3</field>
+                  <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+                  <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+                  <value name="ROTATION_SLIDER">
+                     <shadow type="math_number" id="D9lYWfC3EjXuxWNbYy3N">
+                        <field name="NUM">50</field>
+                     </shadow>
+                  </value>
+                  <next>
+                     <block type="spin_motor" id="DYs0DlRuq0diAG9FXfye">
+                        <field name="NAME_INPUT">motor6</field>
+                        <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+                        <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+                        <value name="ROTATION_SLIDER">
+                           <shadow type="math_number" id="NepiQ7eAQ9IlIRCtSQ0D">
+                              <field name="NUM">50</field>
+                           </shadow>
+                        </value>
+                        <next>
+                           <block type="block_wait" id="9s8YwKGOwX4qK5CiHH3y">
+                              <value name="WAIT">
+                                 <shadow type="math_number" id="xhgoZLogqBiSHmgVwBlu">
+                                    <field name="NUM">5</field>
+                                 </shadow>
+                              </value>
+                              <next>
+                                 <block type="block_stop_motor" id="EInc4gMTGjV4HRp0nPmF">
+                                    <field name="NAME_INPUT">motor3</field>
+                                    <field name="STOP_ACTION_SELECTOR">Motor.ACTION_RELEASE</field>
+                                    <next>
+                                       <block type="block_stop_motor" id="1pJdiFau8SqNJQrftNuR">
+                                          <field name="NAME_INPUT">motor6</field>
+                                          <field name="STOP_ACTION_SELECTOR">Motor.ACTION_RELEASE</field>
+                                       </block>
+                                    </next>
+                                 </block>
+                              </next>
+                           </block>
+                        </next>
+                     </block>
+                  </next>
+               </block>
+            </statement>
+         </block>
+      </statement>
+   </block>
+</xml>
+

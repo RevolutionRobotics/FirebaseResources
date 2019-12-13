@@ -21,7 +21,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Also, you can find Revvy's configuration within your app, too, in case you plan to build your robot again anytime in the future. To find the steps, you just need to click on the 'robots' card in the main menu."
+            "en":"Also, you can find Revvy's configuration within your app, too, in case you plan to build your robot again anytime in the future. To find the steps, you just need to click on the 'robots' card within the Home Screen."
          },
          "challengeType":"vertical"
       },
@@ -41,7 +41,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Finally, you need to click on the 'Revvy' card to find the steps of configuration. "
+            "en":"Finally, you need to click on the 'Revvy' card to find the build flow. "
          },
          "challengeType":"vertical"
       },

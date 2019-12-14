@@ -15,15 +15,15 @@
                 "reversed": false,
                 "side": "left",
                 "type": "motor",
-                "variableName": "motor2"
+                "variableName": "left"
             },
             "M5": {
                 "reversed": false,
                 "side": "right",
                 "type": "motor",
-                "variableName": "motor5"
+                "variableName": "right"
             },
-            "S3": {
+            "S1": {
                 "type": "bumper",
                 "variableName": "bumper"
             }
@@ -35,14 +35,12 @@
             },
             "joystickPriority": 1,
             "lastModified": 1557908990,
-            "mapping": {
-                "b1": {
-                    "priority": 2,
-                    "programId": "e0a7e2ae-2c4e-4837-927f-ca321283d990"
-                }
-            },
+            "backgroundProgramBindings": [{
+                "programId": "e0a7e2ae-2c4e-4837-927f-ca321283d990",
+                "priority": 2
+            }],
             "name": {
-                "en": "Pengy controller"
+                "en": "Shooter controller"
             },
             "type": "gamer"
         }

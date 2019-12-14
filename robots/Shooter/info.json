@@ -23,7 +23,7 @@
                 "type": "motor",
                 "variableName": "right"
             },
-            "S1": {
+            "S3": {
                 "type": "bumper",
                 "variableName": "bumper"
             }

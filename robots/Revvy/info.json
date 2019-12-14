@@ -39,6 +39,10 @@
                 "b1": {
                     "priority": 2,
                     "programId": "8732422b-1f24-416d-99e8-fd8148272bcf"
+                }, 
+                "b2": {
+                    "priority": 3,
+                    "programId": "b9b7f827-d594-4f5e-b34e-ab737ce3e7ac"
                 }
             },
             "name": {

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="block_repeat_forever" id="K2EKYn3aEj41sgGtO4S5" x="182" y="100">
+      <statement name="STATEMENT">
+         <block type="if_then_else" id="YjdGaFF2YGpb15wd7gH4">
+            <value name="COND">
+               <block type="logic_compare2" id="VU9AyQzGZO3WmRO3JvNA">
+                  <field name="LOGIC_SELECTOR">LT</field>
+                  <value name="A">
+                     <block type="block_ultrasonic_sensor" id="FGRIuTWpcYi3ex2FpWuF">
+                        <field name="NAME_INPUT">distance</field>
+                     </block>
+                  </value>
+                  <value name="B">
+                     <shadow type="math_number" id="HCjqwG1z4pov2YxRjezr">
+                        <field name="NUM">15</field>
+                     </shadow>
+                  </value>
+               </block>
+            </value>
+            <statement name="IN_IF">
+               <block type="block_drive" id="UTyN5dmWJQGER5QN8JbC">
+                  <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+                  <field name="UNIT_ROTATION_SELECTOR">Motor.UNIT_SEC</field>
+                  <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+                  <value name="ROTATION">
+                     <shadow type="math_number" id="1d3zPMv9ZlvBaEZnUZNK">
+                        <field name="NUM">1</field>
+                     </shadow>
+                  </value>
+                  <value name="SPEED_SLIDER">
+                     <shadow type="math_number" id="hxXnVCoUvbY1zlLT8K0y">
+                        <field name="NUM">100</field>
+                     </shadow>
+                  </value>
+                  <next>
+                     <block type="block_turn" id="KJQBAMUBxewWxBTuwa7l">
+                        <field name="DIRECTION_SELECTOR">Motor.DIRECTION_RIGHT</field>
+                        <field name="UNIT_ROTATION_SELECTOR">Motor.UNIT_TURN_ANGLE</field>
+                        <value name="ROTATION">
+                           <shadow type="math_number" id="wchwjf9fpwM0pD3iTsa8">
+                              <field name="NUM">22.5</field>
+                           </shadow>
+                        </value>
+                        <value name="SPEED_SLIDER">
+                           <shadow type="math_number" id="dcC9IiBq5tG7ieONBO6x">
+                              <field name="NUM">75</field>
+                           </shadow>
+                        </value>
+                     </block>
+                  </next>
+               </block>
+            </statement>
+            <statement name="IN_ELSE">
+               <block type="block_set_speed" id="fbWyJ40b6BJujIFKkXHF">
+                  <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+                  <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+                  <value name="SPEED_SLIDER">
+                     <shadow type="math_number" id="V70zHMhz6CH5xvLUXm2T">
+                        <field name="NUM">40</field>
+                     </shadow>
+                  </value>
+               </block>
+            </statement>
+         </block>
+      </statement>
+   </block>
+</xml>

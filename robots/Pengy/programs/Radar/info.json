@@ -1,0 +1,9 @@
+{
+    "id": "d975815c-2012-11ea-978f-2e728ce88125",
+    "name": {
+        "en": "Radar"
+    },
+    "description": {
+        "en": "Shows the distance on the LEDs."
+    }
+}

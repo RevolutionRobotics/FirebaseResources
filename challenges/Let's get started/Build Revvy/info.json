@@ -11,7 +11,7 @@
             "en":"Let's get started!"
          },
          "description":{
-            "en":"This Challenge provides instructions to build a simply robot: Revvy. The same robot is shown on your Parts Poster."
+            "en":"In this challenge you will learn how to build and configurate Revvy, your robot. Besides this challenge, you can also find Revvy's build instructions at the bottom of the Challenge Kit Parts Poster."
          },
          "challengeType":"horizontal"
       },
@@ -21,7 +21,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Also, you can find Revvy's configuration within your app, too, in case you plan to build your robot again anytime in the future. To find the steps, you just need to click on the 'robots' card within the Home Screen."
+            "en":"Also, you can find Revvy's building instructions within your app, too, in case you plan to build your robot again anytime in the future. To find the steps, you just need to click on the 'robots' card in the main menu."
          },
          "challengeType":"vertical"
       },
@@ -41,7 +41,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Finally, you need to click on the 'Revvy' card to find the build flow. "
+            "en":"Finally, you need to click on the 'Revvy' card to find the steps of configuration. "
          },
          "challengeType":"vertical"
       },
@@ -269,9 +269,159 @@
             "en":"Good job!"
          },
          "description":{
-            "en":"Well done! You have built Revvy!\nAre your ready to take Revvy for a drive?"
+            "en":"Well done! You have built Revvy! Before taking your robot for a drive, let's learn a bit about its configuration, too."
          },
          "challengeType":"horizontal"
+      },
+      {
+         "id":"927cdd22-532d-4a4a-be77-ed1ebd9fb59d",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"On the Home Screen click on 'robots'."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"60be7d46-800e-4b20-bf9b-252b77d479a2",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"Select Revvy (or the robot you are about to configurate) and click on the pencil icon at the right bottom corner. "
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"fc5c2fd7-b520-42c8-b54e-dd2432879db6",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"Here you can see the brain and the configuration map."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"31f28023-493a-452f-812c-1e6947740627",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"You have got six motor outputs signed as M1, M2, M3, M4, M5 and M6. "
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"1811f94a-3c7a-4b34-ae2a-963590181b8b",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"You can also find four sensor inputs, they are signed as S1, S2, S3 and S4."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"5a8c70dc-ca0b-43a9-91e7-a32d0f61dc57",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"If you want to configurate a motor output, you need to click on the one you are about to configurate. Let's choose M1 as an example."   
+         },      
+         "challengeType":"vertical"
+      },
+      {
+         "id":"ae5d54cd-5efc-4408-b82d-400db0fa2e15",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"First, you will see it marked as 'empty'. Here you can choose from 'Drive' and Motor' icons. Let's click on 'Drive' first."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"9a466e1a-a88e-44dc-a89b-e3d1f915adbc",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"You can see two options here, left and right. Choose one of them to decide which side is to be configurated. However, please note, that all the drive-configurated motors make a unit, they work together in sync."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"79a9fbff-cd4e-4bee-bf77-ce1b03dcf018",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"Once you have chosen the side, you need to press 'Done'."
+         },
+         "challengeType":"vertical"
+      },      
+      {
+         "id":"dddb757d-b6e4-42eb-8362-416924415d8b",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"You can see that M1 has been configurated. Now let's play with the sensor inputs. First, click on one of them."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"9865c3ed-31a1-4890-8b38-1f0c18d3cd29",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"Originally these inputs are empty. You can leave them this way, or configurate them by clicking on 'Bumper' or 'Distance'. These configurations can work separately on their own."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"bb3759b4-be00-41e8-a507-f88c0a46dbc8",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"If you choose 'Bumper', you can configurate the bumper button from your kit. In this case, you will need to attach the button to the configurated input, S1 in our example. Connect the button with the input by using a cable and use pins too to attach it to Revvy. Press 'Done' to activate the sensor."
+         },
+         "challengeType":"vertical"
+      },
+     {
+         "id":"88fdee7e-aca0-4743-83f8-5fa8fc4b1c20",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"By choosing 'Distance' you can configurate Revvy's eye sensors. Press 'Done' for activation."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"8483e76e-671a-4164-8875-4a69f8c96d51",
+         "title":{
+            "en":"Configuration"
+         },
+         "description":{
+            "en":"You can see that M1 and S1 are configurated now. You can continue working on the other inputs and outputs as well. When you are done, just press Play. How exciting! Let's do this!"
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"2b0ff9de-98f5-400b-b084-cbdd3c1f09de",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
       }
 ]
 }

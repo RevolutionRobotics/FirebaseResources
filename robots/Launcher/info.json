@@ -2,10 +2,10 @@
     "id": "d32b9a90-e069-11e9-9d36-123ae2dbcce4",
     "buildTime": "40m",
     "description": {
-        "en": "You can shoot ping pong balls with this robot!"
+        "en": "You can launch ping pong balls with this robot!"
     },
     "name": {
-        "en": "Shooter"
+        "en": "Launcher"
     },
     "order": 1,
     "configuration": {
@@ -40,7 +40,7 @@
                 "priority": 2
             }],
             "name": {
-                "en": "Shooter controller"
+                "en": "Launcher controller"
             },
             "type": "gamer"
         }

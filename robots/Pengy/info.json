@@ -28,6 +28,10 @@
                 "variableName": "distance"
             }
         },
+        "backgroundProgramBindings": [{
+                "programId": "d975815c-2012-11ea-978f-2e728ce88125",
+                "priority": 2
+            }],
         "controller": {
             "id": "3e507edc-b601-4877-9720-310990fac27a",
             "description": {
@@ -37,8 +41,12 @@
             "lastModified": 1557908800,
             "mapping": {
                 "b1": {
-                    "priority": 2,
+                    "priority": 3,
                     "programId": "e0a7e2ae-2c4e-4837-927f-ca4e1283d990"
+                },
+                "b5": {
+                    "priority": 4,
+                    "programId": "d97583aa-2012-11ea-978f-2e728ce88125"
                 }
             },
             "name": {

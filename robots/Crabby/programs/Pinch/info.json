@@ -5,5 +5,9 @@
     },
     "description": {
         "en": "Start the pinchers"
-    }
+    },
+    "variables":[
+        "motor3",
+        "motor6"
+    ]
 }

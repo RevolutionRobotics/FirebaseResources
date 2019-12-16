@@ -5,5 +5,8 @@
     },
     "description": {
         "en": "Shoots the ball."
-    }
+    },
+    "variables":[
+        "shooter"
+    ]
 }

@@ -5,5 +5,8 @@
     },
     "description": {
         "en": "Closes the claw."
-    }
+    },
+    "variables":[
+        "gripper"
+    ]
 }

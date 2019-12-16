@@ -5,5 +5,7 @@
     },
     "description": {
         "en": "Raise the arm."
-    }
+    }, "variables":[
+        "lift"
+    ]
 }

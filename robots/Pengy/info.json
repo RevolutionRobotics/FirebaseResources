@@ -28,10 +28,6 @@
                 "variableName": "distance"
             }
         },
-        "backgroundProgramBindings": [{
-                "programId": "d975815c-2012-11ea-978f-2e728ce88125",
-                "priority": 2
-            }],
         "controller": {
             "id": "3e507edc-b601-4877-9720-310990fac27a",
             "description": {
@@ -49,6 +45,10 @@
                     "programId": "d97583aa-2012-11ea-978f-2e728ce88125"
                 }
             },
+            "backgroundProgramBindings": [{
+                "programId": "d975815c-2012-11ea-978f-2e728ce88125",
+                "priority": 2
+            }],
             "name": {
                 "en": "Pengy controller"
             },

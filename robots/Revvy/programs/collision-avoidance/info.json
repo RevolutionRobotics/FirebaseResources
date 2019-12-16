@@ -1,0 +1,9 @@
+{
+    "id": "6cf13aae-5f7f-408d-aa8e-acfce778b85b",
+    "name": {
+        "en": "collision-avoidance"
+    },
+    "description": {
+        "en": "Automatically up a little if close to obstackle"
+    }
+}

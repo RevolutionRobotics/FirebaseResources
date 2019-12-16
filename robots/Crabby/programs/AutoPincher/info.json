@@ -5,5 +5,10 @@
     },
     "description": {
         "en": "Start pinching based on distance."
-    }
+    },
+    "variables":[
+        "distance",
+        "motor3",
+        "motor6"
+    ]
 }

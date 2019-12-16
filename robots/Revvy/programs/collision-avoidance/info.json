@@ -5,5 +5,8 @@
     },
     "description": {
         "en": "Automatically up a little if close to obstackle"
-    }
+    },
+    "variables":[
+        "distance"
+    ]
 }

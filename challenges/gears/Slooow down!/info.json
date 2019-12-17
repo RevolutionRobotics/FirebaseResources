@@ -21,7 +21,7 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"For this challenge you will need the same model what we used in the previous challenge."
+            "en":"For this challenge you will need the same model what we used during the previous challenge."
          },
          "challengeType":"horizontal"
       },
@@ -51,7 +51,7 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"Let's see what happens if we swap the gears. For a start, let's use a 40-tooth-gear as a driven gear and a 20-tooth-gear as a driver gear first."
+            "en":"Now let's see what happens if we swap the gears. First, let's use a 40-tooth-gear as a driven gear and a 20-tooth-gear as a driver gear."
          },
          "challengeType":"horizontal"
       },
@@ -61,16 +61,17 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"If the driver gear is is half times smaller than the driven gear, it will halve its speed, so the wheel will run 50% slower. In other words, with one spin of the handle, our wheel will rotate a half circle.br\20/40=0.5br\0.5x40=20"
+            "en":"If the driver gear is is half times smaller than the driven gear, it will halve its speed, so the wheel will run 50% slower. In other words, with one spin of the handle, our wheel will rotate a half circle.br/20/40=0.5br/0.5x40=20"
          },
          "challengeType":"horizontal"
-      },      {
+      },      
+      {
          "id":"8000a302-86c8-47dc-8ca6-733e5f768cda",
          "title":{
             "en":"Slowing down"
          },
          "description":{
-            "en":"Now let's use a 60-tooth-gear as a driven gear with a 20-tooth-gear to move the wheel even slower. How many rounds does the wheel turn with one spin of the handle?"
+            "en":"Now let's use a 60-tooth-gear as a driven gear with a 20-tooth-gear driver gear to move the wheel even slower. How many rounds does the wheel turn with one spin of the handle?"
          },
          "challengeType":"horizontal"
       },
@@ -80,7 +81,7 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times. Our wheel wil rotate a 0.33 circle with one spin of a handle.br\20/60=0.33br\0.33x60=20"
+            "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times. Our wheel will rotate a 0.33 circle with one spin of a handle.br/20/60=0.33br/0.33x60=20"
          },
          "challengeType":"horizontal"
       },
@@ -120,7 +121,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"The wheel rotates 0.66 rounds with one spin of the handle.br\40/60=0.66br\0.66x60=40"
+            "en":"The wheel rotates 0.66 rounds with one spin of the handle.br/40/60=0.66br/0.66x60=40"
          },
          "challengeType":"zoomable"
       },

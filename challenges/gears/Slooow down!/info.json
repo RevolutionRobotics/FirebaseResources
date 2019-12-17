@@ -123,7 +123,7 @@
          "description":{
             "en":"The wheel rotates 0.66 rounds with one spin of the handle.br/40/60=0.66br/0.66x60=40"
          },
-         "challengeType":"zoomable"
+         "challengeType":"horizontal"
       },
       {
          "id":"4e9fb0df-1d79-4019-98c7-9c592a74a95f",

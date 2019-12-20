@@ -61,7 +61,7 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"If the driver gear is is half times smaller than the driven gear, it will halve its speed, so the wheel will run 50% slower. In other words, with one spin of the handle, our wheel will rotate a half circle.br/20/40=0.5br/0.5x40=20"
+            "en":"If the driver gear is is half times smaller than the driven gear, it will halve its speed, so the wheel will run 50% slower. In other words, with one spin of the handle, our wheel will rotate a half circle.<br/>20/40=0.5<br/>0.5x40=20"
          },
          "challengeType":"horizontal"
       },      
@@ -81,7 +81,7 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times. Our wheel will rotate a 0.33 circle with one spin of a handle.br/20/60=0.33br/0.33x60=20"
+            "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times. Our wheel will rotate a 0.33 circle with one spin of a handle.<br/>20/60=0.33<br/>0.33x60=20"
          },
          "challengeType":"horizontal"
       },
@@ -121,7 +121,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"The wheel rotates 0.66 rounds with one spin of the handle.br/40/60=0.66br/0.66x60=40"
+            "en":"The wheel rotates 0.66 rounds with one spin of the handle.<br/>40/60=0.66<br/>0.66x60=40"
          },
          "challengeType":"horizontal"
       },

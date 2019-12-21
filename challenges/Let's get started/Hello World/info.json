@@ -140,7 +140,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Here we change the driving lenght to 4 seconds. To finish, click on OK."
+            "en":"Here we change the driving length to 4 seconds. To finish, click on OK."
          },
          "challengeType":"vertical"
       },
@@ -170,7 +170,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"We choose number 4 again. To apply, press OK."
+            "en":"Let's choose 4 again. To apply, press OK."
          },
          "challengeType":"vertical"
       },
@@ -240,7 +240,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"We change the original 90 degrees to 180, so a half circle."
+            "en":"Let's change the original 90 degrees to 180, so a half circle."
          },
          "challengeType":"vertical"
       },
@@ -290,7 +290,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Finally, let's play with th sensors! Once you clicked on the card, let's pick 'play tune'."
+            "en":"Finally, let's play with the sensors! Once you clicked on the card, let's pick 'play tune'."
          },
          "challengeType":"vertical"
       },
@@ -300,7 +300,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Once it is visible among your chosen programs, attach it at the end. Once you have your list of commands, you need to save your program. To do so, let's click on the save image."
+            "en":"Once it is visible among your chosen programs, attach it at the end. Once you have your list of commands, you need to save your program. To do so, let's click on the save icon."
          },
          "challengeType":"vertical"
       },
@@ -310,7 +310,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Next, you need to name your program. Tap in and type the name. You can also add its description as well if you wish."
+            "en":"Next, you need to name your program. Tap to edit the name and description."
          },
          "challengeType":"vertical"
       },
@@ -360,7 +360,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Now you are within the Controller Menu where you can find the programmed and empty buttons,too. You can add your program to any of the empty buttons by clicking onto 'empty'. Let's pick the first one this time."
+            "en":"Now you are within the Controller Menu where you can find the programmed and non-programmed buttons,too. You can add your program to any of the empty buttons by clicking onto 'empty'. Let's pick the first one this time."
          },
          "challengeType":"vertical"
       },      
@@ -380,7 +380,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Now your program is added to the button of your choice. let's click on the button!"
+            "en":"Now your program is added to the button of your choice. Let's click on the button!"
          },
          "challengeType":"vertical"
       },
@@ -390,7 +390,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Next, you will need to click on 'Start' as this message comes up."
+            "en":"Next, click Start as this message comes up."
          },
          "challengeType":"vertical"
       },
@@ -400,17 +400,7 @@
             "en":"Hello World"
          },
          "description":{
-            "en":"Your device will search for your robot via Bluetooth, so make sure both your robot and bluetooth on your device are on. If you have more robots, you need to choose the name identical with the serial number at the back of your robot. If you have one robot, just click on the one that appears, it must be the serial number of your robot, unless there's no other robot nearby."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"37b7fa76-50b7-42ba-8cbf-60a521aaef0e",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once you choose your robot, the following disappearing message will come up."
+            "en":"Your robot will appear on the Bluetooth list if it is turned green. If you have more than one robot, choose the name shown on the serial number at the back of the robot brain. If you only have one robot brain in the area, you should only see one serial number."
          },
          "challengeType":"vertical"
       },

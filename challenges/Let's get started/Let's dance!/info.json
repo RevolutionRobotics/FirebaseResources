@@ -111,7 +111,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Now do the same flow of steps again from moving forward for two seconds until the full circle."
+            "en":"Now do the same flow of steps again from moving forward for two seconds until you do a full circle."
          },
          "challengeType":"vertical"
       },
@@ -121,7 +121,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Finish the dance with play tune."
+            "en":"Finish the dance by pressing the 'play tune' button."
          },
          "challengeType":"vertical"
       },

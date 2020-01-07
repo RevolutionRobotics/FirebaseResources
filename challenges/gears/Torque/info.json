@@ -1,0 +1,108 @@
+{
+   "id":"c49aaa9d-9cd7-49a7-a270-b09da4a98cae",
+   "name":{
+      "en":"Torque"
+   },
+   "order": 4,
+   "steps":[
+      {
+         "id":"283bbb6d-c2b7-462d-88a9-9a792fd47939",
+         "title":{
+            "en":"Torque"
+         },
+         "description":{
+            "en":"In this challenge you will learn about torque. In other words, torque is a force which makes things turn or rotate."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a077dd32-608b-4a60-9e0a-59d1cc619d2f",
+         "title":{
+            "en":"Torque"
+         },
+         "description":{
+            "en":"Review: To increase speed, you need to attach a bigger driver gear to a smaller driven gear."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"72c46020-caf9-4ca5-b96a-a87055b6f697",
+         "title":{
+            "en":"Torque"
+         },
+         "description":{
+            "en":"Review: For a slower motion, you need to do the opposite - attach a smaller driver gear to a bigger driven gear."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5c5a86ea-76ab-4b38-9ecf-f89c8b5ebd22",
+         "title":{
+            "en":"Torque"
+         },
+         "description":{
+            "en":"However, there are several situations when power is more important than speed. Imagine that you are cycling up a hill. You are moving slowly, but with an increased power input."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"d107f2f1-09ae-412a-9a6e-0ed3a7be8a65",
+         "title":{
+            "en":"Torque"
+         },
+         "description":{
+            "en":"Speed and torque have an opposite or inverse relationship. The faster the movement, the weaker the torque will be. However, when torque increases, the motion decreases."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"ca6ff920-a381-4fef-b01d-229e697650ee",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"66f16120-a1d2-4f53-9b0f-1b7d7b6b7905",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":"Build the most powerful torque using gears from your kit."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"be90f429-4507-4e77-b25c-d029dabbbe4f",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },      {
+         "id":"27945848-7f8c-4d6a-a2f4-9bf058092de1",
+         "title":{
+            "en":"Answer"
+         },
+         "description":{
+            "en":"The most powerful torque can be generalised by attaching a 20-tooth-driver gear to a 60-tooth-driven gear."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"c9d05976-7dff-45b6-9ec6-76025f3a7ece",
+         "title":{
+            "en":"Good job!!!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      }
+   ]
+}

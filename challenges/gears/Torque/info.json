@@ -51,7 +51,7 @@
             "en":"Torque"
          },
          "description":{
-            "en":"Speed and torque have an opposite or inverse relationship. The faster the movement, the weaker the torque will be. However, when torque increases, the motion decreases."
+            "en":"Speed and torque have an opposite or inverse relationship. The faster the movement, the weaker the torque will be. However, when torque increases, motion decreases."
          },
          "challengeType":"horizontal"
       },
@@ -90,7 +90,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"The most powerful torque can be generalised by attaching a 20-tooth-driver gear to a 60-tooth-driven gear."
+            "en":"The most powerful torque can be generalized by attaching a 20-tooth-driver gear to a 60-tooth-driven gear."
          },
          "challengeType":"vertical"
       },

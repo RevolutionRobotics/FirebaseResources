@@ -8,7 +8,7 @@
       {
          "id":"81f17a48-df5c-40a1-9a56-c63a96f8d4f0",
          "title":{
-            "en":"Task"
+            "en":"Task - Long shot"
          },
          "description":{
             "en":"Try to shoot a ping pong ball out as far as you can. Place your robot behind start line and try to shoot the ball across the length of the field. Or even farther. "
@@ -41,7 +41,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>You managed to throw the ball to the middle of the field = 5 points<br/>You reached over the middle of the field = 10 points<br/>You reached the edge of the field or even threw it farther = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
+            "en":"Let's count your points!<br/>You managed to throw the ball to the middle of the field = 5 points<br/>You reached over the middle of the field = 10 points<br/>You reached the edge of the field or even threw it farther = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
          },
          "challengeType":"horizontal"
       }

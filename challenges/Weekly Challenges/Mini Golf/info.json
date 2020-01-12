@@ -18,10 +18,10 @@
       {
          "id":"3ed26792-02ae-4eed-a159-775316d51bee",
          "title":{
-            "en":"Task"
+            "en":"Task - Mini golf"
          },
          "description":{
-            "en":"Place six ping pong balls at the start line. The task is to position them at the six color hole with the help of a 'golf club'"
+            "en":"Place six ping pong balls at start line. The task is to position them at the six color hole with the help of a 'golf club'."
          },
          "challengeType":"horizontal"
       },
@@ -41,7 +41,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"1-2 balls are in different holes = Good job! Are you ready for another round?<br/><You managed to put 3-4 balls into different holes = Wow! Excellent job!<br/>5-6 balls are in six different holes = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"1-2 balls are in different holes = Good job! Are you ready for another round?<br/>You managed to put 3-4 balls into different holes = Wow! Excellent job!<br/>5-6 balls are in six different holes = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -51,7 +51,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>3-5 empty holes = 5 points<br/>2 empty holes = 10 points<br/><1 empty hole = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
+            "en":"Let's count your points!<br/>3-5 empty holes = 5 points<br/>2 empty holes = 10 points<br/><1 empty hole = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
          },
          "challengeType":"horizontal"
       }

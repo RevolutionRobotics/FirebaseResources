@@ -8,7 +8,7 @@
       {
          "id":"0721f265-233a-44b2-a7c2-619fdefd599f",
          "title":{
-            "en":"Task"
+            "en":"Task - Stack the cups"
          },
          "description":{
             "en":"Place six cups on your challenge field. Grab the cups one by one and stack them up in the middle of the field."
@@ -31,7 +31,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You stepped out of the field and knocked down more than two cups = Good job! Are you ready for another round?<br/>You only knocked down two cups and haven't stepped out of the field = Wow! Excellent job! Do you think you can do it again with no cups kicked this time?<br/>You haven't knocked down any of the cups and stayed within the field = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"You knocked down more than two cups = Good job! Are you ready for another round?<br/>You only knocked down two cups = Wow! Excellent job! Do you think you can do it again with no cups kicked this time?<br/>You haven't knocked down any of the cups = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -41,7 +41,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>You stepped out the field and knocked down more than two cups = 5 points<br/>You haven't stepped out of the field and knocked down only two cups = 10 points<br/>You neither stepped out, nor knocked down any of the cups = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
+            "en":"Let's count your points!<br/>You knocked down more than two cups = 5 points<br/>You knocked down only two cups = 10 points<br/>You haven't knocked down any of the cups = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
          },
          "challengeType":"horizontal"
       }

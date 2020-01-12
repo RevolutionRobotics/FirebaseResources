@@ -8,7 +8,7 @@
       {
          "id":"64c5c80c-f30e-4097-9083-8fc9adbcb72f",
          "title":{
-            "en":"Task"
+            "en":"Task - Lap the field"
          },
          "description":{
             "en":"Let's see how fast your robot runs. Lay down your challenge field and get your robot run around it as fast as it can."
@@ -41,7 +41,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/><20 seconds = 5 points<br/><15 seconds = 10 points<br/><10 seconds = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
+            "en":"Let's count your points!<br/><20 seconds = 5 points<br/><15 seconds = 10 points<br/><10 seconds = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
          },
          "challengeType":"horizontal"
       }

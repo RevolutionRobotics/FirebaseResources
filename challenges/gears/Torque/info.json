@@ -51,7 +51,7 @@
             "en":"Torque"
          },
          "description":{
-            "en":"Speed and torque have an opposite or inverse relationship. The faster the movement, the weaker the torque will be. However, when torque increases, motion decreases."
+            "en":"Speed and torque have an opposite or inverse relationship. The faster the movement, the weaker the torque will be. However, when torque increases, speed decreases."
          },
          "challengeType":"horizontal"
       },

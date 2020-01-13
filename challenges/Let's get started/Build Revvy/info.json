@@ -11,7 +11,7 @@
             "en":"Let's get started!"
          },
          "description":{
-            "en":"In this challenge you will learn how to build and configurate Revvy, your robot. Besides this challenge, you can also find Revvy's build instructions at the bottom of the Challenge Kit Parts Poster."
+            "en":"In this challenge you will learn how to build and configure Revvy, your robot. Besides this challenge, you can also find Revvy's build instructions at the bottom of the Challenge Kit Parts Poster."
          },
          "challengeType":"horizontal"
       },
@@ -289,7 +289,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"Select Revvy (or the robot you are about to configurate) and click on the pencil icon at the right bottom corner. "
+            "en":"Select Revvy (or the robot you are about to configure) and click on the pencil icon at the right bottom corner. "
          },
          "challengeType":"vertical"
       },
@@ -309,7 +309,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"You have got six motor outputs signed as M1, M2, M3, M4, M5 and M6. "
+            "en":"You have six motor outputs signed as M1, M2, M3, M4, M5 and M6. "
          },
          "challengeType":"vertical"
       },
@@ -319,7 +319,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"You can also find four sensor inputs, they are signed as S1, S2, S3 and S4."
+            "en":"You can also find four sensor inputs, they are labeled as S1, S2, S3 and S4."
          },
          "challengeType":"vertical"
       },
@@ -329,7 +329,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"If you want to configurate a motor output, you need to click on the one you are about to configurate. Let's choose M1 as an example."   
+            "en":"If you want to configure a motor output, you need to click on the one you are about to configure. Let's choose M1 as an example."   
          },      
          "challengeType":"vertical"
       },
@@ -349,7 +349,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"You can see two options here, left and right. Choose one of them to decide which side is to be configurated. However, please note, that all the drive-configurated motors make a unit, they work together in sync."
+            "en":"You can see two options here, left and right. Choose one of them to decide which side is to be configured. However, please note, that all the drive-configured motors make a unit, they work together in sync."
          },
          "challengeType":"vertical"
       },
@@ -369,7 +369,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"You can see that M1 has been configurated. Now let's play with the sensor inputs. First, click on one of them."
+            "en":"You can see that M1 has been configured. Now let's play with the sensor inputs. First, click on one of them."
          },
          "challengeType":"vertical"
       },
@@ -379,7 +379,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"Originally these inputs are empty. You can leave them this way, or configurate them by clicking on 'Bumper' or 'Distance'. These configurations can work separately on their own."
+            "en":"Originally these inputs are empty. You can leave them this way, or configure them by clicking on 'Bumper' or 'Distance'. These configurations can work separately on their own."
          },
          "challengeType":"vertical"
       },
@@ -389,7 +389,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"If you choose 'Bumper', you can configurate the bumper button from your kit. In this case, you will need to attach the button to the configurated input, S1 in our example. Connect the button with the input by using a cable and use pins too to attach it to Revvy. Press 'Done' to activate the sensor."
+            "en":"If you choose 'Bumper', you can configure the bumper button from your kit. In this case, you will need to attach the button to the configured input, S1 in our example. Connect the button with the input by using a cable and use pins too to attach it to Revvy. Press 'Done' to activate the sensor."
          },
          "challengeType":"vertical"
       },
@@ -399,7 +399,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"By choosing 'Distance' you can configurate Revvy's eye sensors. Press 'Done' for activation."
+            "en":"By choosing 'Distance' you can configure Revvy's eye sensors. Press 'Done' for activation."
          },
          "challengeType":"vertical"
       },
@@ -409,7 +409,7 @@
             "en":"Configuration"
          },
          "description":{
-            "en":"You can see that M1 and S1 are configurated now. You can continue working on the other inputs and outputs as well. When you are done, just press Play. How exciting! Let's do this!"
+            "en":"You can see that M1 and S1 are configured now. You can continue working on the other inputs and outputs as well. When you are done, just press Play. How exciting! Let's do this!"
          },
          "challengeType":"vertical"
       },

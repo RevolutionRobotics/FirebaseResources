@@ -8,10 +8,10 @@
       {
          "id":"64c5c80c-f30e-4097-9083-8fc9adbcb72f",
          "title":{
-            "en":"Task - Lap the field"
+            "en":"Task"
          },
          "description":{
-            "en":"Let's see how fast your robot runs. Lay down your challenge field and get your robot run around it as fast as it can."
+            "en":"Let's see how fast your robot runs. Lay down your challenge field and drive your robot around the field as fast as possible. You might need to ask someone to help you with timing."
          },
          "challengeType":"horizontal"
       },
@@ -31,7 +31,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"<20 seconds = Good job! Are you ready for another round?<br/><15 seconds = Wow! Excellent job! Do you think you can do it even faster?<br/><10 = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"<20 seconds = Good job! Are you ready for another round?<br/><15 seconds = Wow! Excellent job! Do you think you can do it even faster?<br/><10 = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you program your robot to drive around the Challenge Field?"
          },
          "challengeType":"horizontal"
       },
@@ -41,7 +41,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points!<br/><20 seconds = 5 points<br/><15 seconds = 10 points<br/><10 seconds = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
+            "en":"Complete three trials and calculate your points:<br/><20 seconds = 5 points<br/><15 seconds = 10 points<br/><10 seconds = 15 points<br/>We would love to see your scores. Please share your scores in our Community Forum by clicking on the following link:"
          },
          "challengeType":"horizontal"
       }

@@ -1,0 +1,49 @@
+{
+   "id":"f5a0dc9a-e064-48ad-b060-916489cb72b2",
+   "name":{
+      "en":"Lap the field"
+   },
+   "order": 1,
+   "steps":[
+      {
+         "id":"64c5c80c-f30e-4097-9083-8fc9adbcb72f",
+         "title":{
+            "en":"Task - Lap the field"
+         },
+         "description":{
+            "en":"Let's see how fast your robot runs. Lay down your challenge field and get your robot run around it as fast as it can."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"c63232bb-5d21-4236-8d6a-1c0f254c523b",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"The robot cannot touch the challenge field at any point."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"8c8cfa91-02ed-4d3c-897b-1f3c4f54123f",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"<20 seconds = Good job! Are you ready for another round?<br/><15 seconds = Wow! Excellent job! Do you think you can do it even faster?<br/><10 = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"77a856a0-e33f-445f-ba0d-4b02a4b4d333",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points!<br/><20 seconds = 5 points<br/><15 seconds = 10 points<br/><10 seconds = 15 points<br/>We would love to see your results, please share it through our forum page by clicking on the following link: "
+         },
+         "challengeType":"horizontal"
+      }
+   ]
+}

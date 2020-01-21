@@ -11,7 +11,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Let's see how fast your robot runs. Lay down your challenge field and drive your robot around the field as fast as possible. You might need to ask someone to help you with timing."
+            "en":"Let's see how fast your robot runs. Lay down your challenge field and drive your robot around the field as fast as possible. You may need to ask someone to help record the time for each attempt!"
          },
          "challengeType":"horizontal"
       },

@@ -41,9 +41,13 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Complete three trials and calculate your points:<br/><20 seconds = 5 points<br/><15 seconds = 10 points<br/><10 seconds = 15 points<br/>We would love to see your scores. Please share your scores in our Community Forum by clicking on the following link:"
+            "en":"Complete three trials and calculate your points:<br/><20 seconds = 5 points<br/><15 seconds = 10 points<br/><10 seconds = 15 points<br/>We would love to see your scores."
          },
-         "challengeType":"horizontal"
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
       }
    ]
 }

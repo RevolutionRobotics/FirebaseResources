@@ -21,7 +21,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Place six ping pong balls at the start line. The task is to position them at the six color hole with the help of a 'golf club'"
+            "en":"Place four ping pong balls at the start line. The task is to position them at any of the six color holes with the help of a 'golf club'"
          },
          "challengeType":"horizontal"
       },
@@ -41,7 +41,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"1-2 balls are in different holes = Good job! Are you ready for another round?<br/><You managed to put 3-4 balls into different holes = Wow! Excellent job!<br/>5-6 balls are in six different holes = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"1 ball positioned = Good job! Are you ready for another round?<br/><You managed to put 2-3 balls into different holes = Wow! Excellent job!<br/>4 balls are in six different holes = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -51,7 +51,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>3-5 empty holes = 5 points<br/>2 empty holes = 10 points<br/><1 empty hole = 15 points<br/>We would love to see your scores."
+            "en":"Let's count your points.<br/>3 empty holes = 5 points<br/>1-2 empty holes = 10 points<br/>No empty hole = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"

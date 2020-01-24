@@ -1,129 +1,137 @@
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
    <variables>
-      <variable type="" id="XZ2cYCZqhiwgB9hjiHK6">last pressed</variable>
-      <variable type="" id="5lypCTKU4pzPzIMyvwxK">spinning</variable>
+      <variable type="" id="viwdCGy1clEok2H2RzOq">spinning</variable>
+      <variable type="" id="8kPXDkRA0ZrkNbThQrJW">lastPressed</variable>
    </variables>
-   <block type="variables_set" id="rYO2qL6hvr31sSvdIKil" x="64" y="61">
-      <field name="VAR" id="XZ2cYCZqhiwgB9hjiHK6" variabletype="">last pressed</field>
+   <block type="variables_set" id="VxQ4Y4lbU6DtCCGzMrZH" x="27" y="-17">
+      <field name="VAR" id="viwdCGy1clEok2H2RzOq" variabletype="">spinning</field>
       <value name="VALUE">
-         <block type="block_global_timer" id="wvwKa5DKuiYv0885mHaz" />
+         <block type="logic_boolean" id="gEiJHHUaSeFVEqTKWeAb">
+            <field name="BOOL">FALSE</field>
+         </block>
       </value>
       <next>
-         <block type="block_repeat_forever" id="bTGngFmbrTLPn1pXFMtj">
-            <statement name="STATEMENT">
-               <block type="if_then" id="Wixx3C6I5BhvKd4SzI7m">
-                  <value name="COND">
-                     <block type="logic_and" id="MLgRGuOuBjv3crh4gFDx">
-                        <value name="LEFT">
-                           <shadow type="logic_boolean" id="P2Hqq3ASZQb3WVubl7Wq">
-                              <field name="BOOL">TRUE</field>
-                           </shadow>
-                           <block type="block_bumper" id="f5Tg1iCATlZGCQZz6XOT">
-                              <field name="NAME_INPUT">bumper</field>
-                           </block>
-                        </value>
-                        <value name="RIGHT">
-                           <shadow type="logic_boolean" id="aGE5OgUmDADHBxHqIggF">
-                              <field name="BOOL">TRUE</field>
-                           </shadow>
-                           <block type="logic_compare2" id="RC1UsNLOlN4IwBnYe0x0">
-                              <field name="LOGIC_SELECTOR">GT</field>
-                              <value name="A">
-                                 <block type="math_arithmetic2" id="KAxZKpGZ6TEsOLjsqvDl">
-                                    <field name="OPERATOR_SELECTOR">MINUS</field>
+         <block type="variables_set" id="Lu3YmS1GTolZCpj6WEUc">
+            <field name="VAR" id="8kPXDkRA0ZrkNbThQrJW" variabletype="">lastPressed</field>
+            <value name="VALUE">
+               <block type="block_global_timer" id="620yv3JujvA6Q2TxB5kc" />
+            </value>
+            <next>
+               <block type="block_repeat_forever" id="21FApFFlQEO2IQ5u7ra4">
+                  <statement name="STATEMENT">
+                     <block type="if_then" id="wzCcJ0xUoZW0PCAs3H0H">
+                        <value name="COND">
+                           <block type="logic_and" id="G7KrAAh0lcEkvKrCh0w0">
+                              <value name="LEFT">
+                                 <shadow type="logic_boolean" id="DmlJhEIKFie1OzK9EvMy">
+                                    <field name="BOOL">TRUE</field>
+                                 </shadow>
+                                 <block type="block_bumper" id="IVwGRx1iQocFWv3Nq2E7">
+                                    <field name="NAME_INPUT">bumper</field>
+                                 </block>
+                              </value>
+                              <value name="RIGHT">
+                                 <shadow type="logic_boolean" id="vxgiVCgXJeKmyQYwDnOM">
+                                    <field name="BOOL">TRUE</field>
+                                 </shadow>
+                                 <block type="logic_compare2" id="dNC4yJZaGWKNr9fVqD83">
+                                    <field name="LOGIC_SELECTOR">GT</field>
                                     <value name="A">
-                                       <shadow type="math_number" id="bbTuQlYoP2WdfjpIRS4J">
-                                          <field name="NUM">0</field>
-                                       </shadow>
-                                       <block type="block_global_timer" id="myuOI0kgcXpdMY6rKqDJ" />
+                                       <block type="math_arithmetic2" id="R5bbHJ8bOfqs57fak4Ob">
+                                          <field name="OPERATOR_SELECTOR">MINUS</field>
+                                          <value name="A">
+                                             <shadow type="math_number" id="U3UJqTPgkwISeP3QaKvc">
+                                                <field name="NUM">0</field>
+                                             </shadow>
+                                             <block type="block_global_timer" id="bejSiHmRurCEprvaZ3Gx" />
+                                          </value>
+                                          <value name="B">
+                                             <shadow type="math_number" id="z1XppLpnwBFcY5GYNTbl">
+                                                <field name="NUM">0</field>
+                                             </shadow>
+                                             <block type="variables_get" id="keRGsm2HWQzLSyvvUr14">
+                                                <field name="VAR" id="8kPXDkRA0ZrkNbThQrJW" variabletype="">lastPressed</field>
+                                             </block>
+                                          </value>
+                                       </block>
                                     </value>
                                     <value name="B">
-                                       <shadow type="math_number" id="0Y5hCfoCt9bhMaRRKI4B">
-                                          <field name="NUM">0</field>
+                                       <shadow type="math_number" id="QqFA64prwLODQRFH74IH">
+                                          <field name="NUM">1</field>
                                        </shadow>
-                                       <block type="variables_get" id="YkIMjq2DnsNHtx3b1vzV">
-                                          <field name="VAR" id="XZ2cYCZqhiwgB9hjiHK6" variabletype="">last pressed</field>
-                                       </block>
                                     </value>
                                  </block>
-                              </value>
-                              <value name="B">
-                                 <shadow type="math_number" id="yXPoHXTvcas7vCYTYDTR">
-                                    <field name="NUM">1</field>
-                                 </shadow>
                               </value>
                            </block>
                         </value>
-                     </block>
-                  </value>
-                  <statement name="IN_IF">
-                     <block type="variables_set" id="Fl2oR7UG1OYYtvpzFKNr">
-                        <field name="VAR" id="XZ2cYCZqhiwgB9hjiHK6" variabletype="">last pressed</field>
-                        <value name="VALUE">
-                           <block type="block_global_timer" id="og0ISunKxeELWTqekcuY" />
-                        </value>
-                        <next>
-                           <block type="variables_set" id="ufQ86RFdNk09jVqIjfu1">
-                              <field name="VAR" id="5lypCTKU4pzPzIMyvwxK" variabletype="">spinning</field>
+                        <statement name="IN_IF">
+                           <block type="variables_set" id="KINBjGZfUNRSXU0Epqrf">
+                              <field name="VAR" id="8kPXDkRA0ZrkNbThQrJW" variabletype="">lastPressed</field>
                               <value name="VALUE">
-                                 <block type="logic_not" id="6tGrgNxeY80OKFup55pb">
-                                    <value name="RIGHT">
-                                       <shadow type="logic_boolean" id="iEQhhObd5iURWkTbzSdq">
-                                          <field name="BOOL">TRUE</field>
-                                       </shadow>
-                                       <block type="variables_get" id="a5cC2f7mFk0EtLod57cM">
-                                          <field name="VAR" id="5lypCTKU4pzPzIMyvwxK" variabletype="">spinning</field>
-                                       </block>
-                                    </value>
-                                 </block>
+                                 <block type="block_global_timer" id="WGi8H8GM6UiWzDxwWuUF" />
                               </value>
                               <next>
-                                 <block type="if_then_else" id="PfXfRQ8GLINQwnxczySL">
-                                    <value name="COND">
-                                       <block type="variables_get" id="y9NgUgWlmy915GMDpvfU">
-                                          <field name="VAR" id="5lypCTKU4pzPzIMyvwxK" variabletype="">spinning</field>
+                                 <block type="variables_set" id="OlEMdLkfgcnaFsGrlyIT">
+                                    <field name="VAR" id="viwdCGy1clEok2H2RzOq" variabletype="">spinning</field>
+                                    <value name="VALUE">
+                                       <block type="logic_not" id="O1058qyj4k0zzstGOg9o">
+                                          <value name="RIGHT">
+                                             <shadow type="logic_boolean" id="67mMeP3fgDLDdyxPwQ45">
+                                                <field name="BOOL">TRUE</field>
+                                             </shadow>
+                                             <block type="variables_get" id="bDOVWvV9JLCUYgzhD0bL">
+                                                <field name="VAR" id="viwdCGy1clEok2H2RzOq" variabletype="">spinning</field>
+                                             </block>
+                                          </value>
                                        </block>
                                     </value>
-                                    <statement name="IN_IF">
-                                       <block type="spin_motor" id="2M8TK3pXhgwq6zSpA8KN">
-                                          <field name="NAME_INPUT">left</field>
-                                          <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
-                                          <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
-                                          <value name="ROTATION_SLIDER">
-                                             <shadow type="math_number" id="nzj5vEL2CCCjZOOHopPr">
-                                                <field name="NUM">150</field>
-                                             </shadow>
+                                    <next>
+                                       <block type="if_then_else" id="Bv34f4izQ5QSG4mXKieZ">
+                                          <value name="COND">
+                                             <block type="variables_get" id="XKeq54MGDIEdkR6ddZ6Q">
+                                                <field name="VAR" id="viwdCGy1clEok2H2RzOq" variabletype="">spinning</field>
+                                             </block>
                                           </value>
-                                          <next>
-                                             <block type="spin_motor" id="z7ib4FZY1NjLCt3dQisp">
-                                                <field name="NAME_INPUT">right</field>
-                                                <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+                                          <statement name="IN_IF">
+                                             <block type="spin_motor" id="SvkBz6kD6ZOG4xbHxmM4">
+                                                <field name="NAME_INPUT">left</field>
+                                                <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
                                                 <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
                                                 <value name="ROTATION_SLIDER">
-                                                   <shadow type="math_number" id="rwGCA6ZraqmEb29GvE80">
+                                                   <shadow type="math_number" id="oKSieKhGndwYEorJOkH7">
                                                       <field name="NUM">150</field>
                                                    </shadow>
                                                 </value>
+                                                <next>
+                                                   <block type="spin_motor" id="XmOMErlLc5ziFPAqmvdx">
+                                                      <field name="NAME_INPUT">right</field>
+                                                      <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+                                                      <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+                                                      <value name="ROTATION_SLIDER">
+                                                         <shadow type="math_number" id="dnpuoJLIk5WoS8PIy05k">
+                                                            <field name="NUM">150</field>
+                                                         </shadow>
+                                                      </value>
+                                                   </block>
+                                                </next>
                                              </block>
-                                          </next>
+                                          </statement>
+                                          <statement name="IN_ELSE">
+                                             <block type="block_stop_all_motors" id="pYw8nfjKh4rnUuzK5rvX">
+                                                <field name="STOP_ALL_ACTION_SELECTOR">Motor.ACTION_RELEASE</field>
+                                             </block>
+                                          </statement>
                                        </block>
-                                    </statement>
-                                    <statement name="IN_ELSE">
-                                       <block type="block_stop_all_motors" id="a4nKtjov8ztS0Rup28uZ">
-                                          <field name="STOP_ALL_ACTION_SELECTOR">Motor.ACTION_STOP_AND_HOLD</field>
-                                       </block>
-                                    </statement>
+                                    </next>
                                  </block>
                               </next>
                            </block>
-                        </next>
+                        </statement>
                      </block>
                   </statement>
                </block>
-            </statement>
+            </next>
          </block>
       </next>
    </block>

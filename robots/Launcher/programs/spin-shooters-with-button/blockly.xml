@@ -28,7 +28,7 @@
                                     <field name="BOOL">TRUE</field>
                                  </shadow>
                                  <block type="block_bumper" id="IVwGRx1iQocFWv3Nq2E7">
-                                    <field name="NAME_INPUT">bumper</field>
+                                    <field name="NAME_INPUT">button</field>
                                  </block>
                               </value>
                               <value name="RIGHT">

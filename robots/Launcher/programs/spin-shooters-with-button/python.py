@@ -7,7 +7,7 @@ lastPressed = None
 spinning = False
 lastPressed = robot.time()
 while True:
-  if (robot.sensors["bumper"].read()) and ((robot.time()) - lastPressed > 1):
+  if (robot.sensors["button"].read()) and ((robot.time()) - lastPressed > 1):
     lastPressed = robot.time()
     spinning = not spinning
     if spinning:

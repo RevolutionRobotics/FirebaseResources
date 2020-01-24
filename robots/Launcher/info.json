@@ -25,7 +25,7 @@
             },
             "S3": {
                 "type": "bumper",
-                "variableName": "bumper"
+                "variableName": "button"
             }
         },
         "controller": {

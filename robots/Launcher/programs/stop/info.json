@@ -1,0 +1,13 @@
+{
+    "id": "6acde200-3eb0-11ea-b77f-2e728ce88125",
+    "name": {
+        "en": "STOP"
+    },
+    "description": {
+        "en": "Stop the spinners"
+    },
+    "variables":[
+        "left",
+        "right"
+    ]
+}

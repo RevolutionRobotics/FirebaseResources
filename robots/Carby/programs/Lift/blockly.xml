@@ -16,13 +16,13 @@
          </shadow>
       </value>
       <next>
-               <block type="block_wait" id="TSvjcBTkfi0jDyVYcEZh">
-                  <value name="WAIT">
-                     <shadow type="math_number" id="hrveYs6abzlQToSXoTO6">
-                        <field name="NUM">1</field>
-                     </shadow>
-                  </value>
-               </block>
-            </next>
+        <block type="block_wait" id="TSvjcBTkfi0jDyVYcEZh">
+            <value name="WAIT">
+                <shadow type="math_number" id="hrveYs6abzlQToSXoTO6">
+                <field name="NUM">1</field>
+                </shadow>
+            </value>
+        </block>
+      </next>
    </block>
 </xml>

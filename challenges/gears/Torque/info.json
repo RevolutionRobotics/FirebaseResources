@@ -21,7 +21,7 @@
             "en":"Torque"
          },
          "description":{
-            "en":"Review: Power is torque times angular velocity.<br/>P=T*ω "
+            "en":"Review: Power is equal to torque times angular velocity.<br/>P=T*ω "
          },
          "challengeType":"horizontal"
       },
@@ -51,7 +51,7 @@
             "en":"Torque"
          },
          "description":{
-            "en":"There are several situations when force is more important than speed. Imagine that you are cycling up a hill. You are moving slowly, but with an increased power."
+            "en":"There are several situations when force is more important than speed. Imagine that you are cycling up a hill. You are moving slowly, but with increased power."
          },
          "challengeType":"horizontal"
       },
@@ -61,7 +61,7 @@
             "en":"Torque"
          },
          "description":{
-            "en":"Speed and torque have an opposite or inverse relationship. Faster the movement is, the weaker torque will be. However, when torque increases, speed decreases."
+            "en":"Speed and torque have an opposite or inverse relationship. The faster the movement is, the weaker torque will be. However, when torque increases, speed decreases."
          },
          "challengeType":"horizontal"
       },

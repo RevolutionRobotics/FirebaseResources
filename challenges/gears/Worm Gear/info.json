@@ -11,7 +11,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"In this challenge you will learn about worm gear and how it affects the gears' performance."
+            "en":"In this challenge you will learn about the worm gear and how it affects the gears' performance."
          },
          "challengeType":"horizontal"
       },
@@ -21,7 +21,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"Before building our model for this challenge, let's look at the following image. The way our worm ger connects to the normal gear we can see, that they are rotating on two perpendicular axes."
+            "en":"Before building our model for this challenge, let's look at the following image. The way our worm ger connects to the normal gear, we can see that they are rotating on two perpendicular axes."
          },
          "challengeType":"horizontal"
       },
@@ -319,7 +319,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"If we attach a 40-tooth-gear to a worm gear, torque becomes 1:40. It means it will be 20 times more powerful than the 40-tooth-gear with the 20-tooth gear. 1:40 vs 40:20"
+            "en":"If we attach a 40-tooth-gear to a worm gear, torque becomes 1:40. It means it will be 20 times more powerful than the 40-tooth-gear with the 20-tooth gear.<br/>1:40 vs 40:20"
          },
          "challengeType":"horizontal"
       },

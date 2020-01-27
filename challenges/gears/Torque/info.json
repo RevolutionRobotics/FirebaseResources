@@ -16,6 +16,16 @@
          "challengeType":"horizontal"
       },
       {
+         "id":"1b9440bd-ede5-41bb-991a-1d7e58a649c1",
+         "title":{
+            "en":"Torque"
+         },
+         "description":{
+            "en":"Review: Power is torque times angular velocity.<br/>P=T*ω "
+         },
+         "challengeType":"horizontal"
+      },
+      {
          "id":"a077dd32-608b-4a60-9e0a-59d1cc619d2f",
          "title":{
             "en":"Torque"
@@ -41,7 +51,7 @@
             "en":"Torque"
          },
          "description":{
-            "en":"There are several situations when power is more important than speed. Imagine that you are cycling up a hill. You are moving slowly, but with an increased power input."
+            "en":"There are several situations when force is more important than speed. Imagine that you are cycling up a hill. You are moving slowly, but with an increased power."
          },
          "challengeType":"horizontal"
       },

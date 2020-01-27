@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="spin_motor" id="UJz6PgVcEKgvIqp0C678" x="128" y="-61">
+      <field name="NAME_INPUT">left</field>
+      <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+      <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+      <value name="ROTATION_SLIDER">
+         <shadow type="math_number" id="1QGu0JL4Gh8tFAjNw3ax">
+            <field name="NUM">150</field>
+         </shadow>
+      </value>
+      <next>
+         <block type="spin_motor" id="0aHzU7WYuSwVeShXusFX">
+            <field name="NAME_INPUT">right</field>
+            <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+            <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+            <value name="ROTATION_SLIDER">
+               <shadow type="math_number" id="COyFxL6Kc4bYC0pczT5c">
+                  <field name="NUM">150</field>
+               </shadow>
+            </value>
+            <next>
+               <block type="block_wait" id="TSvjcBTkfi0jDyVYcEZh">
+                  <value name="WAIT">
+                     <shadow type="math_number" id="hrveYs6abzlQToSXoTO6">
+                        <field name="NUM">2</field>
+                     </shadow>
+                  </value>
+               </block>
+            </next>
+         </block>
+      </next>
+   </block>
+</xml>
+

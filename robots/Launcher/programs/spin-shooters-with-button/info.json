@@ -7,7 +7,7 @@
         "en": "Press the button to start or stop the spinning."
     },
     "variables":[
-        "bumper",
+        "button",
         "left",
         "right"
     ]

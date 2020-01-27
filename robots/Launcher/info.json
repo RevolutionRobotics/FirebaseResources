@@ -25,7 +25,7 @@
             },
             "S3": {
                 "type": "bumper",
-                "variableName": "bumper"
+                "variableName": "button"
             }
         },
         "controller": {
@@ -35,6 +35,16 @@
             },
             "joystickPriority": 1,
             "lastModified": 1557908990,
+            "mapping": {
+                "b5": {
+                    "priority": 4,
+                    "programId": "6acddf1c-3eb0-11ea-b77f-2e728ce88125"
+                },
+                "b6": {
+                    "priority": 3,
+                    "programId": "6acde200-3eb0-11ea-b77f-2e728ce88125"
+                }
+            },
             "backgroundProgramBindings": [{
                 "programId": "e0a7e2ae-2c4e-4837-927f-ca321283d990",
                 "priority": 2

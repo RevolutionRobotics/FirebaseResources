@@ -3,6 +3,7 @@
    "name":{
       "en":"Collect the rubbish"
    },
+   "draft": true,
    "order": 3,
    "steps":[
       {

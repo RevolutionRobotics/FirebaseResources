@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"<20 seconds = Good job! Are you ready for another round?<br/><15 seconds = Wow! Excellent job! Do you think you can do it even faster?<br/><10 = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you program your robot to drive around the Challenge Field?"
+            "en":"<20 seconds = Good job! Are you ready for another round?<br/><br/><15 seconds = Wow! Excellent job! Do you think you can do it even faster?<br/><br/><10 = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you program your robot to drive around the Challenge Field?"
          },
          "challengeType":"horizontal"
       },

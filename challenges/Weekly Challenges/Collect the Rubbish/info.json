@@ -42,7 +42,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You stepped out of the field and spilled two or more balls = Good job!<br/>You spilled <2 balls and stayed within the field = Excellent job!<br/><You haven't spilled any of the four balls and stayed within the field = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You stepped out of the field and spilled two or more balls = Good job!<br/>You spilled <2 balls and stayed within the field = Excellent job!<br/>You haven't spilled any of the four balls and stayed within the field = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -52,7 +52,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>You stepped out of the field and spilled two or more balls = 5 points<br/>You spilled <2 balls and haven't stepped out of the field = 10 points<br/>You haven't spilled any of the balls out and managed to stay within the field  = 15 points<br/>We would love to see scores."
+            "en":"Let's count your points.<br/>You stepped out of the field and spilled two or more balls = 5 points<br/>You spilled <2 balls and haven't stepped out of the field = 10 points<br/>You haven't spilled any of the balls out and managed to stay within the field  = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"

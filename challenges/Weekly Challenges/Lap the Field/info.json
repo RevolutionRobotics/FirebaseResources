@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"<20 seconds = Good job!<br/><p><15 seconds = Wow! Excellent job!</p><br/><p><10 = Outstanding! Well done!</p><br/>Bonus task: Can you program your robot to drive around the Challenge Field?"
+            "en":"<20 seconds = Good job!<br/><15 seconds = Wow! Excellent job!<br/><10 = Outstanding! Well done!<br/><br/>Bonus task: Can you program your robot to drive around the Challenge Field?"
          },
          "challengeType":"horizontal"
       },

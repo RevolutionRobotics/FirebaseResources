@@ -31,7 +31,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"Your robot managed to throw the ball to the middle of the field = Good job! Are you ready for another try?<br/>Your robot threw the ball over the middle of the field = Wow! Excellent job! Do you think you can try again to see if you could throw farther?<br/><You have thrown the ball farther than the edge of the field = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"Your robot managed to throw the ball to the middle of the field = Good job! Are you ready for another try?<br/>Your robot threw the ball over the middle of the field = Wow! Excellent job! Do you think you can try again to see if you could throw farther?<br/><You have thrown the ball farther than the edge of the field = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

@@ -31,7 +31,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"<The wheel reached the middle of the challenge field = Good job! Are you ready for another try?<br/>You managed to push the wheel to the other edge of the field = Wow! Excellent job! Do you think you can do it even farther?<br/>The wheel ran over the edge of the field  = Outstanding!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"<The wheel reached the middle of the challenge field = Good job! Are you ready for another try?<br/>You managed to push the wheel to the other edge of the field = Wow! Excellent job! Do you think you can do it even farther?<br/>The wheel ran over the edge of the field  = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

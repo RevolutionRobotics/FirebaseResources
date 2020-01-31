@@ -31,7 +31,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You stepped out of the field and kicked more than two cups = Good job! Are you ready for another round?<br/>You only kicked two cups and haven't stepped out of the field = Wow! Excellent job! Do you think you can do it again with no cups kicked this time?<br/>You haven't kicked any of the cups and stayed within the field = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"You stepped out of the field and kicked more than two cups = Good job! Are you ready for another round?<br/>You only kicked two cups and haven't stepped out of the field = Wow! Excellent job! Do you think you can do it again with no cups kicked this time?<br/>You haven't kicked any of the cups and stayed within the field = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

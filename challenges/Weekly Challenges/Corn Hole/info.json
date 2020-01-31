@@ -31,7 +31,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You managed to fill 1 cup in a round = Good job! Are you ready for another try?<br/>You threw the balls into 2-3 cups in a round = Wow! Excellent job! <br/><You managed to fill all the cups during the first round = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"You managed to fill 1 cup in a round = Good job! Are you ready for another try?<br/>You threw the balls into 2-3 cups in a round = Wow! Excellent job! <br/><You managed to fill all the cups during the first round = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

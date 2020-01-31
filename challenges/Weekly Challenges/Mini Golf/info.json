@@ -41,7 +41,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"1 ball positioned = Good job! Are you ready for another round?<br/><You managed to put 2-3 balls into different holes = Wow! Excellent job!<br/>4 balls are in six different holes = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"1 ball positioned = Good job! Are you ready for another round?<br/><You managed to put 2-3 balls into different holes = Wow! Excellent job!<br/>4 balls are in six different holes = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

@@ -21,7 +21,7 @@
             "en":"Torque"
          },
          "description":{
-            "en":"Review: Power is equal to torque times angular velocity.<br/>P=T*ω "
+            "en":"Review: Power is equal to torque times angular velocity.<br/>P=T*rad/s "
          },
          "challengeType":"horizontal"
       },

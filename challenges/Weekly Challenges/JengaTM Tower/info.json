@@ -31,7 +31,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"1-5 levels = Good job! Are you ready for another round?<br/>6-10 levels = Wow! Excellent job! Do you want to try again?<br/>11-15 levels = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programing your robot?"
+            "en":"1-5 levels = Good job! Are you ready for another round?<br/>6-10 levels = Wow! Excellent job! Do you want to try again?<br/>11-15 levels = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

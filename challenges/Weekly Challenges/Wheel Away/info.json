@@ -3,6 +3,7 @@
    "name":{
       "en":"Wheel Away"
    },
+   "draft": true,
    "order": 8,
    "steps":[
       {

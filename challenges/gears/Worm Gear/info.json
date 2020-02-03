@@ -3,6 +3,7 @@
    "name":{
       "en":"Worm Gear"
    },
+   "draft": true,
    "order": 5,
    "steps":[
       {

@@ -3,6 +3,7 @@
    "name":{
       "en":"JengaTM tower"
    },
+   "draft": true,
    "order": 10,
    "steps":[
       {

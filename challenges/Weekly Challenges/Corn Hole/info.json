@@ -3,6 +3,7 @@
    "name":{
       "en":"Corn hole"
    },
+   "draft": true,
    "order": 5,
    "steps":[
       {

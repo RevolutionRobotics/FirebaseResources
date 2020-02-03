@@ -3,6 +3,7 @@
    "name":{
       "en":"Stack the cans"
    },
+   "draft": true,
    "order": 7,
    "steps":[
       {

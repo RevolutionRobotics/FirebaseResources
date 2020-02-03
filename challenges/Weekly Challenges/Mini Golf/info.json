@@ -3,6 +3,7 @@
    "name":{
       "en":"Mini golf"
    },
+   "draft": true,
    "order": 9,
    "steps":[
       {

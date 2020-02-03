@@ -3,6 +3,7 @@
    "name":{
       "en":"Stack the cups"
    },
+   "draft": true,
    "order": 2,
    "steps":[
       {

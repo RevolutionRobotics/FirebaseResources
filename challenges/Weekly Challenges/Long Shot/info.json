@@ -3,6 +3,7 @@
    "name":{
       "en":"Long shot"
    },
+   "draft": true,
    "order": 4,
    "steps":[
       {

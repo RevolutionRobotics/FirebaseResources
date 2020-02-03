@@ -3,6 +3,7 @@
    "name":{
       "en":"Feed your pet"
    },
+   "draft": true,
    "order": 6,
    "steps":[
       {

@@ -51,7 +51,7 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"Now, let's see what happens when we have a small driver gear with a larger driven gear. First, let's use a 40-tooth-gear as the driven gear and a 20-tooth-gear as the driver gear."
+            "en":"Let's see what happens when we have a small driver gear with a larger driven gear. First, let's use a 40-tooth-gear as the driven gear and a 20-tooth-gear as the driver gear."
          },
          "challengeType":"horizontal"
       },
@@ -81,7 +81,7 @@
             "en":"Slowing down"
          },
          "description":{
-            "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times. Our wheel will rotate a 0.33 circle with one spin of a handle.<br/>20/60=0.33<br/>0.33x60=20"
+            "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times. Our wheel will rotate a 0.33 circles with one spin of a handle.<br/>20/60=0.33<br/>0.33x60=20"
          },
          "challengeType":"horizontal"
       },

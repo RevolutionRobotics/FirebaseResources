@@ -1,0 +1,54 @@
+{
+   "id":"3cf52866-6a85-4ed7-9be5-fa1e3f1ef477",
+   "name":{
+      "en":"Stack the cups"
+   },
+   "draft": true,
+   "order": 2,
+   "steps":[
+      {
+         "id":"0721f265-233a-44b2-a7c2-619fdefd599f",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Place four cups on your challenge field as depicted. The goal is to move the cups from their starting to the middle of the field and stack them."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"8d35bc19-f6f1-43e4-98a7-7c7d26d380a6",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"The cups have to be placed one by one in the middle.<br/>Your robot has to stay within the challenge field.<br/>Your robot should not knock down any of the cups."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"626a1273-d144-4e38-a0d6-84a5ac7f76b7",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You stepped out of the field and kicked more than two cups = Great!<br/>You only kicked two cups and stayed within the field = Excellent job!<br/>No cups kicked and you stayed within the field = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"80721f30-590c-4276-bf7c-bf9791334e55",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You stepped out the field and knocked down more than two cups = 5 points<br/><br/>You haven't stepped out of the field and knocked down only two cups = 10 points<br/><br/>You neither stepped out, nor knocked down any of the cups = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+         "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+     }
+   ]
+}

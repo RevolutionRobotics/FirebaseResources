@@ -340,7 +340,7 @@
             "en":"Challenge question"
          },
          "description":{
-            "en":"How much higher torque will be if we attach a 60-tooth-gear to a worm gear compared to a 20-tooth-gear attached to a 60-tooth-gear?"
+            "en":"How much higher the torque will be if we attach a 60-tooth-gear to a worm gear compared to a 20-tooth-gear attached to a 60-tooth-gear?"
          },
          "challengeType":"horizontal"
       }, 

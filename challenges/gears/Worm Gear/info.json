@@ -22,7 +22,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"Before building our model for this challenge, let's look at the following image. The way our worm gear connects to the normal gear, we can see that they are rotating on two perpendicular axes."
+            "en":"Before building our model for this challenge, let's look at the following image. The way our worm gear connects to the standard gear, we can see that they are rotating on two perpendicular axes."
          },
          "challengeType":"horizontal"
       },
@@ -270,7 +270,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"Make sure that the arrow on the tire is positioned upward.<br/>Let's count how many times you need to twist the worm gear by the handle on the two sides to make the wheel rotate one full circle.<br/>If we have a 20-tooth-gear built-in, the worm-gear rotates 20 full circles to make the gear (and the wheel) run 1 full circle."
+            "en":"Make sure that the arrow on the tire is positioned upward.<br/>Let's count how many times you need to twist the worm gear by the handle on the two sides to make the wheel rotate one full circle.<br/>If we have a 20-tooth-gear built-in, the worm gear rotates 20 full circles to make the gear (and the wheel) run 1 full circle."
          },
          "challengeType":"horizontal"
       },
@@ -280,7 +280,7 @@
             "en":"20-tooth-gear"
          },
          "description":{
-            "en":"Review: The slower the motion is, the more powerful torque becomes.<br/>The same rule applies here as well, but the axis of the worm gear is perpendicular to the axis of the gear.<br/>The torque ratio is 1:20."
+            "en":"Review: The slower the speed is, the higher the torque becomes.<br/>The same rule applies here as well, but the axis of the worm gear is perpendicular to the axis of the gear.<br/>The torque ratio is 1:20."
          },
          "challengeType":"horizontal"
       },
@@ -320,7 +320,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"If we attach a 40-tooth-gear to a worm gear, torque becomes 1:40. It means it will be 20 times more powerful than the 40-tooth-gear with the 20-tooth gear.<br/>1:40 vs 40:20"
+            "en":"If we attach a 40-tooth-gear to a worm gear, torque becomes 1:40. It means it will be 20 times higher than the 40-tooth-gear with the 20-tooth gear.<br/>1:40 vs 40:20"
          },
          "challengeType":"horizontal"
       },
@@ -340,7 +340,7 @@
             "en":"Challenge question"
          },
          "description":{
-            "en":"How much stronger will a 60-tooth-gear attached to a worm gear be compared to a 20-tooth-gear attached to a 60-tooth-gear?"
+            "en":"How much higher torque will be if we attach a 60-tooth-gear to a worm gear compared to a 20-tooth-gear attached to a 60-tooth-gear?"
          },
          "challengeType":"horizontal"
       }, 
@@ -360,7 +360,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"It will be 20 times stronger.<br/>20:60=3<br/>1:3 vs 1:60 -> 20 times stronger torque"
+            "en":"It will be 20 times higher.<br/>20:60=3<br/>1:3 vs 1:60 -> 20 times higher torque"
          },
          "challengeType":"horizontal"
       }, 

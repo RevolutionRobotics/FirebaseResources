@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
    <variables>
       <variable type="" id="P0s1ugwfG2XNZX0CSDQK">dist</variable>
       <variable type="" id="x6cGg4ADw1Gu70TwzOaL">i</variable>
    </variables>
-   <block type="block_repeat_forever" id="iteSuwjUMm0TCJXi6qmC" x="91" y="-73">
+   <block type="block_repeat_forever" id="iteSuwjUMm0TCJXi6qmC" x="49" y="18">
       <statement name="STATEMENT">
          <block type="variables_set" id="179arpv75BS85ya1HtvO">
             <field name="VAR" id="P0s1ugwfG2XNZX0CSDQK" variabletype="">dist</field>
@@ -12,13 +11,13 @@
                <block type="math_round2" id="dQJhb7iZOgWoNE9wIJm9">
                   <field name="OPERATOR_SELECTOR">ROUND</field>
                   <value name="NUM">
-                     <shadow type="math_number" id="vkloyu0hnwUa2BFZ3BY6">
+                     <shadow type="math_number" id="qy2gmgsYz6IgXR4vkfRp">
                         <field name="NUM">0</field>
                      </shadow>
                      <block type="math_arithmetic2" id="ooKGxXONvkZ9CaV7C3k7">
                         <field name="OPERATOR_SELECTOR">DIVIDE</field>
                         <value name="A">
-                           <shadow type="math_number" id="veExkJeIyu2jYD8Bg5AV">
+                           <shadow type="math_number" id="GEtV5Ovaoa0umaz63xik">
                               <field name="NUM">0</field>
                            </shadow>
                            <block type="block_ultrasonic_sensor" id="vEqCaNxmGVPrA5kpjFDP">
@@ -72,7 +71,7 @@
                         <next>
                            <block type="controls_repeat_ext2" id="W1LnWw1r9GN2Do8m8pi1">
                               <value name="TIMES">
-                                 <shadow type="math_number" id="onQuePIQFzPqgTYmGFnV">
+                                 <shadow type="math_number" id="IKsPUpzM6pcZjtLzTb01">
                                     <field name="NUM">3</field>
                                  </shadow>
                                  <block type="variables_get" id="ZYVshAhPDqRx4FEcyyEl">
@@ -107,7 +106,7 @@
                                           <statement name="IN_IF">
                                              <block type="block_set_led" id="7loYt2T6JGPqgbPStmP5">
                                                 <value name="LED">
-                                                   <shadow type="math_number" id="jbXyM7EKon1aiTyfaTXw">
+                                                   <shadow type="math_number" id="dCydzWTRIME7D9CWnW6x">
                                                       <field name="NUM">1</field>
                                                    </shadow>
                                                    <block type="variables_get" id="zjOJnK2yyb7xRoLELaZa">
@@ -141,7 +140,7 @@
                                                 <statement name="IN_IF">
                                                    <block type="block_set_led" id="Um86JkZ9gpHU0PuWmZxs">
                                                       <value name="LED">
-                                                         <shadow type="math_number" id="FARE5if3XRRnT24TWozJ">
+                                                         <shadow type="math_number" id="suh5bTLIme8sHSiJnc9P">
                                                             <field name="NUM">1</field>
                                                          </shadow>
                                                          <block type="variables_get" id="Bjsunoc2rZQSc53RWCX7">
@@ -158,7 +157,7 @@
                                                 <statement name="IN_ELSE">
                                                    <block type="block_set_led" id="14yR0q5ehZxqWtX9HBJl">
                                                       <value name="LED">
-                                                         <shadow type="math_number" id="OZmcV5nbcYRXQbbaDvHb">
+                                                         <shadow type="math_number" id="o39oLoKP3qSCdhMjaFiO">
                                                             <field name="NUM">1</field>
                                                          </shadow>
                                                          <block type="variables_get" id="oo5QK6pXCcBLh2vVQTzx">
@@ -181,7 +180,7 @@
                               <next>
                                  <block type="controls_repeat_ext2" id="iEJZ56JfBrCossKawzXs">
                                     <value name="TIMES">
-                                       <shadow type="math_number" id="t0iCyW2fRIhxd9ZvKf9Z">
+                                       <shadow type="math_number" id="9wQCvpB7zOxQuaA3WH3K">
                                           <field name="NUM">3</field>
                                        </shadow>
                                        <block type="math_arithmetic2" id="WJkPi0Eo72XZ2HZIX9cj">
@@ -192,7 +191,7 @@
                                              </shadow>
                                           </value>
                                           <value name="B">
-                                             <shadow type="math_number" id="xlLFTDBbzWevPDAk524y">
+                                             <shadow type="math_number" id="OOW2uOEq2tile2yGfPKO">
                                                 <field name="NUM">0</field>
                                              </shadow>
                                              <block type="variables_get" id="A6St0R33si6CZq90im3p">
@@ -212,7 +211,7 @@
                                           <next>
                                              <block type="block_set_led" id="B4b2UQJG6lcfI0qHy99e">
                                                 <value name="LED">
-                                                   <shadow type="math_number" id="sGhQyqZQVu5k8320FI16">
+                                                   <shadow type="math_number" id="RTHVs0EX3Ws8g7pkh6NM">
                                                       <field name="NUM">1</field>
                                                    </shadow>
                                                    <block type="variables_get" id="AxoCEHQkJw9E2tMmXCSj">

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
-   <block type="play_tune" id="ESlyMhUuPdX6ryzEUv44" x="48" y="-175">
+   <block type="play_tune" id="ESlyMhUuPdX6ryzEUv44" x="56" y="53">
       <field name="IN_SOUND">robot</field>
       <next>
          <block type="block_motor" id="Xiajz4sxhsWSxzYacNIV">

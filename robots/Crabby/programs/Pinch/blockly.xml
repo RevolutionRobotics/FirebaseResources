@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
    <block type="spin_motor" id="67vC5sYYd32l79HSvgbq" x="22" y="76">
       <field name="NAME_INPUT">motor3</field>

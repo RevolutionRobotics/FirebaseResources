@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
-   <block type="spin_motor" id="UJz6PgVcEKgvIqp0C678" x="128" y="-61">
+   <block type="spin_motor" id="UJz6PgVcEKgvIqp0C678" x="116" y="83">
       <field name="NAME_INPUT">left</field>
       <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
       <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
@@ -32,4 +31,3 @@
       </next>
    </block>
 </xml>
-

@@ -1,40 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
-   <block type="controls_repeat_ext2" id="aYxSTkDJkf80ocBGy6HI" x="138" y="79">
-      <value name="TIMES">
-         <shadow type="math_number" id="xr33Vqk9myCEvTnV53Dt">
-            <field name="NUM">4</field>
-         </shadow>
-      </value>
+   <block type="controls_repeat_n_times" id="53bUNFcqsMB19489FBiU" x="119" y="102">
+      <field name="TIMES_SELECTOR">4</field>
       <statement name="DO">
-         <block type="block_drive" id="F9d9rrfmnguM9tYvVXFd">
+         <block type="block_drive_simplified" id="cxzGIYc9KojNESlcNbF0">
             <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
-            <field name="UNIT_ROTATION_SELECTOR">Motor.UNIT_SEC</field>
-            <field name="UNIT_SPEED_SELECTOR">Motor.UNIT_SPEED_RPM</field>
-            <value name="ROTATION">
-               <shadow type="math_number" id="6IM8NfgVMo1IbHIy4an1">
-                  <field name="NUM">2</field>
-               </shadow>
-            </value>
-            <value name="SPEED_SLIDER">
-               <shadow type="math_number" id="1ZBH6r1fahxlmKtX8htH">
-                  <field name="NUM">75</field>
-               </shadow>
-            </value>
+            <field name="DURATION_SELECTOR">DURATION_MEDIUM</field>
+            <field name="SPEED_SELECTOR">SPEED_MEDIUM</field>
             <next>
-               <block type="block_turn" id="AVm1CtlFc9zubodeSP9j">
+               <block type="block_turn_simplified" id="56jPAWbpXB9q16sPellt">
                   <field name="DIRECTION_SELECTOR">Motor.DIRECTION_LEFT</field>
-                  <field name="UNIT_ROTATION_SELECTOR">Motor.UNIT_TURN_ANGLE</field>
-                  <value name="ROTATION">
-                     <shadow type="math_number" id="lP89nxqi0gNgqBRqT9y0">
-                        <field name="NUM">90</field>
-                     </shadow>
-                  </value>
-                  <value name="SPEED_SLIDER">
-                     <shadow type="math_number" id="4hqU1vgug0BR96MoZr5z">
-                        <field name="NUM">75</field>
-                     </shadow>
-                  </value>
+                  <field name="ROTATION_SELECTOR">ANGLE_RIGHT</field>
                </block>
             </next>
          </block>

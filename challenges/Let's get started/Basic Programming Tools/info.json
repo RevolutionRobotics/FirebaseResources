@@ -18,7 +18,7 @@
       {
          "id":"601c6bb6-30ae-4e80-8e92-ca7eabb15d18",
          "title":{
-            "en":"Building sources"
+            "en":"Basic Programming"
          },
          "description":{
             "en":"Your tool-list is built up with four different tool categories: move, lights, sounds and time."
@@ -28,7 +28,7 @@
       {
          "id":"41c044f8-f859-446c-af3a-08d50ffcc81b",
          "title":{
-            "en":"Building sources"
+            "en":"Basic Programming"
          },
          "description":{
             "en":"First, click on 'move' card."
@@ -38,7 +38,7 @@
       {
          "id":"566a822a-09de-435e-b2df-042b87e50df3",
          "title":{
-            "en":"Building sources"
+            "en":"Basic Programming"
          },
          "description":{
             "en":"Here you can find different move blocks. By clicking on the first one, you will program your robot to move forward."
@@ -48,7 +48,7 @@
       {
          "id":"62aebbe9-d45a-4c2f-b45a-fb475ee00b30",
          "title":{
-            "en":"Building time."
+            "en":"Basic Programming"
          },
          "description":{
             "en":"You can do the same by choosing the next block, but for a longer period of time."

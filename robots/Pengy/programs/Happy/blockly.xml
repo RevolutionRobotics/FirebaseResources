@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
-   <block type="play_tune" id="EJgRS4t8TFkGJndLw4EN" x="80" y="-51">
+   <block type="play_tune" id="EJgRS4t8TFkGJndLw4EN" x="155" y="99">
       <field name="IN_SOUND">yee_haw</field>
       <next>
          <block type="block_turn" id="TCKZvsG5L7EucnmaCMj3">

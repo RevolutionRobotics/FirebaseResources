@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
-   <block type="block_repeat_forever" id="C9uoyu8tKCHKsHewLc6R" x="82" y="-32">
+   <block type="block_repeat_forever" id="C9uoyu8tKCHKsHewLc6R" x="46" y="25">
       <statement name="STATEMENT">
          <block type="if_then" id="FcMPUO7zDWCOih9DZnlZ">
             <value name="COND">

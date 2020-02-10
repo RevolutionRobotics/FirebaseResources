@@ -1,0 +1,338 @@
+{
+   "id":"8064aaf9-6e35-49bf-b75a-ef81ae313213",
+   "name":{
+      "en":"Basic Programming"
+   },
+   "order": 4,
+   "steps":[
+      {
+         "id":"a14a3e3f-ba52-4909-98f3-c38057eb2923",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"In this challenge you will learn about the basic program tools. To start, click on 'programs' card."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"601c6bb6-30ae-4e80-8e92-ca7eabb15d18",
+         "title":{
+            "en":"Building sources"
+         },
+         "description":{
+            "en":"Your tool-list is build up with four different tool categories: move, lights, sounds and time."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"41c044f8-f859-446c-af3a-08d50ffcc81b",
+         "title":{
+            "en":"Building sources"
+         },
+         "description":{
+            "en":"First, click on 'move' card."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"566a822a-09de-435e-b2df-042b87e50df3",
+         "title":{
+            "en":"Building sources"
+         },
+         "description":{
+            "en":"Here you can find different move blocks. By clicking on the first one, you will program your robot to move forward."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"62aebbe9-d45a-4c2f-b45a-fb475ee00b30",
+         "title":{
+            "en":"Building time."
+         },
+         "description":{
+            "en":"The next block does the same, but for a longer period of time."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"2755825e-9bc7-4b44-8501-c953443ad7e5",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Choose this block if you want your robot to move backward." 
+           },      
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"c5df123d-9c8d-4a08-a71f-d989b8ac6ac8",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"By using this block, your robot will move backward, but for a longer period of time."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"66bfe81d-0164-4da7-90e6-40f14270e27a",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Choose this block if you want your robot to turn left."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"9f46bca1-cd7e-4de6-b579-554443137d1c",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"To turn right, tap on this block."
+         },
+         "challengeType":"horizontal"
+      },      {
+         "id":"12996465-a46f-49fe-8916-c3ac90c76b9b",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"To make your robot turn 180 degrees to the left, tap on this block."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"0f984bc8-0cdf-4f43-944c-d6bbab43e9f4",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"And choose this block if you wnat your robot to turn 180 degrees to the right."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"30922f4f-8fe7-484e-900e-fc8d436fe666",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Let's continue with 'lights' blocks by tapping on its card."
+         },
+         "challengeType":"horizontal"
+      },
+     {
+         "id":"815f21af-ae1f-440f-a04c-b697badd92bb",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Here you can choose different colors effects. By choosing the first block, you will add white light to your robot."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"05b0ae24-6025-41c6-9778-785eb50600a1",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"...or red..."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"fa228a15-2d9a-46c2-a22c-3a74fc19888a",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"...or green..."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5348df73-1d5a-48d1-a363-981278e7cb2c",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"...or blue."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"f7da1058-0eb8-4f87-89da-a471747d8ea6",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"You can choose not to have any lights shown."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"2a90ea26-b92e-4d99-b925-697ee196985c",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"By choosing this block, you rrobot will show red and blue colors, just like the police."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"6704802f-97cd-4cd6-bdd4-617af8ce5248",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"You can program your robot by adding rainbow colors as well."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"22d83707-b30d-4b74-b59c-341520ef87d2",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"You can even add the colors of a traffic light: red, yellow and green."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"fda6d770-50e1-4379-aca3-80380cba6e91",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Now let's see the sound effects you can add to your robot. Click on its card."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"eee36303-5ecd-4f60-9d3c-7496f605c922",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Your robot can meow..."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"50ed87e0-210c-48fd-bba0-20a2e450162e",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"...or play monkey sounds."
+         },
+         "challengeType":"horizontal"
+      },    
+      {
+         "id":"84fb45fe-43e4-422d-a12b-ee83891f7655",     
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"You can add robot sounds, too."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"6b17fd0e-bced-4fa6-8ca5-fce75c391791",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"And your robot can party as well!"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"4139ccfb-333c-4dd1-9207-64c5e81eaa86",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Finally, let's click on 'time' card where you can add timing programmings."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"ba72534b-3650-4220-bfe7-61b62662cc4e",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"By choosing the first block, you can add a 1-second-break."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"bfc254b8-af96-4111-ba05-b3cfd2b35a3a",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"You can also add a longer break that goes for 5 seconds, too."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5b3a1a78-7335-4704-bf13-dcae6ecb79dc",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Let's write a basic program together. Do the same flow that you can see now then press on the save icon on the right."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"0e71d7be-6202-4a0e-a875-0936d78a727e",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Name it here. You can add its description, too if you wish."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"d3cc87fe-368e-49c8-a3c2-6fed13750959",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Once your are done, press on 'Test' card."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"ba58c396-e0cf-47ee-b87f-a372f1ca74ca",
+         "title":{
+            "en":"Basic Programming"
+         },
+         "description":{
+            "en":"Make sure your robot's brain is switched on. Select it from the list. Hurray! You have just made your first programmed flow."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"4c4d3ddd-e752-4982-961c-cf5602fa826c",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      }
+]
+}

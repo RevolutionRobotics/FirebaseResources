@@ -1,12 +1,12 @@
 {
-   "id":"9f1190e8-aa7f-4522-9d27-a1f7f4d55645",
+   "id":"f6d02037-c741-4df2-9360-25fb5cf5c73f",
    "name":{
       "en":"Hello World"
    },
    "order": 3,
    "steps":[
       {
-         "id":"94da02d3-9c57-4ecf-99cb-77f9c69d7842",
+         "id":"e2725c9e-9f5a-483e-9fdb-2aa14d268a5a",
          "title":{
             "en":"Hello World"
          },
@@ -16,7 +16,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"4e1dd44b-5605-43fe-aedc-f7cb41389bce",
+         "id":"4b8a5df3-ed50-4efd-bb14-fd13c056bd58",
          "title":{
             "en":"Hello World"
          },
@@ -26,7 +26,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"30488e2d-3c57-4234-ab56-f2e6f0d3dc13",
+         "id":"aa0d3d39-c142-4fb3-9f03-90edb52b27db",
          "title":{
             "en":"Hello World"
          },
@@ -36,7 +36,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"54124aa2-00dc-4882-8cf7-c0afdb96d4e7",
+         "id":"43773eee-f743-45c5-96a2-b438c9bfc59f",
          "title":{
             "en":"Hello World"
          },
@@ -46,7 +46,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"15e66778-646e-4f94-b86a-f657945aa68d",
+         "id":"5a4eff52-e813-4516-98e9-f1367e1e184e",
          "title":{
             "en":"Hello World"
          },
@@ -56,7 +56,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"ed14bfbd-7d11-4e1e-8ace-e4bfc0242442",
+         "id":"d24bc7b5-c4a3-499f-8d79-94a94d944bce",
          "title":{
             "en":"Hello World"
          },
@@ -66,7 +66,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"cff9ebe2-9a72-4958-9509-b4f2d90a5699",
+         "id":"217a9f39-c45f-46e5-a6c4-aa8ef5503bd1",
          "title":{
             "en":"Hello World"
          },
@@ -76,7 +76,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"eb2f1f78-139f-4fbd-b3ad-24ad632ff318",
+         "id":"9599febe-bc3a-4d0a-9a8b-3cc3b4f0ff81",
          "title":{
             "en":"Hello World"
          },
@@ -86,7 +86,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"3a0f7f9e-08b2-4273-8427-21766c51a8ef",
+         "id":"cdbc3c39-aab3-4f2d-8827-83f3767a9ade",
          "title":{
             "en":"Hello World"
          },
@@ -95,7 +95,7 @@
          },
          "challengeType":"vertical"
       },      {
-         "id":"7a367ff3-20fa-4f2f-960a-c247472bd315",
+         "id":"f7546496-ec30-449c-9e47-4a658f5d8145",
          "title":{
             "en":"Hello World"
          },
@@ -105,7 +105,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"b84f287b-c66d-48ba-96d6-9784ef5210f9",
+         "id":"a5d48524-3a77-408d-bb35-b922222b41be",
          "title":{
             "en":"Hello World"
          },
@@ -115,7 +115,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"4da13511-e027-4675-9bb9-f0f94d1b3295",
+         "id":"f8b52ccf-6145-469a-98b5-4326c3f2b86c",
          "title":{
             "en":"Hello World"
          },
@@ -125,7 +125,7 @@
          "challengeType":"vertical"
       },
       {
-         "id":"7bb422ad-733c-48ce-80f8-cfc28a382681",
+         "id":"dc704c84-081f-448c-b6bd-123482079d40",
          "title":{
             "en":"Good job!"
          },

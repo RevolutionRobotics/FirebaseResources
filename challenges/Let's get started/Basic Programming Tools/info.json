@@ -13,7 +13,7 @@
          "description":{
             "en":"In this challenge you will learn about the basic program tools. To start, click on 'programs' card."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"601c6bb6-30ae-4e80-8e92-ca7eabb15d18",
@@ -21,7 +21,7 @@
             "en":"Building sources"
          },
          "description":{
-            "en":"Your tool-list is build up with four different tool categories: move, lights, sounds and time."
+            "en":"Your tool-list is built up with four different tool categories: move, lights, sounds and time."
          },
          "challengeType":"vertical"
       },
@@ -51,9 +51,9 @@
             "en":"Building time."
          },
          "description":{
-            "en":"The next block does the same, but for a longer period of time."
+            "en":"You can do the same by choosing the next block, but for a longer period of time."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"2755825e-9bc7-4b44-8501-c953443ad7e5",
@@ -61,9 +61,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Choose this block if you want your robot to move backward." 
+            "en":"Choose the following block if you want your robot to move backward." 
            },      
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"c5df123d-9c8d-4a08-a71f-d989b8ac6ac8",
@@ -71,9 +71,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"By using this block, your robot will move backward, but for a longer period of time."
+            "en":"By using the next block, your robot will move backward, but for a longer period of time."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"66bfe81d-0164-4da7-90e6-40f14270e27a",
@@ -81,9 +81,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Choose this block if you want your robot to turn left."
+            "en":"Choose the following block if you want your robot to turn left."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"9f46bca1-cd7e-4de6-b579-554443137d1c",
@@ -91,18 +91,18 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"To turn right, tap on this block."
+            "en":"To turn right, tap on the next block."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },      {
          "id":"12996465-a46f-49fe-8916-c3ac90c76b9b",
          "title":{
             "en":"Basic Programming"
          },
          "description":{
-            "en":"To make your robot turn 180 degrees to the left, tap on this block."
+            "en":"To make your robot turn 180 degrees to the left, tap on the following block."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"0f984bc8-0cdf-4f43-944c-d6bbab43e9f4",
@@ -110,9 +110,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"And choose this block if you wnat your robot to turn 180 degrees to the right."
+            "en":"And choose the last block if you want your robot to turn 180 degrees to the right."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"30922f4f-8fe7-484e-900e-fc8d436fe666",
@@ -122,7 +122,7 @@
          "description":{
             "en":"Let's continue with 'lights' blocks by tapping on its card."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
      {
          "id":"815f21af-ae1f-440f-a04c-b697badd92bb",
@@ -130,9 +130,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Here you can choose different colors effects. By choosing the first block, you will add white light to your robot."
+            "en":"Here you can choose different color effects. By choosing the first block, you will add white light to your robot."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"05b0ae24-6025-41c6-9778-785eb50600a1",
@@ -142,7 +142,7 @@
          "description":{
             "en":"...or red..."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"fa228a15-2d9a-46c2-a22c-3a74fc19888a",
@@ -152,7 +152,7 @@
          "description":{
             "en":"...or green..."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"5348df73-1d5a-48d1-a363-981278e7cb2c",
@@ -162,7 +162,7 @@
          "description":{
             "en":"...or blue."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"f7da1058-0eb8-4f87-89da-a471747d8ea6",
@@ -172,7 +172,7 @@
          "description":{
             "en":"You can choose not to have any lights shown."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"2a90ea26-b92e-4d99-b925-697ee196985c",
@@ -180,9 +180,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"By choosing this block, you rrobot will show red and blue colors, just like the police."
+            "en":"By choosing the next block, you robot will show red and blue colors, just like the police."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"6704802f-97cd-4cd6-bdd4-617af8ce5248",
@@ -192,7 +192,7 @@
          "description":{
             "en":"You can program your robot by adding rainbow colors as well."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"22d83707-b30d-4b74-b59c-341520ef87d2",
@@ -202,7 +202,7 @@
          "description":{
             "en":"You can even add the colors of a traffic light: red, yellow and green."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"fda6d770-50e1-4379-aca3-80380cba6e91",
@@ -210,9 +210,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Now let's see the sound effects you can add to your robot. Click on its card."
+            "en":"Now let's check out the sound effects you can add to your robot. Click on the 'sounds' card."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"eee36303-5ecd-4f60-9d3c-7496f605c922",
@@ -222,7 +222,7 @@
          "description":{
             "en":"Your robot can meow..."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"50ed87e0-210c-48fd-bba0-20a2e450162e",
@@ -232,7 +232,7 @@
          "description":{
             "en":"...or play monkey sounds."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },    
       {
          "id":"84fb45fe-43e4-422d-a12b-ee83891f7655",     
@@ -242,7 +242,7 @@
          "description":{
             "en":"You can add robot sounds, too."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"6b17fd0e-bced-4fa6-8ca5-fce75c391791",
@@ -252,7 +252,7 @@
          "description":{
             "en":"And your robot can party as well!"
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"4139ccfb-333c-4dd1-9207-64c5e81eaa86",
@@ -260,9 +260,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Finally, let's click on 'time' card where you can add timing programmings."
+            "en":"Finally, let's click the 'time' card where you can add time breaks."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"ba72534b-3650-4220-bfe7-61b62662cc4e",
@@ -272,7 +272,7 @@
          "description":{
             "en":"By choosing the first block, you can add a 1-second-break."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"bfc254b8-af96-4111-ba05-b3cfd2b35a3a",
@@ -282,7 +282,7 @@
          "description":{
             "en":"You can also add a longer break that goes for 5 seconds, too."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"5b3a1a78-7335-4704-bf13-dcae6ecb79dc",
@@ -290,7 +290,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Let's write a basic program together. Do the same flow that you can see now then press on the save icon on the right."
+            "en":"Let's write a basic program together! Do the same flow that you can see on this screen then tap on the save icon on the right."
          },
          "challengeType":"vertical"
       },
@@ -310,9 +310,9 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Once your are done, press on 'Test' card."
+            "en":"Once your are done, press on the 'Test' card."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"ba58c396-e0cf-47ee-b87f-a372f1ca74ca",
@@ -322,7 +322,7 @@
          "description":{
             "en":"Make sure your robot's brain is switched on. Select it from the list. Hurray! You have just made your first programmed flow."
          },
-         "challengeType":"horizontal"
+         "challengeType":"vertical"
       },
       {
          "id":"4c4d3ddd-e752-4982-961c-cf5602fa826c",

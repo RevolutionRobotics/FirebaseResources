@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xml xmlns="http://www.w3.org/1999/xhtml">
-   <block type="block_stop_all_motors" id="DcqJbTyRV9yDcmtk4G3O" x="130" y="-13">
+   <block type="block_stop_all_motors" id="DcqJbTyRV9yDcmtk4G3O" x="209" y="95">
       <field name="STOP_ALL_ACTION_SELECTOR">Motor.ACTION_RELEASE</field>
       <next>
          <block type="block_wait" id="TSvjcBTkfi0jDyVYcEZh">
@@ -13,4 +12,3 @@
       </next>
    </block>
 </xml>
-

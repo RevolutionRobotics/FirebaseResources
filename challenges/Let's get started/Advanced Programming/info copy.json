@@ -1,0 +1,498 @@
+{
+   "id":"28af3761-3d39-452f-8434-02597dbfda1a",
+   "name":{
+      "en":"Programming - Advanced Level"
+   },
+   "order": 5,
+   "steps":[
+      {
+         "id":"d35bd673-cc1f-47e0-929b-02c5f1b5591c",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"88476037-e5af-4391-ad08-78ec0f66db38",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"bba0b069-a91e-48a8-ae59-1b36b4b8e174",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"d73f2eae-d52a-44fb-a5b3-027f88355107",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"4982f23a-a039-43f0-ad3f-f3feb3294e91",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":"'"
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"d4fbb710-a61d-41e4-8cc7-072db3e0eab6",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""   
+         },      
+         "challengeType":"vertical"
+      },
+      {
+         "id":"49a21a89-2f2d-4da2-8812-6404fc93aa72",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"20c9b7a9-0a0d-4fd5-8851-3d8a3c1e24c3",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"edfcdead-c8b3-4550-8b96-d26965ce6da4",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },      {
+         "id":"77a3b168-80a1-4c6a-9aa6-c7a7aa02f664",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"44644bd2-f615-4810-9b1f-7831815e9243",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"f07a8dd6-62d6-46db-94b5-454700360eeb",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"141f3087-403c-46e2-a659-73fde86c781c",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"24d93028-ca3e-4630-907d-fb42ad15821d",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"fc2497a9-fb70-484b-b82d-8f99ca3d5d47",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"adcf2402-46cc-40d4-b9de-dd91e5cb3db7",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"fd369e27-bab9-47c0-a5ce-ba2b39f06059",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"ea48b7b2-3473-42df-891e-c5b1085fcb55",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"f299337d-6d18-447b-9203-fd88d77c1601",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"285adaf2-9afc-45bf-ab60-ec89755fbf52",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"5ad6214f-c822-49b4-92dc-31c34ec136e5",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"17b26209-e337-4049-b48c-be0125da5eb5",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"d14a35ee-51b0-4926-b8de-9827d2241511",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },    
+      {
+         "id":"3a2acc1c-54bc-43aa-a97f-51f577b3dfd1",     
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"88fe52c2-a0c4-4ff3-bcc0-9c8b0a94484f",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"fb75ef34-df88-4b68-bc9a-fb0f182eae2e",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"240b90f5-cf07-49ef-ac6a-52c22b73a47a",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"8d041ee5-40ec-4004-b002-f6baead9a952",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"2d7aa20f-5fcb-425f-ad47-38f0ec197325",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"968c152b-c663-4edb-996f-6164ff9c1427",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"7443314a-de27-4a61-843c-2d4cf7365460",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"8f2f0a40-996b-43f0-8b2f-adfdfe601927",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"de1d41f0-41d1-44da-aa4d-f251aa523ce4",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""   
+         },      
+         "challengeType":"vertical"
+      },
+      {
+         "id":"53573d7f-9b91-4374-9a96-26210e92303c",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"3b3e6257-d663-4c66-b0e0-0faebc97efdb",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"d285f874-7ed4-4325-9442-2aa1f5b8d208",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },      
+      {
+         "id":"f91bf658-3b90-4771-8e35-249268ac80fe",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"7cf02bbf-225f-4e67-9f2a-e8cb77c99488",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"9abc6f63-9b2f-47f5-8699-65f468dd41fc",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"416f78a3-4460-4368-9ffe-46e7920b4eb5",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"3f0c5ca0-db32-4b60-9a0c-c98e24a8fefc",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"45dcbea3-3903-44e8-aefe-ee2b58dbb762",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"4a9a9ff8-6fa2-4417-81f9-b43e5837f408",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"ca8ee8c0-83e9-4189-b867-18eb106f0760",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"a0a8909c2-c90a-4152-8f98-f3f06362bf30",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"c106e876-9f48-4081-89fa-1c8becd9a798",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"19cf1216-02c1-4d7e-9617-c973a29719d8",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"912403a0-4b3e-4fdb-8a43-9b68dcb20415",
+         "title":{
+            "en":"Programming - Advanced Level"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"ec6a5b62-1b0c-4508-9c04-1c97b1137f86",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      }
+]
+}

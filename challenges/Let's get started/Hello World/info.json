@@ -1,24 +1,24 @@
 {
    "id":"f6d02037-c741-4df2-9360-25fb5cf5c73f",
    "name":{
-      "en":"Hello World"
+      "en":"Hello World - Let's create your very first program!"
    },
    "order": 3,
    "steps":[
       {
          "id":"e2725c9e-9f5a-483e-9fdb-2aa14d268a5a",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"In this exciting challenge you will learn how to program your robot. The sky is the limit, you have endless options to make your robot move, play tunes or use its sensors. To start programming, choose the 'programs' card in your Home Screen."
+            "en":"In this exciting challenge you will learn how to program your robot. You will create your very first program that will enter you to the unlimited world of programming. Let's see how to make your robot move, play tunes or use its sensors. To start programming, choose the 'programs' card in your Home Screen. Let's get started!"
          },
          "challengeType":"vertical"
       },
       {
          "id":"4b8a5df3-ed50-4efd-bb14-fd13c056bd58",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"You can see your tool-list on the left of the screen. Let's click on 'move' card."
@@ -28,7 +28,7 @@
       {
          "id":"aa0d3d39-c142-4fb3-9f03-90edb52b27db",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"Here you can choose from different directions. Let's click on the first one. It will program your robot to move forward."
@@ -38,7 +38,7 @@
       {
          "id":"43773eee-f743-45c5-96a2-b438c9bfc59f",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"After choosing the direction, let's click on 'Test' card to apply your program." 
@@ -48,7 +48,7 @@
       {
          "id":"5a4eff52-e813-4516-98e9-f1367e1e184e",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"Make sure your robot's brain is switched on. Once it's ready, click on 'Start' card."
@@ -58,7 +58,7 @@
       {
          "id":"d24bc7b5-c4a3-499f-8d79-94a94d944bce",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"Your device will search for your robot via bluetooth."   
@@ -68,7 +68,7 @@
       {
          "id":"217a9f39-c45f-46e5-a6c4-aa8ef5503bd1",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"Select your robot."
@@ -78,7 +78,7 @@
       {
          "id":"9599febe-bc3a-4d0a-9a8b-3cc3b4f0ff81",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"Aaaand your robot has just made its first programmed steps. Well done! To finish, click on 'Stop' card."
@@ -88,7 +88,7 @@
       {
          "id":"cdbc3c39-aab3-4f2d-8827-83f3767a9ade",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"To save your program, let's click on save icon on the right."
@@ -97,7 +97,7 @@
       },      {
          "id":"f7546496-ec30-449c-9e47-4a658f5d8145",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"Now you can name your program and add its description."
@@ -107,7 +107,7 @@
       {
          "id":"a5d48524-3a77-408d-bb35-b922222b41be",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"Press 'Done' once you are ready."
@@ -117,7 +117,7 @@
       {
          "id":"f8b52ccf-6145-469a-98b5-4326c3f2b86c",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
             "en":"You can continue programming by adding new blocks."

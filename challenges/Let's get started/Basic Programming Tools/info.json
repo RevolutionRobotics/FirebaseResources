@@ -31,7 +31,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"First, click on 'move' card."
+            "en":"The 'move' card is the first in the list. By choosing blocks from this group, you can program your robot to move forward, backward, or turn. Click on the card and let's see the blocks."
          },
          "challengeType":"vertical"
       },
@@ -41,7 +41,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Here you can find different move blocks. By clicking on the first one, you will program your robot to move forward."
+            "en":"With the first block you can program your robot to move forward."
          },
          "challengeType":"vertical"
       },
@@ -100,7 +100,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"To make your robot turn 180 degrees to the left, tap on the following block."
+            "en":"To program your robot to make a half-turn to the left, tap on the following block."
          },
          "challengeType":"vertical"
       },
@@ -110,7 +110,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"And choose the last block if you want your robot to turn 180 degrees to the right."
+            "en":"And choose the last block if you want your robot to make a half-turn to the right."
          },
          "challengeType":"vertical"
       },
@@ -120,7 +120,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Let's continue with 'lights' blocks by tapping on its card."
+            "en":"The next group of blocks is 'lights'. Here you can choose different color effects. Tap on its card to see your options."
          },
          "challengeType":"vertical"
       },
@@ -130,7 +130,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Here you can choose different color effects. By choosing the first block, you will add white light to your robot."
+            "en":"By choosing the first block, you will add white light to your robot."
          },
          "challengeType":"vertical"
       },
@@ -290,37 +290,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Let's write a basic program together! Do the same flow that you can see on this screen then tap on the save icon on the right."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"0e71d7be-6202-4a0e-a875-0936d78a727e",
-         "title":{
-            "en":"Basic Programming"
-         },
-         "description":{
-            "en":"Name it here. You can add its description, too if you wish."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"d3cc87fe-368e-49c8-a3c2-6fed13750959",
-         "title":{
-            "en":"Basic Programming"
-         },
-         "description":{
-            "en":"Once your are done, press on the 'Test' card."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"ba58c396-e0cf-47ee-b87f-a372f1ca74ca",
-         "title":{
-            "en":"Basic Programming"
-         },
-         "description":{
-            "en":"Make sure your robot's brain is switched on. Select it from the list. Hurray! You have just made your first programmed flow."
+            "en":"Let's write a basic program together! Do the same flow that you can see on this screen then you can save it if you want."
          },
          "challengeType":"vertical"
       },

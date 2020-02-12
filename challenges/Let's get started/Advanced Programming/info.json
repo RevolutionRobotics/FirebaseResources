@@ -42,7 +42,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"The following groups are 'loops', 'logic', and 'time'."
+            "en":"The following groups are 'loops', 'logic' and 'time'."
          },
          "challengeType":"vertical"
       },
@@ -52,7 +52,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Let's start with 'motors' tools. Tap on its card to see the options you have."
+            "en":"Let's start with 'motors'. Tap on its card to see the options you have."
          },  
          "challengeType":"vertical"
       },
@@ -62,7 +62,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"With the first card you can program your robot's driving conditions. You can change its direction, length and speed of drive."   
+            "en":"With the first block you can program your robot's driving conditions. You can change its direction, length and speed of drive."   
          },      
          "challengeType":"vertical"
       },
@@ -72,7 +72,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"To change direction click on the word 'forward'. You can choose from 'forward' and 'backward' by tapping one of the words."
+            "en":"To change direction click on the word 'forward' on the block. Then, you can choose from 'forward' and 'backward' by tapping one of the words."
          },
          "challengeType":"vertical"
       },
@@ -82,7 +82,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"If you want to change the length of the drive, tap on the number shown on the card. The following image will pop up where you can choose from 1, 2 and 5-second-long periods."
+            "en":"If you want to change the length of the drive, tap on the number shown on the block. The following image will pop up where you can choose from 1, 2 and 5-second-long periods."
          },
          "challengeType":"vertical"
       },
@@ -92,7 +92,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"To change your robot's speed, tap on the word 'slow' to see your following options shown on your screen. You can choose from 'slow', 'medium' and 'fast'."
+            "en":"To change your robot's speed, tap on the word 'slow' to see the following options shown on your screen. You can choose from 'slow', 'medium' and 'fast'."
          },
          "challengeType":"vertical"
       },      {
@@ -101,7 +101,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Click on the secnd card within 'motors' category to add turning directtions and the degree of the turn."
+            "en":"Click on the secnd block within 'motors' category to add the turning direction and the degree of the turn."
          },
          "challengeType":"vertical"
       },
@@ -111,7 +111,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Tap on the word 'left' if you want to change direction. Here you can choose from 'left' and 'right'."
+            "en":"Tap on the word 'left' within the block if you want to change direction. Here you can choose from 'left' and 'right'."
          },
          "challengeType":"vertical"
       },
@@ -131,7 +131,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Let's check out the following card. Here you can add motors, direction and degrees."
+            "en":"Let's check out the following block. Here you can add motors, direction and degrees."
          },
          "challengeType":"vertical"
       },
@@ -171,7 +171,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"You can add spinning motion as well, too. Tap on the fourth card to do so."
+            "en":"You can add spinning motion, too. Tap on the fourth block to do so."
          },
          "challengeType":"vertical"
       },
@@ -211,7 +211,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"If you want to stop certain motors, tap on the following card."
+            "en":"If you want to stop certain motors, tap on the next block."
          },
          "challengeType":"vertical"
       },
@@ -221,7 +221,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Click on the name 'motor1' and add the motor you are about to stop."
+            "en":"Click on 'motor1' and add the motor you are about to stop."
          },
          "challengeType":"vertical"
       },
@@ -231,7 +231,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"You can stop all motors by clicking on the last card."
+            "en":"You can stop all motors by clicking on the last block."
          },
          "challengeType":"vertical"
       },    
@@ -261,7 +261,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Click on the word 'istance' to apply changes."
+            "en":"Click on 'distance' to apply changes."
          },
          "challengeType":"vertical"
       },
@@ -331,7 +331,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"You can add different light effects, too. To see the list, click on the icon on the right."   
+            "en":"You can add different light effects, too. To see the list, click on the icon on the right of the block."   
          },      
          "challengeType":"vertical"
       },
@@ -351,7 +351,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"You can add sound effects as well. Tap on it to find out about the options."
+            "en":"You can add sound effects as well. Tap on 'sounds' to find out about the options."
          },
          "challengeType":"vertical"
       },
@@ -361,7 +361,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Once you tapped on 'sounds' the following block will pop up. lick on the loud speaker icon."
+            "en":"Once you tapped on 'sounds' the following block will pop up. Click on the loud speaker icon."
          },
          "challengeType":"vertical"
       },      
@@ -381,7 +381,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"You can add loops, too. Tap on it to find out more."
+            "en":"You can add loops, too. Tap on 'loops' to find out more."
          },
          "challengeType":"vertical"
       },
@@ -391,7 +391,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"By choosing the first block you can add an order that repeats forever."
+            "en":"By choosing the first block from the list, you can add an order that repeats forever."
          },
          "challengeType":"vertical"
       },
@@ -461,7 +461,7 @@
             "en":"Programming - Advanced Level"
          },
          "description":{
-            "en":"Any time you want to get rid of a block, you just need to garb it and throw it into the trash can."
+            "en":"Anytime you want to get rid of a block, you just need to grab it and throw it into the trash can."
          },
          "challengeType":"vertical"
       },

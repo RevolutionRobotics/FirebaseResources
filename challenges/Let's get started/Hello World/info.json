@@ -1,421 +1,131 @@
 {
-   "id":"9f1190e8-aa7f-4522-9d27-a1f7f4d55645",
+   "id":"f6d02037-c741-4df2-9360-25fb5cf5c73f",
    "name":{
-      "en":"Hello World"
+      "en":"Hello World - Let's create your very first program!"
    },
    "order": 3,
    "steps":[
       {
-         "id":"94da02d3-9c57-4ecf-99cb-77f9c69d7842",
+         "id":"e2725c9e-9f5a-483e-9fdb-2aa14d268a5a",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"In this exciting challenge you will learn how to program your robot. The sky is the limit, you have got endless options to make your robot move, play tunes or use its sensors. To start programmming choose the 'robots' card within your Home Screen."
+            "en":"In this exciting challenge you will learn how to program your robot. You will create your very first program that will enter you to the unlimited world of programming. Let's see how to make your robot move, play tunes or use its sensors. To start programming, choose the 'programs' card in your Home Screen. Let's get started!"
          },
          "challengeType":"vertical"
       },
       {
-         "id":"4e1dd44b-5605-43fe-aedc-f7cb41389bce",
+         "id":"4b8a5df3-ed50-4efd-bb14-fd13c056bd58",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"You can see your tool-list on the left of the screen. Let's go one by one, first, click on 'motors'."
+            "en":"You can see your tool-list on the left of the screen. Let's click on 'move' card."
          },
          "challengeType":"vertical"
       },
       {
-         "id":"30488e2d-3c57-4234-ab56-f2e6f0d3dc13",
+         "id":"aa0d3d39-c142-4fb3-9f03-90edb52b27db",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Once you clicked on 'motors', the following options will come up. To choose between the drive, turn or motor programmings, you just easily need to click on one of them."
+            "en":"Here you can choose from different directions. Let's click on the first one. It will program your robot to move forward."
          },
          "challengeType":"vertical"
       },
       {
-         "id":"54124aa2-00dc-4882-8cf7-c0afdb96d4e7",
+         "id":"43773eee-f743-45c5-96a2-b438c9bfc59f",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"If you want to do sensory programmings, you will need to choose from the next list."
+            "en":"After choosing the direction, let's click on 'Test' card to apply your program." 
          },
          "challengeType":"vertical"
       },
       {
-         "id":"15e66778-646e-4f94-b86a-f657945aa68d",
+         "id":"5a4eff52-e813-4516-98e9-f1367e1e184e",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Within 'loops' you can choose from commands that will transform the previous steps into routines saving time for you."
+            "en":"Make sure your robot's brain is switched on. Once it's ready, click on 'Start' card."
          },  
          "challengeType":"vertical"
       },
       {
-         "id":"ed14bfbd-7d11-4e1e-8ace-e4bfc0242442",
+         "id":"d24bc7b5-c4a3-499f-8d79-94a94d944bce",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Under the 'logic' card you will find some further command-influential parts."   
+            "en":"Your device will search for your robot via bluetooth."   
          },      
          "challengeType":"vertical"
       },
       {
-         "id":"cff9ebe2-9a72-4958-9509-b4f2d90a5699",
+         "id":"217a9f39-c45f-46e5-a6c4-aa8ef5503bd1",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Within 'time' you can set breaks for example."
+            "en":"Select your robot."
          },
          "challengeType":"vertical"
       },
       {
-         "id":"eb2f1f78-139f-4fbd-b3ad-24ad632ff318",
+         "id":"9599febe-bc3a-4d0a-9a8b-3cc3b4f0ff81",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Here you can add mathematical commands."
+            "en":"Aaaand your robot has just made its first programmed steps. Well done! To finish, click on 'Stop' card."
          },
          "challengeType":"vertical"
       },
       {
-         "id":"3a0f7f9e-08b2-4273-8427-21766c51a8ef",
+         "id":"cdbc3c39-aab3-4f2d-8827-83f3767a9ade",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"You can also find a card under which you can create variables just like the pros."
+            "en":"To save your program, let's click on save icon on the right."
          },
          "challengeType":"vertical"
       },      {
-         "id":"7a367ff3-20fa-4f2f-960a-c247472bd315",
+         "id":"f7546496-ec30-449c-9e47-4a658f5d8145",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Finally, you find the f(x) functions card. "
+            "en":"Now you can name your program and add its description."
          },
          "challengeType":"vertical"
       },
       {
-         "id":"b84f287b-c66d-48ba-96d6-9784ef5210f9",
+         "id":"a5d48524-3a77-408d-bb35-b922222b41be",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Now let's go back to the 'motors' card and click on the very first option, 'drive'."
+            "en":"Press 'Done' once you are ready."
          },
          "challengeType":"vertical"
       },
       {
-         "id":"4da13511-e027-4675-9bb9-f0f94d1b3295",
+         "id":"f8b52ccf-6145-469a-98b5-4326c3f2b86c",
          "title":{
-            "en":"Hello World"
+            "en":"Hello World - Let's create your very first program!"
          },
          "description":{
-            "en":"Once you selected the card you can change the data within. Let's change the number of seconds our robot will drive forward. To do so, you need to click on the number '3' first."
+            "en":"You can continue programming by adding new blocks."
          },
          "challengeType":"vertical"
       },
       {
-         "id":"a45460d0-38f7-4108-9ccb-01fa80722139",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once you clicked on the number, the following image will come up. You can change the number by deleting the original one and giving your new number."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"e56ea60f-5bd4-429b-b23b-deff0d46e6d4",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Here we change the driving length to 4 seconds. To finish, click on OK."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"9418175c-454e-4fe5-a9ae-1a4c40b555ca",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Now let's add a loop to our drive command. We choose the first option this time."
-         },
-         "challengeType":"zoomable"
-      },
-      {
-         "id":"3dde3618-a099-4d3a-8cfb-396a3eb61d92",
-         "title":{
-            "en":"Hello world"
-         },
-         "description":{
-            "en":"Once you choose a repeat command, you can add it your previous command or commands. Here, you need to add the number of repetation you would like to have. Let's delete zero and add your choice."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"05cdf8db-32c9-49dc-9cf1-224bd48a6b55",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Let's choose 4 again. To apply, press OK."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"77fd4dea-1edc-46c6-a1c1-ef35361f1be4",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"To continue, let's go back to 'motors' and pick the second command."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"2eed2ad7-6918-43aa-b0e7-c46738d1f6dd",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once you clicked on it, the command will be added to your list. Let's embed it into your repeat command. It means your robot will turn left in 90 degrees four times, making it a full circle."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"90ebbac9-1af6-480b-9353-e489d01a4b41",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Let's click on 'motors' one more time, and pick 'turn left' again."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"c5765287-383a-4ca9-bcd1-4910bd361e6a",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once the command is added to your list, click on it to change direction."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"f598beb1-866e-480f-b01a-7f95a5414cbd",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"The following image should come up, here you need to click on option 'right'."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"c3833087-3708-489a-a2d2-b9177ad9e51f",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"However, you can also change the degree of the turn. To apply the change, click on the given number, then delete 90 and add the number of your preference. Finally, press OK."
-         },
-         "challengeType":"vertical"
-      },    
-      {
-         "id":"e10d4397-8cfc-4eda-8274-5d47600e3eb5",     
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Let's change the original 90 degrees to 180, so a half circle."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"0c863fdb-144d-40b4-a427-82aac8aa1d0e",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Let's add a short pause as well. Click on 'time' and let's choose the first order."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"b9d430b2-0277-494b-90f1-7c9ea631553d",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Attach your new command to the list and change the number of seconds as well. To do so, click on number 1."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"5774e52b-8818-49d1-8463-9e14d07860ec",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Delete number 1 with the same procedure you did before."
-         },  
-         "challengeType":"vertical"
-      },
-      {
-         "id":"1b2f9dd2-d24f-4790-862d-252ce855e823",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"We will change the time for 5 seconds."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"7e6d0a61-8337-4d0e-b84d-3d6ccd30dc30",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Finally, let's play with the sensors! Once you clicked on the card, let's pick 'play tune'."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"db9daaac-215a-4bd2-85e7-f4c1452423b8",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once it is visible among your chosen programs, attach it at the end. Once you have your list of commands, you need to save your program. To do so, let's click on the save icon."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"883fabdc-39a0-42f0-9124-700f9136c0d1",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Next, you need to name your program. Tap to edit the name and description."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"f8f8b504-b2ed-480a-ac86-861e5d4bd965",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once you named your program, press 'Done'."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"e90aca95-1081-48ee-a992-87900d8b99e9",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"As your next step, you need to go to your Home Screen where you can find 'robots'. Click on it."   
-         },      
-         "challengeType":"vertical"
-      },
-      {
-         "id":"255cdcda-b62d-4462-8878-06fb4e85ad12",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Within robots, choose the robot you want to program. Here we have Revvy. You need to click on the pencil image to apply your saved programs."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"d5076c65-271a-4b9c-b186-7f0959c6afda",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once clicking on the pencil, you will see the following screen. Here you need to switch to 'Controller' by clicking on it."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"2530bb30-1ccb-4a11-b5c3-18d484f41099",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Now you are within the Controller Menu where you can find the programmed and non-programmed buttons,too. You can add your program to any of the empty buttons by clicking onto 'empty'. Let's pick the first one this time."
-         },
-         "challengeType":"vertical"
-      },      
-      {
-         "id":"7153232e-a7d0-4a3c-9529-70fdfea79875",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Once you clicked on the word empty belonging to the button you are about to program, you will see the written programs found on your device. Let's pick the one you have just saved."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"da038987-7438-45c0-a987-691bbad60073",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Now your program is added to the button of your choice. Let's click on the button!"
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"edd8866b-2457-447b-8123-536fa16e45bf",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Next, click Start as this message comes up."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"f4d2e724-a59b-4f0c-bcd2-674adb5dbc1e",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Your robot will appear on the Bluetooth list if it is turned green. If you have more than one robot, choose the name shown on the serial number at the back of the robot brain. If you only have one robot brain in the area, you should only see one serial number."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"a85b335e-5ba8-4b0d-b90a-7bd30b781a07",
-         "title":{
-            "en":"Hello World"
-         },
-         "description":{
-            "en":"Aaaand, voila! Your program is visible and added to the button of your preference. Now let's play! Push the button and see what you have just achieved. Hurray!!!!"
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"7bb422ad-733c-48ce-80f8-cfc28a382681",
+         "id":"dc704c84-081f-448c-b6bd-123482079d40",
          "title":{
             "en":"Good job!"
          },

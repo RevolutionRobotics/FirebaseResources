@@ -3,7 +3,7 @@
    "name":{
       "en":"Stack the cups"
    },
-   "draft": true,
+   "draft": false,
    "order": 2,
    "steps":[
       {
@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Place four cups on your challenge field as depicted. The goal is to move the cups from their starting to the middle of the field and stack them."
+            "en":"Place four cups on your challenge field as depicted. The goal is to move the cups from their starting point to the middle of the field and stack them."
          },
          "challengeType":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
          "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/stack-the-cups-weekly-challenge-2/62",
          "challengeType":"button"
      }
    ]

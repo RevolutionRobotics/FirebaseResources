@@ -3,6 +3,7 @@
    "name":{
       "en":"Hello World - Let's create your very first program!"
    },
+   "draft": true,
    "order": 3,
    "steps":[
       {

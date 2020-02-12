@@ -3,6 +3,7 @@
    "name":{
       "en":"Programming - Advanced Level"
    },
+   "draft": true,
    "order": 5,
    "steps":[
       {

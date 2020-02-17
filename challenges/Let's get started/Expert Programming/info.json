@@ -51,7 +51,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"Once you clicked on 'motors', the following options will come up. To choose between the drive, turn or motor programmings, you just easily need to tap on one of them."
+            "en":"Once you clicked on 'motors', the following options will come up. To choose between the drive, turn or motor programming, you just easily need to tap on one of them."
          },
          "challengeType":"vertical"
       },
@@ -71,7 +71,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"If you want to add sensory programmings, you will need to choose from the next group: 'sensors'."
+            "en":"If you want to add sensory programming, you will need to choose from the next group: 'sensors'."
          },
          "challengeType":"vertical"
       },
@@ -111,7 +111,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"The list of loops continues with blocks that break or terminate the flow. "
+            "en":"The list of loops continues with blocks that break or terminate the flow."
          },  
          "challengeType":"vertical"
       },

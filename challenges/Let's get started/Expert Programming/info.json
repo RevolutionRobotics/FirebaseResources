@@ -41,7 +41,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"You can see your tool-list on the left of the screen. Let's go one by one, first, click on 'motors' card."
+            "en":"You can see your tool-list on the left side of the screen. Let's go one by one, first, click on 'motors' card."
          },
          "challengeType":"vertical"
       },
@@ -91,7 +91,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"If you are about to add voice effetcs to your robot, tap on 'sounds' card and pick anything from the list."
+            "en":"If you are about to add voice effects to your robot, tap on 'sounds' card and pick anything from the list."
          },  
          "challengeType":"vertical"
       },
@@ -101,7 +101,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"Within 'loops' you can choose from commands that will transform existing steps into routines saving time for you."
+            "en":"Within 'loops' you can choose from commands that will transform existing steps into routines saving you time."
          },  
          "challengeType":"vertical"
       },
@@ -141,7 +141,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"With 'math' group you can add mathematical commands."
+            "en":"Within 'math' group you can add mathematical commands."
          },
          "challengeType":"vertical"
       },
@@ -170,7 +170,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"Finally, you find the f(x) functions card."
+            "en":"Finally, you find the f(x) functions blocks."
          },
          "challengeType":"vertical"
       },

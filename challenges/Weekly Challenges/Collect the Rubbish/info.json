@@ -3,7 +3,7 @@
    "name":{
       "en":"Collect the rubbish"
    },
-   "draft": true,
+   "draft": false,
    "order": 3,
    "steps":[
       {
@@ -57,7 +57,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/collect-the-rubbish/64",
          "challengeType":"button"
       }
    ]

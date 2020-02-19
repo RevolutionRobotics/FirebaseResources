@@ -1,0 +1,188 @@
+{
+   "id":"084732fa-94d8-40e0-87d4-5baf3a87074c",
+   "name":{
+      "en":"Expert Programming"
+   },
+   "order": 6,
+   "steps":[
+      {
+         "id":"a8294580-f123-4e5a-a2cc-435ef9071282",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"This challenge leads you to a higher level of programming to become an expert. To start, click on 'programs' card in your Home Screen. Let's do this!"
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"57590b23-525c-4ef6-b100-0ead6d80e042",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Tap on number 3."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"e4321646-fa6c-43cf-ac5a-cc02974767b7",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Select your robot."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"ee46dcb2-4636-49de-9b3c-3cee3dd1d782",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"You can see your tool-list on the left side of the screen. Let's go one by one, first, click on 'motors' card."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"e97bc468-d228-4439-98bf-f57dce6e3b4c",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Once you clicked on 'motors', the following options will come up. To choose between the drive, turn or motor programming, you just easily need to tap on one of them."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"b6b817e6-918e-4bf7-84cc-2318fa89e0b6",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"...the list of motor blocks is long, don't miss out the ones at the end of the list, either."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"068d91c4-4d05-411b-9d73-27244d67e017",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"If you want to add sensory programming, you will need to choose from the next group: 'sensors'."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"e96edbca-ec76-449d-b163-ceb9d76f609f",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"The following group is 'lights' that offers you commands affecting your robot's flashing colors."
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"68878df7-42b7-4373-8aa2-21fdd3d2362a",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"If you are about to add voice effects to your robot, tap on 'sounds' card and pick anything from the list."
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"54008250-9078-4e05-b105-7ff8e508824f",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Within 'loops' you can choose from commands that will transform existing steps into routines saving you time."
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"99e1bc4d-184d-437f-bc1d-641773138ebc",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"The list of loops continues with blocks that break or terminate the flow."
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"0fb509e9-8741-46b2-8871-51022531824f",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Under the 'logic' card you will find some further command-influential parts."   
+         },      
+         "challengeType":"vertical"
+      },
+      {
+         "id":"2dc44086-469c-444b-99d3-b1953c24c891",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Within 'time' you can set breaks for example."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"6985d405-1ed7-4fee-9492-04d7f1b9d7f7",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Within 'math' group you can add mathematical commands."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"d1c991fd-2b60-401b-a482-526b8fb15142",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"...and some more math blocks."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"7ba38a26-ef3e-4da9-b720-9d0bbd432116",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"With the next card you can create variables just like the pros."
+         },
+         "challengeType":"vertical"
+      },      {
+         "id":"230b01aa-a323-406f-83ad-8a361c60886e",
+         "title":{
+            "en":"Expert Programming"
+         },
+         "description":{
+            "en":"Finally, you find the f(x) functions blocks."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"aa3de1ce-46e4-48bb-a8a8-2d3bef8efe38",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":"Now let's write your first expert programming. Who is the pro? You are!"
+         },
+         "challengeType":"horizontal"
+      }
+]
+}

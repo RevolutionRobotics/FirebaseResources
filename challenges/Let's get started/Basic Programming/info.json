@@ -3,7 +3,7 @@
    "name":{
       "en":"Basic Programming"
    },
-   "draft": true,
+   "draft": false,
    "order": 4,
    "steps":[
       {
@@ -22,7 +22,7 @@
             "en":"Basic Programming"
          },
          "description":{
-            "en":"Your tool-list is built up with four different tool categories: move, lights, sounds and time."
+            "en":"Your tool list has four different categories: move, lights, sounds, and time."
          },
          "challengeType":"vertical"
       },

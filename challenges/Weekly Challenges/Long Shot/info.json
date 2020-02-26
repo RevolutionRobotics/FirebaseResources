@@ -3,7 +3,7 @@
    "name":{
       "en":"Long shot"
    },
-   "draft": true,
+   "draft": false,
    "order": 4,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/long-shot-weekly-challenge-4/66",
          "challengeType":"button"
       }
    ]

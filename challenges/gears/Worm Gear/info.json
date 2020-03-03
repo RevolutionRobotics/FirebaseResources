@@ -22,7 +22,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"Before building our model for this challenge, let's look at the following image. The way our worm gear connects to the standard gear, we can see that they are rotating on two perpendicular axes."
+            "en":"Before building our model for this challenge, let's look at the following image. The worm gear stands perpendicular to the standard gear."
          },
          "challengeType":"horizontal"
       },
@@ -310,7 +310,7 @@
             "en":"Review"
          },
          "description":{
-            "en":"If we attach a 40-tooth-gear to a 20-tooth-gear, torque will be 1:2"
+            "en":"If we attach a 40-tooth-gear to a 20-tooth-gear, torque will be 2:1."
          },
          "challengeType":"horizontal"
       },
@@ -320,7 +320,7 @@
             "en":"Worm Gear"
          },
          "description":{
-            "en":"If we attach a 40-tooth-gear to a worm gear, torque becomes 1:40. It means it will be 20 times higher than the 40-tooth-gear with the 20-tooth gear.<br/>1:40 vs 40:20"
+            "en":"If we attach a 40-tooth-gear to a worm gear, torque becomes 1:40. It means it will be 20 times higher than the 40-tooth-gear with the 20-tooth-gear.<br/>1:40 vs 40:20"
          },
          "challengeType":"horizontal"
       },
@@ -360,7 +360,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"It will be 20 times higher.<br/>20:60=3<br/>1:3 vs 1:60 -> 20 times higher torque"
+            "en":"It will be 20 times higher.<br/>20:60=3<br/>1:3 vs 1:60 -> 20 times higher torque.<br/>20 times slower motion."
          },
          "challengeType":"horizontal"
       }, 

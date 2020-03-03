@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "description":{
-            "en":"Stay outside the challenge field.<br/>Do not put more than one ball into one cup.<br/>Cups cannot be moved.<br/>90 seconds per round."
+            "en":"Stay outside the challenge field.<br/>Do not put more than one ball into one cup.<br/>Cups cannot be moved.<br/>Do not tip over the cups.<br/>90 seconds per round."
          },
          "challengeType":"horizontal"
       },

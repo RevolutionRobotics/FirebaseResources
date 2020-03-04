@@ -1,0 +1,160 @@
+{
+   "id":"1fc2819a-ab6f-4b72-9a1f-1d589c2a93d8",
+   "name":{
+      "en":"Basic Worm Gear"
+   },
+   "draft": true,
+   "order": 5,
+   "steps":[
+      {
+         "id":"b4f32152-4060-4c71-b9ce-8424de722cad",
+         "title":{
+            "en":"Basic Worm Gear"
+         },
+         "description":{
+            "en":"In this challenge you will learn about worm gear and how it affects the gears' performance."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"0d8980fe-f18b-4def-a931-62af122b8d40",
+         "title":{
+            "en":"Basic Worm Gear"
+         },
+         "description":{
+            "en":"Our worm gear connects every standard gear easily, but if you check it closely, you can see that their connection is different from the way our standard gears connect each other."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a7613527-3a54-408f-9990-66354b19ff14",
+         "title":{
+            "en":"Basic Worm Gear"
+         },
+         "description":{
+            "en":"The worm gear changes the axis of rotation."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"952a9f2f-9197-4df8-b780-332979f65d3a",
+         "title":{
+            "en":"Review"
+         },
+         "description":{
+            "en":"If the driver gear is half the size of the driven gear, it will slow it down by 50%.<br/>40/20=2<br/>The torque will be 50% higher."         
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"b4d1673b-b6ee-43d0-889b-a96dc2135f93",
+         "title":{
+            "en":"Review"
+         },
+         "description":{
+            "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times.<br/>60/20=3<br/>The torque will be three times higher."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"953e75a1-fef5-491d-9093-25e417777d7b",
+         "title":{
+            "en":"Review"
+         },
+         "description":{
+            "en":"If the driver gear has 1.5 times fewer gears than the driven gear, it will slow its speed down by 1.5 times.<br/>60/40=1.5<br/>The torque will be 1.5 times higher."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"7e80ed4d-ced5-4e76-baf7-14b48eebfcf8",
+         "title":{
+            "en":"Worm gear with a 20-tooth-gear"
+         },
+         "description":{
+            "en":"Let's imagine that we attach a 20-tooth-gear to a worm gear. The worm gear will slow down the 20-tooth-gear by 20 times. To make the 20-tooth-gear run one full circle, you need to spin the worm gear 20 times.<br/>The torque will be 20 times higher.<br/>Gear ratio becomes 20:1."
+         },
+         "challengeType":"horizontal"
+      },   
+      {
+         "id":"1e205d13-fdfc-4d01-9e83-1b3687fa1270",     
+         "title":{
+            "en":"Worm gear with a 40-tooth-gear"
+         },
+         "description":{
+            "en":"If we attach a 40-tooth-gear to a worm gear, it will slow down the 40-tooth-gear by 40 times. To make the 40-tooth-gear run one full circle, you need to spin the worm gear 40 times.<br/>The torque will be 40 times higher.<br/>Gear ratio becomes 40:1."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5778d03a-57db-47b5-8e6f-60062b0602cf",
+         "title":{
+            "en":"Worm gear with a 60-tooth-gear"
+         },
+         "description":{
+            "en":"Attaching a 60-tooth-gear to a worm gear will slow down the 40-tooth-gear by 60 times. To make the 60-tooth-gear run one full circle, you need to spin the worm gear 60 times.<br/>The torque will be 60 times higher.<br/>Gear ratio becomes 60:1."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"79e1bbaa-f333-438c-8fec-fb2e006e24ad",
+         "title":{
+            "en":"Basic Worm Gear"
+         },
+         "description":{
+            "en":"There are two main reasons we need to use worm gears for: when we need a lot of driving torque or when speed is not important.<br/>(E.g. when moving a heavy load.)"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"23a01052-43a2-4dea-aa00-8c9b2ab1ede6",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"1105559a-6737-4fc4-a114-88aef060058a",
+         "title":{
+            "en":"Challenge question"
+         },
+         "description":{
+            "en":"Can you think of a situation when you would use worm gears?"
+         },
+         "challengeType":"horizontal"
+      }, 
+      {
+         "id":"23a01052-43a2-4dea-aa00-8c9b2ab1ede6",
+         "title":{
+            "en":"Let us challenge you now!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"1b6f9284-08b5-4de7-8924-6aa892fed21b",
+         "title":{
+            "en":"Answer"
+         },
+         "description":{
+            "en":"Worm gears are needed when you build a lifting arm, an elevator, a press, or a rolling mill for instance, but the list is endless. "
+         },
+         "challengeType":"horizontal"
+      }, 
+      {
+         "id":"f7fc5bed-51c2-4d5e-90d5-a96a0b94d9e0",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      }
+]
+}

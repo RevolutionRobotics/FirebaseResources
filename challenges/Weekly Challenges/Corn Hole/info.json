@@ -3,7 +3,7 @@
    "name":{
       "en":"Corn hole"
    },
-   "draft": true,
+   "draft": false,
    "order": 5,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/corn-hole-weekly-challenge-5/71",
          "challengeType":"button"
       }
    ]

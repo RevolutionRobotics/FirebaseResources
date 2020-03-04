@@ -1,5 +1,5 @@
 {
-   "id":"1fc2819a-ab6f-4b72-9a1f-1d589c2a93d8",
+   "id":"fe971402-bb69-49e1-9c49-919e9b6c6e7d",
    "name":{
       "en":"Basic Worm Gear"
    },
@@ -7,7 +7,7 @@
    "order": 5,
    "steps":[
       {
-         "id":"b4f32152-4060-4c71-b9ce-8424de722cad",
+         "id":"47120d33-e6ac-4abd-9971-6d7ba3a9c889",
          "title":{
             "en":"Basic Worm Gear"
          },

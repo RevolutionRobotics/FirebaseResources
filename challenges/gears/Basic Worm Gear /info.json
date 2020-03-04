@@ -17,7 +17,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"0d8980fe-f18b-4def-a931-62af122b8d40",
+         "id":"98af599a-d030-45af-aa8d-7b7cc87c1b74",
          "title":{
             "en":"Basic Worm Gear"
          },
@@ -27,7 +27,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"a7613527-3a54-408f-9990-66354b19ff14",
+         "id":"9600a5f4-2cc0-4fe6-bbed-0fb79eb27fbd",
          "title":{
             "en":"Basic Worm Gear"
          },
@@ -37,7 +37,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"952a9f2f-9197-4df8-b780-332979f65d3a",
+         "id":"f411bfb7-214f-4635-abcf-1530f50bc4f6",
          "title":{
             "en":"Review"
          },
@@ -47,7 +47,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"b4d1673b-b6ee-43d0-889b-a96dc2135f93",
+         "id":"4e7c62c3-92fd-4908-a003-8b547d66bf08",
          "title":{
             "en":"Review"
          },
@@ -57,7 +57,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"953e75a1-fef5-491d-9093-25e417777d7b",
+         "id":"585845d7-4f2c-4b2d-87e1-b59c53d6249c",
          "title":{
             "en":"Review"
          },
@@ -67,7 +67,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"7e80ed4d-ced5-4e76-baf7-14b48eebfcf8",
+         "id":"3adf2d2d-06cb-4b73-a5fa-37ea0b7ec7c5",
          "title":{
             "en":"Worm gear with a 20-tooth-gear"
          },
@@ -77,7 +77,7 @@
          "challengeType":"horizontal"
       },   
       {
-         "id":"1e205d13-fdfc-4d01-9e83-1b3687fa1270",     
+         "id":"4286fa51-d1fc-4b2f-9373-30cd2b0bf01b",     
          "title":{
             "en":"Worm gear with a 40-tooth-gear"
          },
@@ -87,7 +87,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"5778d03a-57db-47b5-8e6f-60062b0602cf",
+         "id":"102ddba2-80d5-470d-85a3-6e9cb7117787",
          "title":{
             "en":"Worm gear with a 60-tooth-gear"
          },
@@ -97,7 +97,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"79e1bbaa-f333-438c-8fec-fb2e006e24ad",
+         "id":"5b4b5f6c-07e6-4270-9c7e-5097ddb4d5d2",
          "title":{
             "en":"Basic Worm Gear"
          },
@@ -107,7 +107,7 @@
          "challengeType":"horizontal"
       },
       {
-         "id":"23a01052-43a2-4dea-aa00-8c9b2ab1ede6",
+         "id":"a7bc1406-42dd-4022-b93f-2c755ab7a7f7",
          "title":{
             "en":"Let us challenge you now!"
          },
@@ -117,7 +117,7 @@
          "challengeType":"zoomable"
       },
       {
-         "id":"1105559a-6737-4fc4-a114-88aef060058a",
+         "id":"ab1d338c-45cd-4d50-8305-8ffe8d182614",
          "title":{
             "en":"Challenge question"
          },
@@ -127,7 +127,7 @@
          "challengeType":"horizontal"
       }, 
       {
-         "id":"23a01052-43a2-4dea-aa00-8c9b2ab1ede6",
+         "id":"f7ec2539-99c6-4a79-9480-5396994b2c22",
          "title":{
             "en":"Let us challenge you now!"
          },
@@ -137,7 +137,7 @@
          "challengeType":"zoomable"
       },
       {
-         "id":"1b6f9284-08b5-4de7-8924-6aa892fed21b",
+         "id":"faa39db1-4e31-4f04-b6f9-5e90a9bb2760",
          "title":{
             "en":"Answer"
          },
@@ -147,7 +147,7 @@
          "challengeType":"horizontal"
       }, 
       {
-         "id":"f7fc5bed-51c2-4d5e-90d5-a96a0b94d9e0",
+         "id":"ffe818cb-29bd-4f5c-99b2-4f92b4e61f90",
          "title":{
             "en":"Good job!"
          },

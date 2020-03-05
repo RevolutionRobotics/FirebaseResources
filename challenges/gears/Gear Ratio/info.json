@@ -12,7 +12,7 @@
             "en":"Gear Ratio"
          },
          "description":{
-            "en":"In this challenge you will learn about Gear Ratio. It expresses the relationship between the driver gear and the driven gear."
+            "en":"In this challenge you will learn about Gear Ratio.<br/>Gear ratio expresses the relationship between the driver gear and the driven gear."
          },
          "challengeType":"horizontal"
       },
@@ -29,7 +29,7 @@
       {
          "id":"43025506-fa34-48ae-bd63-a645c3478161",
          "title":{
-            "en":"Gear Ratio"
+            "en":"Review"
          },
          "description":{
             "en":"When a driver gear is bigger than the driven gear, it decreases torque and increases speed."         
@@ -42,7 +42,7 @@
             "en":"Gear Ratio"
          },
          "description":{
-            "en":"Gear ratio is expressed the following way:<br/>Driving Gear : Driven Gear"
+            "en":"Gear ratio is calculated as:<br/>Driver Gear : Driven Gear"
          },
          "challengeType":"horizontal"
       },
@@ -72,7 +72,7 @@
             "en":"Let us challenge you now!"
          },
          "description":{
-            "en":"How many teeth do the driver gear and the driven gear have if the gear ratio is 60:20. How will it affect speed and torque?"
+            "en":"How many teeth do the driver gear and the driven gear have if the gear ratio is 60:20? How will it affect speed and torque?"
          },
          "challengeType":"horizontal"
       },

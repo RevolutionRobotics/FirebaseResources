@@ -1,7 +1,7 @@
 {
    "id":"81731bc8-4044-478f-9c33-fcaaba694deb",
    "name":{
-      "en":"Gear Ratio"
+      "en":"Teeth Ratio"
    },
    "draft": true,
    "order": 4,
@@ -9,10 +9,10 @@
       {
          "id":"5e944116-64ae-466c-9b4f-61f62352791e",
          "title":{
-            "en":"Gear Ratio"
+            "en":"Teeth Ratio"
          },
          "description":{
-            "en":"In this challenge you will learn about Gear Ratio.<br/>Gear ratio expresses the relationship between the driver gear and the driven gear."
+            "en":"In this challenge you will learn about Teeth Ratio.<br/>Teeth Ratio expresses the relationship between the driver gear and the driven gear based on the number of teeth they have."
          },
          "challengeType":"horizontal"
       },
@@ -39,10 +39,10 @@
       {
          "id":"f852c704-7afe-4e17-9350-988a0583be42",
          "title":{
-            "en":"Gear Ratio"
+            "en":"Teeth Ratio"
          },
          "description":{
-            "en":"Gear ratio is calculated as:<br/>Driver Gear : Driven Gear"
+            "en":"Teeth Ratio is calculated as:<br/>The number of teeth of the Driver Gear : The number of teeth of the Driven Gear"
          },
          "challengeType":"horizontal"
       },
@@ -52,27 +52,27 @@
             "en":"Example"
          },
          "description":{
-            "en":"If you have a 40-tooth driver gear and a 60-tooth driven gear, the gear ratio is 40:60."
+            "en":"If you have a 40-tooth driver gear and a 60-tooth driven gear, the Teeth Ratio is 40:60, or 2:3."
          },
          "challengeType":"horizontal"
-      },
+      },  
       {
-         "id":"ead22a00-7b64-42c6-a64d-4a25f359228a",
-         "title":{
-            "en":"Let us challenge you now!"
-         },
-         "description":{
-            "en":""
-         },
-         "challengeType":"zoomable"
-      },   
+      "id":"287d78db-9b70-4927-98c2-27da3ec4f494",
+      "title":{
+         "en":"Let us challenge you now!"
+      },
+      "description":{
+         "en":""
+      },
+      "challengeType":"zoomable"
+      },
       {
          "id":"a2827496-c088-4808-9618-f74ace789e40",     
          "title":{
             "en":"Let us challenge you now!"
          },
          "description":{
-            "en":"How many teeth do the driver gear and the driven gear have if the gear ratio is 60:20? How will it affect speed and torque?"
+            "en":"Which two standard gears from your kit can generate a 3:1 Teeth Ratio? How will this Teeth Ratio affect speed and torque?"
          },
          "challengeType":"horizontal"
       },
@@ -92,7 +92,7 @@
             "en":"Answer"
          },
          "description":{
-            "en":"A 60-tooth driver gear and a 20-tooth driven gear will generate a 60:20 gear ratio ending in increased speed and decreased torque."
+            "en":"A 60-tooth driver gear and a 20-tooth driven gear will generate a 3:1 (60:20) Teeth Ratio ending in increased speed and decreased torque."
          },
          "challengeType":"horizontal"
       },

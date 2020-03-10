@@ -42,7 +42,7 @@
             "en":"Gear Ratio"
          },
          "description":{
-            "en":"Gear Ratio is calculated as:<br/>Rotations of the driver gear : Rotations of the driven gear<br/>1:3"
+            "en":"Gear Ratio is calculated as<br/><br/>Rotations of the driver gear : Rotations of the driven gear<br/>1:3"
          },
          "challengeType":"horizontal"
       },

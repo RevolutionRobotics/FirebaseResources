@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Place a wheel at the start line of on the challenge field as pictured. Get your robot to roll the wheel as far as possible.<br/>Try to push the wheel in a straight line."
+            "en":"Place a wheel at the start line on the challenge field as pictured and get your robot to roll the wheel as far as possible.<br/>Try to push the wheel in a straight line."
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"<The wheel reached the middle of the challenge field = Good job! Are you ready for another try?<br/>You managed to push the wheel to the other edge of the field = Wow! Excellent job! Do you think you can do it even farther?<br/>The wheel ran over the edge of the field  = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"The wheel reached the middle of the challenge field = Good job! Let's try again.<br/>You pushed the wheel to the other edge of the field = Excellent job! Do you think you can do it even farther?<br/>The wheel ran over the edge of the field  = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

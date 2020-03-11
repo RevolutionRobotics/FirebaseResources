@@ -22,7 +22,17 @@
             "en":"Task"
          },
          "description":{
-            "en":"Feed your pet with the help of your robot."
+            "en":"Feed your pet with the help of your robot.<br/>Get a bowl and pour dry pet food into it."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"84d4c786-906b-4b21-906e-3ac26863391b",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"You don't have a pet? No problem! Build a pet-like robot, get two bowls and pour breakfast cereal into one of them.<br/>Your robot has to transfer the cereal from one bowl to the other."
          },
          "challengeType":"horizontal"
       },

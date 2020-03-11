@@ -3,8 +3,8 @@
    "name":{
       "en":"Wheel Away"
    },
-   "draft": true,
-   "order": 8,
+   "draft": false,
+   "order": 6,
    "steps":[
       {
          "id":"2c7e3494-1dfa-4e6d-9238-5bd6f9fd3e66",
@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Place a wheel at the start line of on the challenge field as pictured. Get your robot to roll the wheel as far as possible."
+            "en":"Place a wheel at the start line of on the challenge field as pictured. Get your robot to roll the wheel as far as possible.<br/>Try to push the wheel in a straight line."
          },
          "challengeType":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/wheel-away-weekly-challenge-6/75",
          "challengeType":"button"
       }
    ]

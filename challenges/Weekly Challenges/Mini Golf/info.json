@@ -3,8 +3,8 @@
    "name":{
       "en":"Mini golf"
    },
-   "draft": true,
-   "order": 9,
+   "draft": false,
+   "order": 7,
    "steps":[
       {
          "id":"02018252-0faf-40a8-a691-6458ff3e055e",
@@ -57,7 +57,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/mini-golf-weekly-challenge-7/77",
          "challengeType":"button"
       }
    ]

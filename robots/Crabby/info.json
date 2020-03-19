@@ -7,7 +7,7 @@
         "en": "It's a crab!"
     },
     "buildTime": "3h",
-    "complexity":"medium",
+    "complexity":"high",
     "compatibility":[
         "challenge-kit-2019",
         "challenge-kit-2020",

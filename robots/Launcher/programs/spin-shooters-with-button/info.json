@@ -6,7 +6,7 @@
     "description": {
         "en": "Press the button to start or stop the spinning."
     },
-    "variables":[
+    "requiredPortNames":[
         "button",
         "left",
         "right"

@@ -6,7 +6,7 @@
     "description": {
         "en": "Move around in the room like a robot vacuum cleaner"
     },
-    "variables":[
+    "requiredPortNames":[
         "distance"
     ]
 }

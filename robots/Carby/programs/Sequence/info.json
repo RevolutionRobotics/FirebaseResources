@@ -6,7 +6,7 @@
     "description": {
         "en": "Shoots in a sequence."
     },
-    "variables":[
+    "requiredPortNames":[
         "gripper",
         "lift",
         "shooter"

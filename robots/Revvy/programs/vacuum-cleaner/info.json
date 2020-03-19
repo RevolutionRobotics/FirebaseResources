@@ -4,7 +4,7 @@
         "en": "VACUUM CLEANER"
     },
     "description": {
-        "en": "Move around in the room like a robot vaccum cleaner"
+        "en": "Move around in the room like a robot vacuum cleaner"
     },
     "variables":[
         "distance"

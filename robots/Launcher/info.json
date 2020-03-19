@@ -48,9 +48,6 @@
         "backgroundPrograms": [{
             "program": "spin-with-button",
             "priority": 2
-        }],
-        "name": {
-            "en": "Launcher controller"
-        }
+        }]
     }
 }

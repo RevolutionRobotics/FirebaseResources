@@ -1,80 +1,75 @@
 {
-    "id": "6c54b16e-9add-487c-a055-45a7ac228af4",
-    "buildTime": "3h",
-    "description": {
-        "en": "It's a crab!"
-    },
+    "id": "crabby",
     "name": {
         "en": "Crabby"
     },
+    "description": {
+        "en": "It's a crab!"
+    },
+    "buildTime": "3h",
+    "complexity":"medium",
+    "compatibility":[
+        "challenge-kit-2019",
+        "challenge-kit-2020",
+        "ultimate-kit-2020"
+     ],
     "order": 5,
-    "configuration": {
-        "id": "87a54d2d-4fd5-4134-81d9-d727b8b481c2",
-        "mapping": {
-            "M3": {
-                "reversed": false,
-                "side": "left",
-                "type": "motor",
-                "variableName": "motor3"
+    "portMapping": {
+        "M3": {
+            "reversed": false,
+            "side": "left",
+            "type": "motor",
+            "variableName": "motor3"
+        },
+        "M5": {
+            "reversed": false,
+            "side": "right",
+            "type": "drive",
+            "variableName": "drive5"
+        },
+        "M6": {
+            "reversed": false,
+            "side": "left",
+            "type": "motor",
+            "variableName": "motor6"
+        },
+        "S1": {
+            "type": "distance",
+            "variableName": "distance"
+        }
+    },
+    "controller": {
+        "type": "gamer",
+        "drivetrainPriority": 1,
+        "buttons": {
+            "b1": {
+                "priority": 5,
+                "program": "scream"
             },
-            "M5": {
-                "reversed": false,
-                "side": "right",
-                "type": "drive",
-                "variableName": "drive5"
+            "b2": {
+                "priority": 6,
+                "program": "red"
             },
-            "M6": {
-                "reversed": false,
-                "side": "left",
-                "type": "motor",
-                "variableName": "motor6"
+            "b3": {
+                "priority": 7,
+                "program": "green"
             },
-            "S1": {
-                "type": "distance",
-                "variableName": "distance"
+            "b4": {
+                "priority": 8,
+                "program": "blue"
+            },
+            "b5": {
+                "priority": 4,
+                "program": "pinch"
+            },
+            "b6": {
+                "priority": 3,
+                "program": "stop"
             }
         },
-        "controller": {
-            "id": "c37eb0fa-4005-4bb3-80a1-89ff7ca35da5",
-            "description": {
-                "en": "desc"
-            },
-            "joystickPriority": 1,
-            "lastModified": 1557908790,
-            "mapping": {
-                "b1": {
-                    "priority": 5,
-                    "programId": "52faf09e-1d97-11ea-978f-2e728ce88125"
-                },
-                "b2": {
-                    "priority": 6,
-                    "programId": "52faf206-1d97-11ea-978f-2e728ce88125"
-                },
-                "b3": {
-                    "priority": 7,
-                    "programId": "52faf346-1d97-11ea-978f-2e728ce88125"
-                },
-                "b4": {
-                    "priority": 8,
-                    "programId": "52faf47c-1d97-11ea-978f-2e728ce88125"
-                },
-                "b5": {
-                    "priority": 4,
-                    "programId": "52faeb44-1d97-11ea-978f-2e728ce88125"
-                },
-                "b6": {
-                    "priority": 3,
-                    "programId": "52faedce-1d97-11ea-978f-2e728ce88125"
-                }
-            },
-            "backgroundProgramBindings": [{
-                "programId": "52faf5b2-1d97-11ea-978f-2e728ce88125",
-                "priority": 2
-            }],
-            "name": {
-                "en": "Crabby controller"
-            },
-            "type": "gamer"
-        }
+        "backgroundPrograms": [{
+            "program": "auto-pincher",
+            "priority": 2
+        }]
     }
 }

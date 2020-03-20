@@ -6,7 +6,7 @@
     "description": {
         "en": "Shoots the ball."
     },
-    "requiredPortNames":[
+    "variables":[
         "shooter"
     ]
 }

@@ -6,7 +6,7 @@
     "description": {
         "en": "Start pinching based on distance."
     },
-    "requiredPortNames":[
+    "variables":[
         "distance",
         "motor3",
         "motor6"

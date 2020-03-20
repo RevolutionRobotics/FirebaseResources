@@ -19,23 +19,23 @@
             "reversed": false,
             "side": "left",
             "type": "motor",
-            "portName": "motor3"
+            "variableName": "motor3"
         },
         "M5": {
             "reversed": false,
             "side": "right",
             "type": "drive",
-            "portName": "drive5"
+            "variableName": "drive5"
         },
         "M6": {
             "reversed": false,
             "side": "left",
             "type": "motor",
-            "portName": "motor6"
+            "variableName": "motor6"
         },
         "S1": {
             "type": "distance",
-            "portName": "distance"
+            "variableName": "distance"
         }
     },
     "controller": {

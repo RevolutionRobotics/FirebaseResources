@@ -19,35 +19,35 @@
             "reversed": false,
             "side": "left",
             "type": "drive",
-            "portName": "drive1"
+            "variableName": "drive1"
         },
         "M2": {
             "reversed": false,
             "side": "left",
             "type": "motor",
-            "portName": "lift"
+            "variableName": "lift"
         },
         "M3": {
             "reversed": false,
             "side": "right",
             "type": "motor",
-            "portName": "gripper"
+            "variableName": "gripper"
         },
         "M4": {
             "reversed": false,
             "side": "right",
             "type": "drive",
-            "portName": "drive4"
+            "variableName": "drive4"
         },
         "M5": {
             "reversed": false,
             "side": "right",
             "type": "motor",
-            "portName": "shooter"
+            "variableName": "shooter"
         },
         "S3": {
             "type": "distance",
-            "portName": "distance"
+            "variableName": "distance"
         }
     },
     "controller": {

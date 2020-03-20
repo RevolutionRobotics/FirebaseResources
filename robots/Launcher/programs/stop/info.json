@@ -6,7 +6,7 @@
     "description": {
         "en": "Stop the spinners"
     },
-    "requiredPortNames":[
+    "variables":[
         "left",
         "right"
     ]

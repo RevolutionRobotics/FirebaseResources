@@ -6,7 +6,7 @@
     "description": {
         "en": "Start the pinchers"
     },
-    "requiredPortNames":[
+    "variables":[
         "motor3",
         "motor6"
     ]

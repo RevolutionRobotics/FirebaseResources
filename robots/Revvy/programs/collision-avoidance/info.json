@@ -6,7 +6,7 @@
     "description": {
         "en": "Automatically up a little if close to obstackle"
     },
-    "requiredPortNames":[
+    "variables":[
         "distance"
     ]
 }

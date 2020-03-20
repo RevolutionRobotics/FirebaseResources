@@ -5,8 +5,5 @@
     },
     "description": {
         "en": "Shows the distance on the LEDs."
-    },
-    "requiredPortNames":[
-        "distance"
-    ]
+    }
 }

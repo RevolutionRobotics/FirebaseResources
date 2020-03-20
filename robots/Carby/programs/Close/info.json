@@ -6,7 +6,7 @@
     "description": {
         "en": "Closes the claw."
     },
-    "requiredPortNames":[
+    "variables":[
         "gripper"
     ]
 }

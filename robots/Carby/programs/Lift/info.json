@@ -5,7 +5,7 @@
     },
     "description": {
         "en": "Raise the arm."
-    }, "requiredPortNames":[
+    }, "variables":[
         "lift"
     ]
 }

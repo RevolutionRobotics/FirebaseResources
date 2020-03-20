@@ -19,17 +19,17 @@
             "reversed": false,
             "side": "left",
             "type": "motor",
-            "portName": "left"
+            "variableName": "left"
         },
         "M5": {
             "reversed": false,
             "side": "right",
             "type": "motor",
-            "portName": "right"
+            "variableName": "right"
         },
         "S3": {
             "type": "bumper",
-            "portName": "button"
+            "variableName": "button"
         }
     },
     "controller": {

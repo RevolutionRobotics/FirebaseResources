@@ -21,7 +21,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"Tap on number 3."
+            "en":"Select your robot."
          },
          "challengeType":"vertical"
       },
@@ -31,7 +31,7 @@
             "en":"Expert Programming"
          },
          "description":{
-            "en":"Select your robot."
+            "en":"Tap on the rocket icon."
          },
          "challengeType":"vertical"
       },
@@ -142,16 +142,6 @@
          },
          "description":{
             "en":"Within 'math' group you can add mathematical commands."
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"d1c991fd-2b60-401b-a482-526b8fb15142",
-         "title":{
-            "en":"Expert Programming"
-         },
-         "description":{
-            "en":"...and some more math blocks."
          },
          "challengeType":"vertical"
       },

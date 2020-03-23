@@ -10,139 +10,139 @@
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"It's time to take Revvy for a drive."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"a2b488b1-2c1a-4c73-b14c-3f1b3b02fc31",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"Turn on the brain by flipping the power switch up. Wait for 12 of the LED's around the logo to flash green."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"82918e5f-c97e-436c-9db7-1dc886f7faae",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"Next, tap the 'ROBOTS' card on the Home Screen."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"cffea818-db4a-4c87-81f6-dbcfa6043c62",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"Now, tap the card for Revvy."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"161a731a-0e7c-4582-b639-f6027e17cb97",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"Make sure the brain is turned on and ready, then tap 'Start'."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"81cd4de0-5cb4-48a7-9c4e-b9299aae93ee",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"You should see this pop-up. If not, turn the brain off and on to try again."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"eef02b9b-c790-421f-b9d8-b349b9c4b788",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"8eb2b735-c2e9-4e1f-91d7-0bc8c954535d",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"Your controller is ready! Use the joystick on the left to drive Revvy."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"ed1a837c-0377-4554-8835-61d493f0398d",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"To drive drive Revvy forward, press the red joystick button and slide it upward."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },      {
          "id":"973e5053-886f-4960-ad75-aa7b5d993273",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"To drive backward, slide the joystick button downward."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"98abb0db-7a3b-4053-ad76-3dbdb4247d61",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"To turn right, slide the joystick button to the right.  Revvy will spin around if you hold the joystick in this position."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"88a3fab1-ac6e-4873-a5f1-dbe7a7f1227d",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"Now try turning left. Can you make Revvy spin counterclockwise?"
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
      {
          "id":"a0a90afe-acf9-4e2a-8344-8606ea5e4046",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"You can see some more buttons on this screen, they will be used later on when you are ready to program your robot. However, the top button on the right has already been coded. Let's see what happens when you push it. Yee-haw!!!"
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"33a274c8-c295-4ae9-aee1-c5c296dd5ba0",
          "title":{
             "en":"Let's Drive Now!"
          },
-         "description":{
+         "text":{
             "en":"Every button can have a program assigned to it. Ready to try?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       }
 ]
 }

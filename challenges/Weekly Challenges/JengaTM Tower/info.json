@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Let's build a JengaTM tower with your robot!"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"c420f8ea-b128-4dca-ac38-12a7e13b3bbb",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Build a tower by stacking the Jenga blocks on the top of each other.<br/>Place three parallel blocks level by level.<br/>The game ends when the tower falls."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"2bc90aec-a72f-4fcc-ad25-76527c5f9c32",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"1-5 levels = Good job! Are you ready for another round?<br/>6-10 levels = Wow! Excellent job! Do you want to try again?<br/>11-15 levels = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"c693ff9c-9750-4eae-9757-127e81ffd930",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>1-5 levels = 5 points<br/>6-10 levels = 10 points<br/>11-15 levels = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

@@ -10,44 +10,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Let's see how fast your robot runs. Lay down your challenge field and drive your robot around the field as fast as possible. You may need to ask someone to help record the time for each attempt!"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"c63232bb-5d21-4236-8d6a-1c0f254c523b",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"The robot cannot touch the challenge field at any point."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"8c8cfa91-02ed-4d3c-897b-1f3c4f54123f",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"&lt;20 seconds = Good job!<br/>&lt;15 seconds = Wow! Excellent job!<br/>&lt;10 = Outstanding! Well done!<br/><br/>Bonus task: Can you program your robot to drive around the Challenge Field?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"77a856a0-e33f-445f-ba0d-4b02a4b4d333",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Complete three trials and calculate your points:<br/>&lt;20 seconds = 5 points<br/>&lt;15 seconds = 10 points<br/>&lt;10 seconds = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/t/lap-the-field-weekly-challenge-1/61",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

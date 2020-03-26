@@ -3,7 +3,7 @@
    "name":{
       "en":"Feed your pet"
    },
-   "draft": true,
+   "draft": false,
    "order": 8,
    "steps":[
       {
@@ -67,7 +67,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/feed-your-pet-weekly-challenge-8/79",
          "challengeType":"button"
       }
    ]

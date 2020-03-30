@@ -1,0 +1,54 @@
+{
+   "id":"ba431fb5-9ce6-4a4e-a1b2-a68ad47650a3",
+   "name":{
+      "en":"Fork Lift Part 1"
+   },
+   "draft": true,
+   "order": 13,
+   "steps":[
+      {
+         "id":"61cca1b6-2692-4e4e-9a50-a03e3e5df1e9",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Pile up two sets of a 18x2 and a 4x4 beams and place them on the yellow and green squares on a beam-stand (2 sets of 4x2 beams). Build a fork lift and carry the beams from the yellow corner to the red one. Then move to the green corner and lift up the beams there, too with the fork and carry them to the blue square."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"423f7439-c588-4e14-8469-b45c467f7de2",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Launch you fork lift from the center.<br/>Use only one robot.<br/>Don't use any extra material, but the parts from your kit."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"d3af95a1-438a-4791-83a6-6ff0c7a5c494",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You carried both loads to the designated spots within 8 minutes. = Good job! Are you ready for another round?<br/>You carried both loads to the designated spots within 6 minutes. = Wow! Excellent job! Do you want to try again?<br/>You carried both loads to the designated spots within 4 minutes. = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"118fb357-cb78-4157-9e36-2149959b02f2",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 8 minutes = 5 points<br/>Finished within 6 minutes = 10 points<br/>Finished within 4 minutes = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

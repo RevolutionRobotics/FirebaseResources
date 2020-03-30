@@ -1,0 +1,54 @@
+{
+   "id":"bfdf0f9f-4f9c-4427-8fa1-90f41fdda580",
+   "name":{
+      "en":"Dominoes"
+   },
+   "draft": true,
+   "order": 11,
+   "steps":[
+      {
+         "id":"2dde6fc2-133a-47da-809f-9b5c9e996446",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Position 9 beams onto the challenge field the way you can see in the picture. Your robot should stand at the arrow, outside the field. The task is to throw a ball that hits the first beam which would knock over the rest in the line."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"2ddd4586-e6b9-452f-aff5-0142d725b4a4",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Your robot cannot step inside the field.<br/>Use the balls from your kit.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"f90e21a9-018e-49f8-8da6-fe8ec894c617",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You managed to knock over the beams for the third trial. = Good job! Are you ready for another round?<br/>You needed two trials to knock over the beams = Wow! Excellent job! Do you want to try again?<br/>You knock over the beams after the first trial. = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5a3fd4eb-ce89-418f-86cb-62f5908e85e0",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Needed 3 trials = 5 points<br/>Needed 2 trials = 10 points<br/>Needed only 1 trial = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

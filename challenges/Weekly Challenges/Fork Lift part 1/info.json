@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Pile up two sets of a 18x2 and a 4x4 beams and place them on the yellow and green squares on a beam-stand (2 sets of 4x2 beams). Build a fork lift and carry the beams from the yellow corner to the red one. Then move to the green corner and lift up the beams there, too with the fork and carry them to the blue square."
+            "en":"Pile up two sets of a 18x2 and a 4x4 beams and place them on the yellow and green squares on a beam-stand (2 sets of 4x2 beams). Build a fork lift and carry the beams from the yellow corner to the red one. Then lift and carry the load from the green corner to the blue square."
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You carried both loads to the designated spots within 8 minutes. = Good job! Are you ready for another round?<br/>You carried both loads to the designated spots within 6 minutes. = Wow! Excellent job! Do you want to try again?<br/>You carried both loads to the designated spots within 4 minutes. = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You carried both loads to the designated spots within 8 minutes. = Good job! Let's try again.<br/>You needed 6 minutes to carry the loads. = Excellent! Another try?<br/>You carried both loads within 4 minutes. = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

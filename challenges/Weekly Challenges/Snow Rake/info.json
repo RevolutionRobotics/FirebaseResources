@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You managed to clean the field within 10 minutes. = Good job! Are you ready for another round?<br/>You needed 7 minutes to sweep all the 'snow'. = Wow! Excellent job! Do you want to try again?<br/>You cleared the field within 5 minutes. = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You could clean the field within 10 minutes. = Good job! Another try?<br/>You needed 7 minutes to sweep all the 'snow'. = Excellent job! Do you want to try again?<br/>You cleared the field within 5 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

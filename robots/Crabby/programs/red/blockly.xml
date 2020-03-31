@@ -1,0 +1,5 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="block_set_all_leds" id="ODj52AWaKdaFDYnTa20H" x="112" y="119">
+      <field name="COLOR">#ff0000</field>
+   </block>
+</xml>

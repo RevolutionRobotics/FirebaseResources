@@ -1,0 +1,2 @@
+robot.motors["motor3"].spin(direction=Motor.DIRECTION_FWD, rotation=50, unit_rotation=Motor.UNIT_SPEED_RPM)
+robot.motors["motor6"].spin(direction=Motor.DIRECTION_FWD, rotation=50, unit_rotation=Motor.UNIT_SPEED_RPM)

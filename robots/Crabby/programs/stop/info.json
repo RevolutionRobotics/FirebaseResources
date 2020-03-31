@@ -1,0 +1,13 @@
+{
+    "id": "stop",
+    "name": {
+        "en": "STOP"
+    },
+    "description": {
+        "en": "Stop the pinchers"
+    },
+    "variables":[
+        "motor3",
+        "motor6"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "radar",
+    "name": {
+        "en": "RADAR"
+    },
+    "description": {
+        "en": "Shows the distance on the LEDs."
+    },
+    "variables":[
+        "distance"
+    ]
+}

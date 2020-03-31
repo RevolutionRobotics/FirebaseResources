@@ -1,0 +1,241 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <variables>
+      <variable type="" id="P0s1ugwfG2XNZX0CSDQK">dist</variable>
+      <variable type="" id="x6cGg4ADw1Gu70TwzOaL">i</variable>
+   </variables>
+   <block type="block_repeat_forever" id="iteSuwjUMm0TCJXi6qmC" x="49" y="18">
+      <statement name="STATEMENT">
+         <block type="variables_set" id="179arpv75BS85ya1HtvO">
+            <field name="VAR" id="P0s1ugwfG2XNZX0CSDQK" variabletype="">dist</field>
+            <value name="VALUE">
+               <block type="math_round2" id="dQJhb7iZOgWoNE9wIJm9">
+                  <field name="OPERATOR_SELECTOR">ROUND</field>
+                  <value name="NUM">
+                     <shadow type="math_number" id="qy2gmgsYz6IgXR4vkfRp">
+                        <field name="NUM">0</field>
+                     </shadow>
+                     <block type="math_arithmetic2" id="ooKGxXONvkZ9CaV7C3k7">
+                        <field name="OPERATOR_SELECTOR">DIVIDE</field>
+                        <value name="A">
+                           <shadow type="math_number" id="GEtV5Ovaoa0umaz63xik">
+                              <field name="NUM">0</field>
+                           </shadow>
+                           <block type="block_ultrasonic_sensor" id="vEqCaNxmGVPrA5kpjFDP">
+                              <field name="NAME_INPUT">distance</field>
+                           </block>
+                        </value>
+                        <value name="B">
+                           <shadow type="math_number" id="ECSWuGvoNvAwOSyuwDeb">
+                              <field name="NUM">3</field>
+                           </shadow>
+                        </value>
+                     </block>
+                  </value>
+               </block>
+            </value>
+            <next>
+               <block type="if_then" id="ujtCi64I5MeOMXNfB0Ld">
+                  <value name="COND">
+                     <block type="logic_compare2" id="KpWKlXrwfMJOB6iL4KDV">
+                        <field name="LOGIC_SELECTOR">GT</field>
+                        <value name="A">
+                           <block type="variables_get" id="wPLewV5sak8msvoSN02B">
+                              <field name="VAR" id="P0s1ugwfG2XNZX0CSDQK" variabletype="">dist</field>
+                           </block>
+                        </value>
+                        <value name="B">
+                           <shadow type="math_number" id="FvXBxLxp7PUroZSfS7dS">
+                              <field name="NUM">12</field>
+                           </shadow>
+                        </value>
+                     </block>
+                  </value>
+                  <statement name="IN_IF">
+                     <block type="variables_set" id="il5cbX2K6N3AfNu1IJap">
+                        <field name="VAR" id="P0s1ugwfG2XNZX0CSDQK" variabletype="">dist</field>
+                        <value name="VALUE">
+                           <block type="math_number" id="TDt5aDHkcg6uKmac1LS5">
+                              <field name="NUM">12</field>
+                           </block>
+                        </value>
+                     </block>
+                  </statement>
+                  <next>
+                     <block type="variables_set" id="8NZPnNS6QdHlblWQ3flD">
+                        <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                        <value name="VALUE">
+                           <block type="math_number" id="NpwxQHJC84ab01FPgXfw">
+                              <field name="NUM">0</field>
+                           </block>
+                        </value>
+                        <next>
+                           <block type="controls_repeat_ext2" id="W1LnWw1r9GN2Do8m8pi1">
+                              <value name="TIMES">
+                                 <shadow type="math_number" id="IKsPUpzM6pcZjtLzTb01">
+                                    <field name="NUM">3</field>
+                                 </shadow>
+                                 <block type="variables_get" id="ZYVshAhPDqRx4FEcyyEl">
+                                    <field name="VAR" id="P0s1ugwfG2XNZX0CSDQK" variabletype="">dist</field>
+                                 </block>
+                              </value>
+                              <statement name="DO">
+                                 <block type="math_change" id="aZLK7YHTnlqYh4AsjX5B">
+                                    <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                    <value name="DELTA">
+                                       <shadow type="math_number" id="YhjKiUELaDpj7QGkYOVm">
+                                          <field name="NUM">1</field>
+                                       </shadow>
+                                    </value>
+                                    <next>
+                                       <block type="if_then_else" id="zjdW8qOYzDU5gTecaCeC">
+                                          <value name="COND">
+                                             <block type="logic_compare2" id="9SX5XzegMevTVUCao1yV">
+                                                <field name="LOGIC_SELECTOR">LTE</field>
+                                                <value name="A">
+                                                   <block type="variables_get" id="rEEdvpcS3vUA8T0POv2Y">
+                                                      <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                                   </block>
+                                                </value>
+                                                <value name="B">
+                                                   <shadow type="math_number" id="r1euKkh8PKGfvOdCzz7d">
+                                                      <field name="NUM">2</field>
+                                                   </shadow>
+                                                </value>
+                                             </block>
+                                          </value>
+                                          <statement name="IN_IF">
+                                             <block type="block_set_led" id="7loYt2T6JGPqgbPStmP5">
+                                                <value name="LED">
+                                                   <shadow type="math_number" id="dCydzWTRIME7D9CWnW6x">
+                                                      <field name="NUM">1</field>
+                                                   </shadow>
+                                                   <block type="variables_get" id="zjOJnK2yyb7xRoLELaZa">
+                                                      <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                                   </block>
+                                                </value>
+                                                <value name="COLOR">
+                                                   <shadow type="colour_picker" id="mEDHC7ELr28hHAO08xSx">
+                                                      <field name="COLOUR">#ff0000</field>
+                                                   </shadow>
+                                                </value>
+                                             </block>
+                                          </statement>
+                                          <statement name="IN_ELSE">
+                                             <block type="if_then_else" id="DVUyPCZeJ5tPfD3ooipc">
+                                                <value name="COND">
+                                                   <block type="logic_compare2" id="yQbEYY0Hw0XxGmufYHwL">
+                                                      <field name="LOGIC_SELECTOR">LTE</field>
+                                                      <value name="A">
+                                                         <block type="variables_get" id="CDAaVeOPmlbVmQ97Loqs">
+                                                            <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                                         </block>
+                                                      </value>
+                                                      <value name="B">
+                                                         <shadow type="math_number" id="BeUag5EhQoBOEOmrL1U8">
+                                                            <field name="NUM">9</field>
+                                                         </shadow>
+                                                      </value>
+                                                   </block>
+                                                </value>
+                                                <statement name="IN_IF">
+                                                   <block type="block_set_led" id="Um86JkZ9gpHU0PuWmZxs">
+                                                      <value name="LED">
+                                                         <shadow type="math_number" id="suh5bTLIme8sHSiJnc9P">
+                                                            <field name="NUM">1</field>
+                                                         </shadow>
+                                                         <block type="variables_get" id="Bjsunoc2rZQSc53RWCX7">
+                                                            <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                                         </block>
+                                                      </value>
+                                                      <value name="COLOR">
+                                                         <shadow type="colour_picker" id="JoXNtx8kgoak0DqHfPwT">
+                                                            <field name="COLOUR">#ffcc00</field>
+                                                         </shadow>
+                                                      </value>
+                                                   </block>
+                                                </statement>
+                                                <statement name="IN_ELSE">
+                                                   <block type="block_set_led" id="14yR0q5ehZxqWtX9HBJl">
+                                                      <value name="LED">
+                                                         <shadow type="math_number" id="o39oLoKP3qSCdhMjaFiO">
+                                                            <field name="NUM">1</field>
+                                                         </shadow>
+                                                         <block type="variables_get" id="oo5QK6pXCcBLh2vVQTzx">
+                                                            <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                                         </block>
+                                                      </value>
+                                                      <value name="COLOR">
+                                                         <shadow type="colour_picker" id="saBTvaJEuAiw7oYrP5C6">
+                                                            <field name="COLOUR">#009900</field>
+                                                         </shadow>
+                                                      </value>
+                                                   </block>
+                                                </statement>
+                                             </block>
+                                          </statement>
+                                       </block>
+                                    </next>
+                                 </block>
+                              </statement>
+                              <next>
+                                 <block type="controls_repeat_ext2" id="iEJZ56JfBrCossKawzXs">
+                                    <value name="TIMES">
+                                       <shadow type="math_number" id="9wQCvpB7zOxQuaA3WH3K">
+                                          <field name="NUM">3</field>
+                                       </shadow>
+                                       <block type="math_arithmetic2" id="WJkPi0Eo72XZ2HZIX9cj">
+                                          <field name="OPERATOR_SELECTOR">MINUS</field>
+                                          <value name="A">
+                                             <shadow type="math_number" id="BdYYrDlUJc14kVJb5Grq">
+                                                <field name="NUM">12</field>
+                                             </shadow>
+                                          </value>
+                                          <value name="B">
+                                             <shadow type="math_number" id="OOW2uOEq2tile2yGfPKO">
+                                                <field name="NUM">0</field>
+                                             </shadow>
+                                             <block type="variables_get" id="A6St0R33si6CZq90im3p">
+                                                <field name="VAR" id="P0s1ugwfG2XNZX0CSDQK" variabletype="">dist</field>
+                                             </block>
+                                          </value>
+                                       </block>
+                                    </value>
+                                    <statement name="DO">
+                                       <block type="math_change" id="wph7hvvcForMiStY2Zxh">
+                                          <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                          <value name="DELTA">
+                                             <shadow type="math_number" id="20UKW5YE1QCX3X2y7VI4">
+                                                <field name="NUM">1</field>
+                                             </shadow>
+                                          </value>
+                                          <next>
+                                             <block type="block_set_led" id="B4b2UQJG6lcfI0qHy99e">
+                                                <value name="LED">
+                                                   <shadow type="math_number" id="RTHVs0EX3Ws8g7pkh6NM">
+                                                      <field name="NUM">1</field>
+                                                   </shadow>
+                                                   <block type="variables_get" id="AxoCEHQkJw9E2tMmXCSj">
+                                                      <field name="VAR" id="x6cGg4ADw1Gu70TwzOaL" variabletype="">i</field>
+                                                   </block>
+                                                </value>
+                                                <value name="COLOR">
+                                                   <shadow type="colour_picker" id="hXjS4SKtlq21oeJQDH2k">
+                                                      <field name="COLOUR">#000000</field>
+                                                   </shadow>
+                                                </value>
+                                             </block>
+                                          </next>
+                                       </block>
+                                    </statement>
+                                 </block>
+                              </next>
+                           </block>
+                        </next>
+                     </block>
+                  </next>
+               </block>
+            </next>
+         </block>
+      </statement>
+   </block>
+</xml>

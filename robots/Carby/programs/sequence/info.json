@@ -1,0 +1,14 @@
+{
+    "id": "sequence",
+    "name": {
+        "en": "SEQUENCE"
+    },
+    "description": {
+        "en": "Shoots in a sequence."
+    },
+    "variables":[
+        "gripper",
+        "lift",
+        "shooter"
+    ]
+}

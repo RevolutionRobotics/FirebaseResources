@@ -1,0 +1,11 @@
+{
+    "id": "lift",
+    "name": {
+        "en": "LIFT"
+    },
+    "description": {
+        "en": "Raise the arm."
+    }, "variables":[
+        "lift"
+    ]
+}

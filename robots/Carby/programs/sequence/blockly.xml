@@ -1,0 +1,147 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <block type="play_tune" id="ESlyMhUuPdX6ryzEUv44" x="56" y="53">
+      <field name="IN_SOUND">robot</field>
+      <next>
+         <block type="block_motor" id="Xiajz4sxhsWSxzYacNIV">
+            <field name="NAME_INPUT">gripper</field>
+            <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+            <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_SEC</field>
+            <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_PWR</field>
+            <value name="AMOUNT">
+               <shadow type="math_number" id="oaeQaiGhB2Q4jDGI6nXn">
+                  <field name="NUM">2</field>
+               </shadow>
+            </value>
+            <value name="LIMIT_SLIDER">
+               <shadow type="math_number" id="6yHfufeonEZU1uWAPu0I">
+                  <field name="NUM">35</field>
+               </shadow>
+            </value>
+            <next>
+               <block type="play_tune" id="DgskePEEAL3vG4aNW285">
+                  <field name="IN_SOUND">robot</field>
+                  <next>
+                     <block type="block_motor" id="gWwX2hwC4T82ZAYfyiWj">
+                        <field name="NAME_INPUT">lift</field>
+                        <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+                        <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_DEG</field>
+                        <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+                        <value name="AMOUNT">
+                           <shadow type="math_number" id="dxMOPwZLquMovsxDFQ8s">
+                              <field name="NUM">370</field>
+                           </shadow>
+                        </value>
+                        <value name="LIMIT_SLIDER">
+                           <shadow type="math_number" id="73pLgJNNv0rLwWMct0pf">
+                              <field name="NUM">20</field>
+                           </shadow>
+                        </value>
+                        <next>
+                           <block type="play_tune" id="dcHMajxva3bjueB7joDW">
+                              <field name="IN_SOUND">robot</field>
+                              <next>
+                                 <block type="block_motor" id="4ICNOjznWCP3CP3aQ0gu">
+                                    <field name="NAME_INPUT">gripper</field>
+                                    <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+                                    <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_DEG</field>
+                                    <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_RPM</field>
+                                    <value name="AMOUNT">
+                                       <shadow type="math_number" id="iap2KWAQTYBe30h5VKIg">
+                                          <field name="NUM">90</field>
+                                       </shadow>
+                                    </value>
+                                    <value name="LIMIT_SLIDER">
+                                       <shadow type="math_number" id="LCYyLUcEDRnwQb0oqQUU">
+                                          <field name="NUM">20</field>
+                                       </shadow>
+                                    </value>
+                                    <next>
+                                       <block type="play_tune" id="rjLTHf5XqceKvJsBLaPt">
+                                          <field name="IN_SOUND">robot</field>
+                                          <next>
+                                             <block type="block_motor" id="felqE9nj1rdImOOqLfJO">
+                                                <field name="NAME_INPUT">lift</field>
+                                                <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+                                                <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_DEG</field>
+                                                <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_PWR</field>
+                                                <value name="AMOUNT">
+                                                   <shadow type="math_number" id="xSbJEtWhCdpA7E24Kf2l">
+                                                      <field name="NUM">370</field>
+                                                   </shadow>
+                                                </value>
+                                                <value name="LIMIT_SLIDER">
+                                                   <shadow type="math_number" id="2iNwTDylMChYUkiqlAMz">
+                                                      <field name="NUM">20</field>
+                                                   </shadow>
+                                                </value>
+                                                <next>
+                                                   <block type="play_tune" id="ku5sNFomBw6WTDgTeEVr">
+                                                      <field name="IN_SOUND">robot2</field>
+                                                      <next>
+                                                         <block type="block_motor" id="wjMMxdMwFydEFhy7w2GT">
+                                                            <field name="NAME_INPUT">shooter</field>
+                                                            <field name="DIRECTION_SELECTOR">Motor.DIRECTION_BACK</field>
+                                                            <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_SEC</field>
+                                                            <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_PWR</field>
+                                                            <value name="AMOUNT">
+                                                               <shadow type="math_number" id="GI7ghVRaHQ3WRngg8qG9">
+                                                                  <field name="NUM">0.1</field>
+                                                               </shadow>
+                                                            </value>
+                                                            <value name="LIMIT_SLIDER">
+                                                               <shadow type="math_number" id="tqEk8YBIEXDC1VKnh6PO">
+                                                                  <field name="NUM">100</field>
+                                                               </shadow>
+                                                            </value>
+                                                            <next>
+                                                               <block type="block_wait" id="e98AmoR7H96NtKAoRiCO">
+                                                                  <value name="WAIT">
+                                                                     <shadow type="math_number" id="zWjut8XG8LN6lmnG2yZz">
+                                                                        <field name="NUM">1</field>
+                                                                     </shadow>
+                                                                  </value>
+                                                                  <next>
+                                                                     <block type="play_tune" id="IhOFKa6g7nfVBz088TIO">
+                                                                        <field name="IN_SOUND">yee_haw</field>
+                                                                        <next>
+                                                                           <block type="block_motor" id="L7O8sFpjkFq8l24kRIY8">
+                                                                              <field name="NAME_INPUT">shooter</field>
+                                                                              <field name="DIRECTION_SELECTOR">Motor.DIRECTION_FWD</field>
+                                                                              <field name="UNIT_AMOUNT_SELECTOR">Motor.UNIT_SEC</field>
+                                                                              <field name="UNIT_LIMIT_SELECTOR">Motor.UNIT_SPEED_PWR</field>
+                                                                              <value name="AMOUNT">
+                                                                                 <shadow type="math_number" id="lqZ3OI1V9gEZf4PYE76E">
+                                                                                    <field name="NUM">1</field>
+                                                                                 </shadow>
+                                                                              </value>
+                                                                              <value name="LIMIT_SLIDER">
+                                                                                 <shadow type="math_number" id="VzKL92jGLFZs90PA4mB6">
+                                                                                    <field name="NUM">15</field>
+                                                                                 </shadow>
+                                                                              </value>
+                                                                           </block>
+                                                                        </next>
+                                                                     </block>
+                                                                  </next>
+                                                               </block>
+                                                            </next>
+                                                         </block>
+                                                      </next>
+                                                   </block>
+                                                </next>
+                                             </block>
+                                          </next>
+                                       </block>
+                                    </next>
+                                 </block>
+                              </next>
+                           </block>
+                        </next>
+                     </block>
+                  </next>
+               </block>
+            </next>
+         </block>
+      </next>
+   </block>
+</xml>

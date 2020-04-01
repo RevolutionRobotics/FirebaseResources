@@ -3,7 +3,7 @@
    "name":{
       "en":"Stack the cans"
    },
-   "draft": true,
+   "draft": false,
    "order": 9,
    "steps":[
       {
@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Let's see how many cans your robot can stack up without the can tower collapsing."
+            "en":"Let's see how many cans your robot can stack up without the can tower collapsing.<br/>Standard can size in the US is 12 US fl oz or 355 ml.<br/>4.83 inches high, 2.13 inches in diameter at the lid."
          },
          "challengeType":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/stack-the-cans-weekly-challenge-9/80",
          "challengeType":"button"
       }
    ]

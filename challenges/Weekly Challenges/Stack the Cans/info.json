@@ -3,7 +3,7 @@
    "name":{
       "en":"Stack the cans"
    },
-   "draft": true,
+   "draft": false,
    "order": 9,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/stack-the-cans-weekly-challenge-9/80",
          "challengeType":"button"
       }
    ]

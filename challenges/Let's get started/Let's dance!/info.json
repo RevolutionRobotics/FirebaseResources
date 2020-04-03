@@ -41,7 +41,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Now let's make the first steps. Move Revvy forward for two seconds."
+            "en":"Now let's make the first steps. Move Revvy forward for five seconds."
          },
          "challengeType":"vertical"
       },
@@ -51,7 +51,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"One step to the left..."
+            "en":"Turn left..."
          },
          "challengeType":"vertical"
       },
@@ -61,7 +61,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"...and one step to the right."
+            "en":"...and turn back to the right."
          },
          "challengeType":"vertical"
       },
@@ -71,7 +71,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Another step to the right..."
+            "en":"Another turn to the right..."
          },
          "challengeType":"vertical"
       },
@@ -81,7 +81,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"...and now one step back to the left again."
+            "en":"...and now turn back to the left."
          },
          "challengeType":"vertical"
       },
@@ -91,7 +91,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Move backward for three seconds "
+            "en":"Move backward for one second."
          },
          "challengeType":"vertical"
       },    
@@ -111,7 +111,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Now do the same flow of steps again from moving forward for two seconds until you do a full circle."
+            "en":"Now do the same flow of steps again from moving forward for five seconds until you do a full circle."
          },
          "challengeType":"vertical"
       },
@@ -121,7 +121,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Finish the dance by pressing the 'play tune' button."
+            "en":"Finish the dance by pressing the 'rainbow' icon."
          },
          "challengeType":"vertical"
       },
@@ -136,45 +136,15 @@
          "challengeType":"vertical"
       },
       {
-         "id":"d1954b7b-89d5-4c47-8f1a-bb81eb7967d2",
+         "id":"60a5fe2e-0ecc-42ed-9170-be5de6a2dbf0",
          "title":{
-            "en":"Let's dance!"
+            "en":"Keep on dancing!"
          },
          "description":{
-            "en":""
-         },
+            "en":""   
+         },      
          "challengeType":"zoomable"
-      },
-      {
-         "id":"2e1976dc-273a-4a15-b495-ee74d06f6e06",
-         "title":{
-            "en":"Challenge time!"
-         },
-         "description":{
-            "en":""
-         },
-         "challengeType":"zoomable"
-      },
-      {
-         "id":"f3654841-e0a5-41bc-b2c3-ea4687911811",
-         "title":{
-            "en":"Question"
-         },
-         "description":{
-            "en":"How can you make your program shorter by adding a loop?"
-         },
-         "challengeType":"vertical"
-      },
-      {
-         "id":"7a2cffdd-869e-44c4-a486-5d5ee1bd548a",
-         "title":{
-            "en":"Answer"
-         },
-         "description":{
-            "en":"By adding a loop that repeats for two times you can make the list of steps shorter."
-         },
-         "challengeType":"vertical"
-      },
+      }
       {
          "id":"f14d7773-c602-4efc-b8d0-003dd76ac6c3",
          "title":{

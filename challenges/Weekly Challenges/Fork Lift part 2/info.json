@@ -1,0 +1,54 @@
+{
+   "id":"bbf3c888-b8a6-4e5c-bdfb-9098ae73ef9b",
+   "name":{
+      "en":"Fork Lift Part 2"
+   },
+   "draft": true,
+   "order": 14,
+   "steps":[
+      {
+         "id":"8112d27b-c9b3-498a-bfea-95e6e9c611ab",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"In the second part of Fork Lift your task is to lift up one of the loads and carry it to the other pile putting it on the top of it. As a next step, lift up the two loads and carry it back to the first stand."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"334fb34c-c216-4484-96cc-649572f3fb91",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Launch you fork lift from the center.<br/>Use only one robot.<br/>Don't use any extra material, but the parts from your kit.<br/>It's your call which corner you will start with."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5d28b70a-d9ef-4335-a0ba-c8e6e2c75c1d",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You needed within 6 minutes to finish the task. = Good job! Are you ready for another round?<br/>You needed 4 minutes to finish the task. = Wow! Excellent job! Do you want to try again?<br/>You managed to accomplish the task only within 2 minutes. = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"ad361d6f-2f0c-4f3d-a7a9-a67dbcfd3f0a",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 6 minutes = 5 points<br/>Finished within 4 minutes = 10 points<br/>Finished within 2 minutes = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

@@ -31,7 +31,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Let's start with some flashing lights."
+            "en":"First click on 'lights' and choose the rainbow icon to make some disco lights."
          },
          "challengeType":"vertical"
       },
@@ -41,7 +41,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Now let's make the first steps. Move Revvy forward for five seconds."
+            "en":"Now let's make some music. Choose the ta-dah icon from the sounds group."
          },
          "challengeType":"vertical"
       },
@@ -51,7 +51,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Turn left..."
+            "en":"Take the first step forward... "
          },
          "challengeType":"vertical"
       },
@@ -61,7 +61,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"...and turn back to the right."
+            "en":"...and backward."
          },
          "challengeType":"vertical"
       },
@@ -71,7 +71,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Another turn to the right..."
+            "en":"Make a pause for 5 seconds."
          },
          "challengeType":"vertical"
       },
@@ -81,7 +81,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"...and now turn back to the left."
+            "en":"Now double your steps backward."
          },
          "challengeType":"vertical"
       },
@@ -91,7 +91,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Move backward for one second."
+            "en":"Turn to the right..."
          },
          "challengeType":"vertical"
       },    
@@ -101,7 +101,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Move a full circle to the left."
+            "en":"...and back to the left."
          },
          "challengeType":"vertical"
       },
@@ -111,7 +111,7 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Now do the same flow of steps again from moving forward for five seconds until you do a full circle."
+            "en":"Double your steps forward."
          },
          "challengeType":"vertical"
       },
@@ -121,7 +121,57 @@
             "en":"Let's dance!"
          },
          "description":{
-            "en":"Now let's play ta-dah to finish the move."
+            "en":"Let's make your robot sing."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"b5ee05dc-9bd9-441c-b8f7-995597ef5632",
+         "title":{
+            "en":"Let's dance!"
+         },
+         "description":{
+            "en":"Make a half circle to the left..."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"c7fdf5d8-9a9e-4f1f-88fb-76c057a2f9c1",
+         "title":{
+            "en":"Let's dance!"
+         },
+         "description":{
+            "en":"...and back to the right."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"53d9bac9-6162-4941-bc9e-8be8cb9c5985",
+         "title":{
+            "en":"Let's dance!"
+         },
+         "description":{
+            "en":"Someone is flashing the red light!"
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"4854c264-f9b4-449a-b96c-fa7f5851fd73",
+         "title":{
+            "en":"Let's dance!"
+         },
+         "description":{
+            "en":"Wait for a second! What can it be?!"
+         },
+         "challengeType":"vertical"
+      },
+      {
+          "id":"e5e444f0-f109-4d56-a84c-cfb5ee9ba67d",
+         "title":{
+            "en":"Let's dance!"
+         },
+         "description":{
+            "en":"Stop! The police are coming!"
          },
          "challengeType":"vertical"
       },

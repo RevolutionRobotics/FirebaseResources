@@ -1,0 +1,54 @@
+{
+   "id":"ad148422-e0f5-40df-991a-8083e3a458b2",
+   "name":{
+      "en":"Sort out the coins"
+   },
+   "draft": false,
+   "order": 16,
+   "steps":[
+      {
+         "id":"6773d99f-926b-4ada-bd8d-49dab97ddc72",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Collect 4 different types of coins, 4 pieces each. Collect them in a cup and put the cup right in the middle of the challenge field. Your task is to sort out coins into 4 groups and collect the same pieces in the 4 corners of the challenge field."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"1972a200-042e-42ca-bd00-0ea6f9cf6317",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start your robot from the start line.<br/>Pile up one type of coins in one corner.<br/>For example: 5 cent coins in the yellow corner, 25 cent coins in the red corner.<br/>Coins must stay within the square."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"f4da41cb-a717-494f-932f-854caedf326d",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You completed the task within 12 minutes = Great!<br/>You completed the task within 10 minutes = Excellent job!<br/>You completed the task within 7 minutes = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"4068853c-e8fc-4fa3-b126-16ea7382dff5",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 12 minutes = 5 points<br/><br/>Finished within 10 minutes = 10 points<br/><br/>Finished within 7 minutes = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+         "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/stack-the-cups-weekly-challenge-2/62",
+         "challengeType":"button"
+     }
+   ]
+}

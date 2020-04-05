@@ -1,0 +1,54 @@
+{
+   "id":"cdebd523-9d16-4868-96e4-ccec580559ef",
+   "name":{
+      "en":"Hit the cups"
+   },
+   "draft": false,
+   "order": 15,
+   "steps":[
+      {
+         "id":"088489ae-f484-4051-b823-a6ccb828c5f9",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Build the cup tower you can see in the picture and place it on your challenge field the way it's presented. Leave your robot 1 meter off the challenge field measured from the start point. Your task is to knock down the tower with your strike."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"cfe5b230-2575-40c6-bf71-4bdfab7ccac0",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Leave your robot 1 meter off the field measured from the start point.<br/>You have 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"da8eaf66-8262-4c79-844c-406f0ffd7df8",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You knocked down the tower once out of the three trials = Great!<br/>You knocked down the tower twice out of the three trials = Excellent job!<br/>You knocked down the tower each time = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"399ad8f2-cfc9-4c9f-ae1f-f6a901c90fd0",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>1 hit out of 3 trials = 5 points<br/><br/>2 hits out of 3 trials = 10 points<br/><br/>3 hits out of 3 trials = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+         "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/stack-the-cups-weekly-challenge-2/62",
+         "challengeType":"button"
+     }
+   ]
+}

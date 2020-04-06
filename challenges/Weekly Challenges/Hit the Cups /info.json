@@ -3,7 +3,7 @@
    "name":{
       "en":"Hit the cups"
    },
-   "draft": false,
+   "draft": true,
    "order": 15,
    "steps":[
       {

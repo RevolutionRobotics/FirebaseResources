@@ -3,7 +3,7 @@
    "name":{
       "en":"Sort out the coins"
    },
-   "draft": false,
+   "draft": true,
    "order": 16,
    "steps":[
       {

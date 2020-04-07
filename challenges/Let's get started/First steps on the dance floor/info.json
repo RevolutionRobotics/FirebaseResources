@@ -101,7 +101,7 @@
             "en":"First steps on the dance floor"
          },
          "description":{
-            "en":"Here you can see the progrma flow you have just made."
+            "en":"Here you can see the program flow you have just made."
          },
          "challengeType":"vertical"
       },    
@@ -113,7 +113,7 @@
          "description":{
             "en":"Try to program more complex dance moves on your own."   
          },      
-         "challengeType":"zoomable"
+         "challengeType":"vertical"
       },
       {
          "id":"f14d7773-c602-4efc-b8d0-003dd76ac6c3",

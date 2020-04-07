@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Let's build a JengaTM tower with your robot!"
+            "en":"Let's build a JengaTM tower with your robot!<br/>If you don't have JengaTM on your hand, use the 4x2, 6x2 and 8x2 beams to build the tower, in this case you only need to put two beams to make one level."
          },
          "challengeType":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/jengatm-tower-weekly-challenge-10/82",
          "challengeType":"button"
       }
    ]

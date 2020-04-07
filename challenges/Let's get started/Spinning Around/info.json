@@ -1,0 +1,89 @@
+{
+   "id":"581f4be9-d1cf-484a-a861-a8124c457021",
+   "name":{
+      "en":"Spinning Around"
+   },
+   "order": 8,
+   "steps":[
+      {
+         "id":"3ab74c7d-31a1-4014-ab68-f8d2b44a6b5d",
+         "title":{
+            "en":"Spinning Around"
+         },
+         "description":{
+            "en":"Let's teach your robot how to spice up its dance moves with spinning around."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"f19ea5ef-6da9-43de-998a-fcf21ef4afe6",
+         "title":{
+            "en":"Spinning Around"
+         },
+         "description":{
+            "en":"For this challenge, you will use blocks listed in the second group."   
+         },      
+         "challengeType":"vertical"
+      },
+      {
+         "id":"21eb1a92-cd8e-407f-974d-c0d3a73d3528",
+         "title":{
+            "en":"Spinning Around"
+         },
+         "description":{
+            "en":"First, let's drive forward for a second with slow speed."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"81e71c58-8be8-40da-95a7-f6977a655140",
+         "title":{
+            "en":"Spinning Around"
+         },
+         "description":{
+            "en":"Make a short pause for a second..."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"f658cb6e-aa56-4362-893a-a8aaa431857a",
+         "title":{
+            "en":"Spinning Around"
+         },
+         "description":{
+            "en":"...and now make a full cirlce to the left by using 180-degrees-turn two times."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"b1047c38-2606-4a70-a651-cde66ea83ca8",
+         "title":{
+            "en":"Spinning Around"
+         },
+         "description":{
+            "en":"Finish the moves by adding a tune."
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"708c419f-53f8-46fd-9ec7-4481a6070827",
+         "title":{
+            "en":"Spinning Around"
+         },
+         "description":{
+            "en":"Check the program flow.<br/>Continue it with your own ideas."   
+         },      
+         "challengeType":"vertical"
+      },
+      {
+         "id":"49222bf0-3bc8-4a54-bb06-0e937ae87409",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      }
+]
+}

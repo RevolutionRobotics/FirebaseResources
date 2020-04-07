@@ -3,7 +3,7 @@
    "name":{
       "en":"Basic Worm Gear"
    },
-   "draft": true,
+   "draft": false,
    "order": 7,
    "steps":[
       {

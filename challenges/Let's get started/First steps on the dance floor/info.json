@@ -1,0 +1,129 @@
+{
+   "id":"5ba0e899-582b-4a72-bc97-2870546a25ca",
+   "name":{
+      "en":"First steps on the dance floor"
+   },
+   "order":7,
+   "steps":[
+      {
+         "id":"d8dd34e9-e758-4ead-8caa-dce4ecafd647",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"Now you are ready to create a program on your own."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"cca0555b-f995-448f-9fac-fa30ef4fa57e",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"Revvy is preparing for a school dance party, so let's teach the first steps to your robot."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"bfa87ee6-5bb7-41eb-8024-836be77fb435",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"First, take a step forward..."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"6a4539b0-688c-4fa7-a75d-3b157e76bdd1",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"...then take a turn to the left."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"3c43bbe8-6d9e-4eb8-9157-9438c4dbfc0d",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"Make some flashing lights..."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"92987c5b-a239-474b-8cb0-0ab292a58a7c",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"...and move backward, double the length his time."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"363185d5-2928-4b00-b39b-c8e115b0eead",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"Make a pause for 5 seconds..."
+         },
+         "challengeType":"vertical"
+      },
+      {
+         "id":"cb9af107-b6d8-46e8-8e13-6809a8c441e7",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"...and now make some noise!"
+         },
+         "challengeType":"vertical"
+      }, 
+      {
+         "id":"8540ccf8-8fb4-4846-a8de-2b132a2f9212",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"Voila! Your first dance program is done. Let's turn the brain on and make Revvy dance. First, save your program and add it to one of your controller's empty buttons."
+         },  
+         "challengeType":"vertical"
+      },
+      {
+         "id":"e378b831-ae97-490f-9d68-fe0780f280f1",
+         "title":{
+            "en":"First steps on the dance floor"
+         },
+         "description":{
+            "en":"Here you can see the progrma flow you have just made."
+         },
+         "challengeType":"vertical"
+      },    
+      {
+         "id":"60a5fe2e-0ecc-42ed-9170-be5de6a2dbf0",
+         "title":{
+            "en":"Keep on dancing!"
+         },
+         "description":{
+            "en":"Try to program more complex dance moves on your own."   
+         },      
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"f14d7773-c602-4efc-b8d0-003dd76ac6c3",
+         "title":{
+            "en":"Good job!"
+         },
+         "description":{
+            "en":""   
+         },      
+         "challengeType":"zoomable"
+      }
+]
+}

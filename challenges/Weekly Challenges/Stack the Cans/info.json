@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Let's see how many cans your robot can stack up without the can tower collapsing.<br/>Standard can size in the US is 12 US fl oz or 355 ml.<br/>4.83 inches high, 2.13 inches in diameter at the lid."
+            "en":"Let's see how many cans your robot can stack up without the can tower collapsing.<br/>Standard can size in the US is 12 US fl oz or 355 ml.<br/>4.83 inches high, 2.13 inches in diameter at the lid.<br/>The European standard size is 330ml, 12cm high and 6 cm in diameter at the lid."
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"2 cans = Good job! Are you ready for another round?<br/>3 cans = Wow! Excellent job! Do you think you can stack up more next time?<br/>4< cans = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"2 cans = Good job! Are you ready for another round?<br/>3 cans = Wow! Excellent job! Do you think you can stack up more next time?<br/>4+ cans = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -42,7 +42,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>2-3 cans = 5 points<br/>4 cans = 10 points<br/>5< cans = 15 points<br/>We would love to see your scores."
+            "en":"Let's count your points.<br/>2 cans = 5 points<br/>3 cans = 10 points<br/>4+ cans = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"

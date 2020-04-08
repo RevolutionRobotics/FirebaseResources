@@ -3,7 +3,7 @@
    "name":{
       "en":"Gear Ratio"
    },
-   "draft": true,
+   "draft": false,
    "order": 5,
    "steps":[
       {

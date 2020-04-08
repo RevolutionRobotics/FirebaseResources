@@ -3,7 +3,7 @@
    "name":{
       "en":"Basic Worm Gear"
    },
-   "draft": true,
+   "draft": false,
    "order": 7,
    "steps":[
       {
@@ -22,7 +22,7 @@
             "en":"Basic Worm Gear"
          },
          "description":{
-            "en":"Our worm gear connects every standard gear easily, but if you check it closely, you can see that their connection is different from the way our standard gears connect each other."
+            "en":"The Worm Gear can be connected to every other type of gear in your kit , but if you check it closely, you can see that their connection is different from the way our standard gears connect each other."
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +32,7 @@
             "en":"Basic Worm Gear"
          },
          "description":{
-            "en":"The worm gear changes the axis of rotation."
+            "en":"The worm gear changes the axis of rotation by 90-degrees."
          },
          "challengeType":"horizontal"
       },

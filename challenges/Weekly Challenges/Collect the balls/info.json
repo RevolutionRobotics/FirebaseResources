@@ -1,0 +1,54 @@
+{
+   "id":"5c93b6df-f1ca-427f-9b60-e95098287fdd",
+   "name":{
+      "en":"Collect the balls"
+   },
+   "draft": true,
+   "order": 18,
+   "steps":[
+      {
+         "id":"2dc424df-9254-4935-ac2a-c295dba1ba63",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Position 6 balls from your kit at the 6 circles on the challenge field. Your task is to push the balls into the center field with the help of a cup from your kit. Your robot has to hold the cup upside down, cover one ball with it then push the cup - and the ball under it- to the center."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"4c3df5b7-a0dd-438d-863f-6e5a93089901",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Push one ball at a time.<br/>Each ball has to be kept within the center field by the end of the challenge.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"b3456ba4-670d-4d9f-8364-0e60c4fbedc4",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 2 minutes. = Good job! Let's try again.<br/>You finished within 1.5 minutes. = Wow! Excellent job! Another try?<br/>You finished within less then 1 minute. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"39499772-41c4-4a68-a9de-4f1000bc23eb",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You finished within 2 minutes. = 5 points<br/>You finished within 1.5 minutes. = 10 points<br/>You finished within less then 1 minute. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

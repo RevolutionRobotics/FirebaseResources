@@ -1,0 +1,54 @@
+{
+   "id":"e8329916-5c22-4e0a-9230-15f1971186be",
+   "name":{
+      "en":"Zorro"
+   },
+   "draft": true,
+   "order": 17,
+   "steps":[
+      {
+         "id":"ddf93b66-4f0a-4aff-8f7e-d419e5a0ef77",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Drive your robot in a shape of the letter Z on the challenge field, just like the way Zorro would do. Start your robot at the red square, drive to the green square first, then through the field to the yellow one and finish on the blue square. Your task is to be as fast as possible."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"b058d476-78ff-4ebd-9aa2-1409d3e083d2",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Your robot cannot step outside the field.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"12a243db-d2d3-4897-aa33-f74f5fc8430a",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 15 seconds. = Good job! Let's try again.<br/>You finished within 10 seconds = Wow! Excellent job! Another try?<br/>You finished within 5 seconds. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"ef5a62ff-a709-4541-9431-9d87116b0735",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 15 seconds = 5 points<br/>Finished within 10 seconds = 10 points<br/>Finished within 5 seconds = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "id":"36cefa99-2a28-4eb7-82cc-e068e87863be",
+   "name":{
+      "en":"Water a plant"
+   },
+   "draft": true,
+   "order": 30,
+   "steps":[
+      {
+         "id":"9218b56d-3725-4ab9-820f-bcbcee173d30",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need a cup from your kit and any kind of potted plant in your room/house. Fill the cup and water the plant without wasting any of the liquid."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"16164b25-3ba0-4059-9966-a310b9234a1c",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"You mustn't spill the water out.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"ade2539f-f16a-450a-a204-434b37323ccb",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You managed to water the plant once but some of the water spilled out. = Good job! Let's try again.<br/>You managed to water the plant twice but some of the water spilled out. = Excellent job! Another try?<br/>You managed to water the plant three times and didn't waste any of the water. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"b97997a9-679e-40b7-863c-2de5ce136409",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You managed to water the plant but some of the water spilled out. = 5 points<br/>You managed to water the plant twice but some of the water spilled out. = 10 points<br/>You managed to water the plant three times and didn't waste any of the water. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

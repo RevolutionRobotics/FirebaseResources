@@ -1,0 +1,54 @@
+{
+   "id":"bb1a85c3-714e-41e5-a6f6-71f84e414e0f",
+   "name":{
+      "en":"Build a pyramid"
+   },
+   "draft": true,
+   "order": 28,
+   "steps":[
+      {
+         "id":"f780989e-edd4-4ff8-8515-b65b939efc3c",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need 6 paper rolls. Your task is to build a pyramid with these rolls, 3 rolls at the bottom, 2 rolls on the second level and 1 roll on the top."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"56fdcee9-d09c-432a-a0d8-9631ee4f59c4",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"The rolls must stand upward.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"324280a2-12a5-4bad-a8d2-1b23fb874bc7",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You built the pyramid within 10 minutes. = Good job! Let's try again.<br/>You built the pyramid within 7 minutes.= Wow! Excellent job! Another try?<br/>You built the pyramid within less than 5 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"e3d870e8-7ec1-443b-aa39-e610a17a6d4f",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You built the pyramid within 10 minutes. = 5 points<br/>You built the pyramid within 7 minutes. = 10 points<br/>You built the pyramid within less than 5 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

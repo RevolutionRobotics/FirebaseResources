@@ -22,7 +22,7 @@
             "en":"Beams you will need"
          },
          "description":{
-            "en":"Get three beams of each type - 4x2, 6x2, 8x2."
+            "en":"Get three beams of each type.<br/>4x2, 6x2, 8x2"
          },
          "challengeType":"horizontal"
       },
@@ -42,7 +42,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You managed to knock over the beams for the third trial. = Good job! Are you ready for another round?<br/>You needed two trials to knock over the beams = Wow! Excellent job! Do you want to try again?<br/>You knock over the beams after the first trial. = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You knocked over the beams for the third trial. = Good job! Let's try again!<br/>You needed two trials to knock over the beams = Excellent job! Do you want to try again?<br/>You knocked over the beams after the first trial. = You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

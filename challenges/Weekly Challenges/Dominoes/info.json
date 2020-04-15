@@ -3,7 +3,7 @@
    "name":{
       "en":"Dominoes"
    },
-   "draft": true,
+   "draft": false,
    "order": 11,
    "steps":[
       {
@@ -57,7 +57,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/dominoes-weekly-challenge-11/83",
          "challengeType":"button"
       }
    ]

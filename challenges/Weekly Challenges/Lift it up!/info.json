@@ -1,0 +1,54 @@
+{
+   "id":"4a97c6fb-c90f-45b8-b865-177b8da6c1c8",
+   "name":{
+      "en":"Lift it up!"
+   },
+   "draft": true,
+   "order": 25,
+   "steps":[
+      {
+         "id":"f634397e-7ab1-4a99-8860-516741548d1f",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Build a robot that can lift up a cup from your kit. Place 4 cups in the 4 squares of your challenge field. Lift them up and carry them to the center of the field one by one. Stack them up by putting them into each other."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"8292b8a5-8c7e-47d0-9243-4fd4cdbc4ca1",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start your robot from the start line.<br/>Pick up one cup at a time.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"6e551346-5bc3-43de-8386-62a5cc2dabb5",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 10 minutes = Good job! Let's try again.<br/>You finished within 7 minutes. = Wow! Excellent job! Another try?<br/>You finished in under 5 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"0cd100be-3e22-40fe-adf0-a6a2a8f43be8",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 10 minutes. = 5 points<br/>Finished within 7 minutes. = 10 points<br/>Finished in under 5 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

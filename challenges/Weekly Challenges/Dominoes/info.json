@@ -3,7 +3,7 @@
    "name":{
       "en":"Dominoes"
    },
-   "draft": true,
+   "draft": false,
    "order": 11,
    "steps":[
       {
@@ -13,6 +13,16 @@
          },
          "description":{
             "en":"Position 9 beams onto the challenge field the way you can see in the picture. Your robot should stand at the arrow, outside the field. The task is to throw a ball that hits the first beam which would knock over the rest in the line."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"84a105c0-879d-4a08-b487-77bf1d34a4b5",
+         "title":{
+            "en":"Beams you will need"
+         },
+         "description":{
+            "en":"Get three beams of each type.<br/>4x2, 6x2, 8x2"
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +42,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You could knock over the beams for the third trial. = Good job! Let's try again.<br/>You needed two trials to knock over the beams = Wow! Excellent job! Another try?<br/>You knock over the beams after the first trial. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You knocked over the beams for the third trial. = Good job! Let's try again!<br/>You needed two trials to knock over the beams = Excellent job! Do you want to try again?<br/>You knocked over the beams after the first trial. = You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -47,7 +57,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/dominoes-weekly-challenge-11/83",
          "challengeType":"button"
       }
    ]

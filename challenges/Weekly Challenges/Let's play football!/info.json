@@ -1,0 +1,54 @@
+{
+   "id":"4d7996a5-89f9-45a6-9e36-ac65c6d86b8d",
+   "name":{
+      "en":"Let's play football!"
+   },
+   "draft": true,
+   "order": 23,
+   "steps":[
+      {
+         "id":"cd466189-0719-40ec-b48d-444fa2947dbb",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"In this exciting challenge your task is to kick the ball standing at the start line into any of the three lying cups."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"356b1a00-de88-4a05-82a6-01ff61584733",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Position the three cups at the exact place you can see in the picture leaving gaps between them.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"86b20362-0f34-4495-8989-04cd90ce41bb",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You scored once out of the three trials. = Good job! Let's try again.<br/>You scored twice out of the three trials. = Wow! Excellent job! Another try?<br/>You scored three times out of the three trials. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"bcf8a40d-0aa2-44a3-940b-5283ff8b7463",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You scored once out of the three trials. = 5 points<br/>You scored twice out of the three trials. = 10 points<br/>You scored three times out of the three trials. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

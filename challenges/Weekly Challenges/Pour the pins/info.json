@@ -1,0 +1,54 @@
+{
+   "id":"55f61c96-f41d-4f72-b9b7-95ab2775446c",
+   "name":{
+      "en":"Pour the pins"
+   },
+   "draft": true,
+   "order": 22,
+   "steps":[
+      {
+         "id":"fe096960-9b75-4c5b-ab91-a7a04b0fd813",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Get two cups from your kit, fill one of them with 20 pins. Your task is to grab the cup and pour all the pins into the other cup without spilling them out."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a7ccd92d-e5b9-43e5-90d0-f49325d66f39",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Leave the empty cup on the floor/workstation.<br/>Grab the filled cup with robot's arm/hand/claw.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"9d9f0698-3594-449d-8efb-df51142975a4",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You could fill the empty cup with 10 or less pins. = Good job! Let's try again.<br/>You could fill the empty cup with 11-16 pins. = Wow! Excellent job! Another try?<br/>You could fill the empty cup with 17-20 pins. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"bafc47ce-8be1-4192-8e7c-a176dfe53ec2",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You could fill the empty cup with 10 or less pins. = 5 points<br/>You could fill the empty cup with 11-16 pins. = 10 points<br/>You could fill the empty cup with 17-20 pins. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

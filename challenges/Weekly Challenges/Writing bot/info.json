@@ -1,0 +1,54 @@
+{
+   "id":"8939bf43-ab2c-4826-af8f-478b39c00882",
+   "name":{
+      "en":"Writing bot"
+   },
+   "draft": true,
+   "order": 24,
+   "steps":[
+      {
+         "id":"f677bc99-6351-4284-a663-846597f83115",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"In this challenge you will teach your robot wo write. Build a robot that can hold a pencil. Get a piece of paper, stand your robot on it and get yor robot write down three letters: A,B and C."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"7bef8437-88f4-4fd7-b4c4-7e4451579fae",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"It's OK if your robot drop the pencil, get it and continue.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"db5c75ad-fafd-463c-babf-2edad2b96cf0",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You managed to write the three letters, but they cover each other. = Good job! Let's try again.<br/>You managed to write the three letters but two of them cover each other. = Wow! Excellent job! Another try?<br/>A,B and C are nicely written, no coverage. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"9223f5df-9dfe-4dce-af48-2c7cbb32f48d",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You managed to write the three letters, but they cover each other. = 5 points<br/>You managed to write the three letters but two of them cover each other. = 10 points<br/>A,B and C are nicely written, no coverage. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

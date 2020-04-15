@@ -1,0 +1,64 @@
+{
+   "id":"7716b389-357e-477e-80ef-b7c3d126b96b",
+   "name":{
+      "en":"Recycle"
+   },
+   "draft": true,
+   "order": 21,
+   "steps":[
+      {
+         "id":"4758320a-cbbf-464e-9a19-6d4a5363afc4",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"In this fun challenge you will need to do some recycling work. Put 4 cups at the 4 corners of the challenge field, they will be your trashcans. Collect 4 types of 'trash' and position them inside the center field the way you see in the picture: the ball symbolises an apple (bio-degradable), the blue CT2x2 symbolises some re-usable plastic trash and the cable stands for communal waste. Also, add a tissue or any kind of paper to the collection, too as paper waste."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"f39ba52e-a64a-4b01-a31a-8ec22b4f446e",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"In the yellow corner you have your plastic trashcan, in the blue one you have the paper trashcan, in the green corner stands your bio-degradable can and finally, the red corner has your communal waste. Your task is to sort the trash by their types and throw them into the appropriate trashcan."
+         },
+            "challengeType":"horizontal"
+      },
+      {
+         "id":"92dfc490-c3da-4971-b602-08c533a29c30",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start from the start line.<br/>Pick up one piece of trash at a time.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"449d450f-ec7a-4541-8b5e-3377c027a254",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 10 minutes. = Good job! Let's try again.<br/>You finished within 7 minutes. = Wow! Excellent job! Another try?<br/>You finished within 4 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"b4c5202a-9c90-471c-b8c1-b5a0d0448066",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 10 minutes. = 5 points<br/>Finished within 7 minutes. = 10 points<br/>Finished within 4 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

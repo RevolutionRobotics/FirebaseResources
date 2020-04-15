@@ -1,0 +1,54 @@
+{
+   "id":"bebd4efe-4004-4248-b693-b654d83719ce",
+   "name":{
+      "en":"Petanque"
+   },
+   "draft": true,
+   "order": 19,
+   "steps":[
+      {
+         "id":"ee6e8fd6-cf5c-4b30-aa6f-c29e755de651",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need two balls from your kit. Stand your robot at the start line and roll the first ball onto the challenge field. The task is to keep the ball within the challenge field. Next try to roll the second ball as close to the first one as possible."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"21ae89a8-b2cc-4da7-9415-e0fe64fea40c",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"For the first roll stand at the start line.<br/>For the second roll you can stand either at the start line or behind it, but do not step in the field.<br/>You have 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"300647fb-3798-4418-90a2-e7c679fdfc79",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"Check the ruler on the side of the field.<br/>You managed to get within 20 cm = Great!<br/>You managed to get within 10 cm = Excellent job!<br/>You managed to get within 5 cm = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"90a344d8-c2f7-4f21-b276-fae409fc0d56",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You managed to get within 20 cm = 5 points<br/><br/>You managed to get within 10 cm = 10 points<br/><br/>You managed to get within 5 cm = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+         "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/stack-the-cups-weekly-challenge-2/62",
+         "challengeType":"button"
+     }
+   ]
+}

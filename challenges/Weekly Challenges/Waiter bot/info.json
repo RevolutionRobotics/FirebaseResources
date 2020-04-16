@@ -1,0 +1,54 @@
+{
+   "id":"c19bc714-296d-41e7-8178-cfff6403840c",
+   "name":{
+      "en":"Waiter bot"
+   },
+   "draft": true,
+   "order": 31,
+   "steps":[
+      {
+         "id":"29c1cee0-4231-4285-a7dc-c721bd8f2d1a",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need a plastic spoon and one ball from your kit. Your task is to build a robot that can hold the spoon holding the ball and carry it from the challenge field's start line to the other end of the field."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5d91584d-6446-445b-93d4-d24a28c71ec8",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"YStart from the start line.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"139d7ade-c7b1-4f51-82ca-5b525dc69aca",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You got to the middle of the field. = Good job! Let's try again.<br/>You got to the third-quarter of the field. = Wow! Excellent job! Another try?<br/>You reached the other end of the field. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"ea7d6a77-9e9b-4527-b163-15656034d8f4",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You got to the middle of the field. = 5 points<br/>You got to the third-quarter of the field. = 10 points<br/>You reached the other end of the field. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

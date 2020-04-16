@@ -1,0 +1,54 @@
+{
+   "id":"53ddd99b-8f50-47ff-bf22-7e6c8a724126",
+   "name":{
+      "en":"Crane"
+   },
+   "draft": true,
+   "order": 34,
+   "steps":[
+      {
+         "id":"8fa987f3-94f3-4590-8083-9bf896860348",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Build a robot crane. your task is to collect the 4 cups from the squares and pile them up right in the middle of the center field."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"8d173da9-f665-4d82-8e09-2c21db809aab",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start from the start line.<br/>Carry one cup at once.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"937696a8-4a7b-4198-9178-fd95474266a4",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 2 minutes. = Good job! Let's try again.<br/>You finished within 1.5 minutes. = Wow! Excellent job! Another try?<br/>You finished within less than 1 minute. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"3540d0db-08b4-48f8-bbc6-553042474dd3",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You finished within 2 minutes. = 5 points<br/>You finished within 1.5 minutes. = 10 points<br/>You finished within less than 1 minute. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

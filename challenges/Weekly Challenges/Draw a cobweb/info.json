@@ -1,0 +1,54 @@
+{
+   "id":"0a8e741f-0dc1-46df-a23f-6c3d9f9c2433",
+   "name":{
+      "en":"Draw a cobweb"
+   },
+   "draft": true,
+   "order": 35,
+   "steps":[
+      {
+         "id":"dfab0aec-c50e-4a7c-9300-5e39e38ab8ab",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need a large piece of paper (A3) and a thick pen/pencil. Your task is to draw a cobweb with your robot on the paper."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"d745be4a-6ace-4f6b-ba15-e3fd72f1a774",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Draw as many inner circles as possible.<br/>You have got 2 minutes.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5c3f9096-53af-4509-b3a8-7b82606adcdf",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You drew 3 inner cirles. = Good job! Let's try again.<br/>You drew 4 inner cirles. = Wow! Excellent job! Another try?<br/>You drew 5+ inner cirles. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"9736ac59-0f30-4112-a1a9-675f3d8224f7",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You drew 3 inner cirles. = 5 points<br/>You drew 4 inner cirles. = 10 points<br/>You drew 5+ inner cirles. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

@@ -1,0 +1,64 @@
+{
+   "id":"163f318b-0127-4ebc-aee8-cdb5a0ecb2c6",
+   "name":{
+      "en":"Speedy delivery"
+   },
+   "draft": true,
+   "order": 40,
+   "steps":[
+      {
+         "id":"4122ad8f-f34b-4f43-8dc3-db3eee7d9098",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Place four cups on the four squares on your challenge field. Throw the exact number and types of materials from your kit into the center field. Your task is to sort them out by delivering them into the cups. One type of material per cup."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"47a100e3-69af-4972-90f3-c41c7aabd4ad",
+         "title":{
+            "en":"Materials you need"
+         },
+         "description":{
+            "en":""
+         },
+         "challengeType":"zoomable"
+      },
+      {
+         "id":"7db38328-4523-4e35-875d-9f80f8e8553a",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start from the start line.<br/>Carry one item at a time.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"1b022481-a155-4793-8f4c-a15cabde4227",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 10 minutes. = Good job! Let's try again.<br/>You finished within 7 minutes. = Wow! Excellent job! Another try?<br/>You finished within 5 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5613e905-cac7-4832-af29-167a880d7e99",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 10 minutes. = 5 points<br/>Finished within 7 minutes. = 10 points<br/>Finished within 5 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

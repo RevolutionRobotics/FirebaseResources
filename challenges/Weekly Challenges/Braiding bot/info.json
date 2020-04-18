@@ -1,0 +1,54 @@
+{
+   "id":"89df5cf7-1f13-46e2-9754-26eed0fd784d",
+   "name":{
+      "en":"Braiding bot"
+   },
+   "draft": true,
+   "order": 39,
+   "steps":[
+      {
+         "id":"9f4fc65d-7107-4d20-8937-158051010294",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this fun challenge you will need three 100cm-long showlaces. Tie the laces together with a knot then build a robot that can braid the shoelaces."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"2467dfba-2ca5-45e5-8a92-0b0fa07b8c35",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Try to be as fast as possible.<br/>Get someone to start the stop watch.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"1b3ffab1-60b6-4027-933d-4517c4cf150f",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 12 minutes. = Good job! Let's try again.<br/>You finished within 9 minutes. = Wow! Excellent job! Another try?<br/>You finished within 6 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a9528602-7993-4670-b5da-796079159fbe",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 12 minutes. = 5 points<br/>Finished within 9 minutes. = 10 points<br/>Finished within 6 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

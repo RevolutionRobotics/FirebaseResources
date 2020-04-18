@@ -1,0 +1,54 @@
+{
+   "id":"78a581f6-2240-4a4e-995b-71161cd7cdc9",
+   "name":{
+      "en":"Folding the map"
+   },
+   "draft": true,
+   "order": 37,
+   "steps":[
+      {
+         "id":"dccdeaff-4207-4313-9549-515f3e4ab17b",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Unfold the challenge field and lay it down the floor. Your task is to build a robot that can fold the field back."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"729f8feb-96b9-447e-b8d7-b9861476b77f",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Do not fold the paper smaller than its original folded size..<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"0d7150d4-6903-4b0e-ae7f-30dbcdfe95a0",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 10 minutes. = Good job! Let's try again.<br/>You finished within 6 minutes. = Wow! Excellent job! Another try?<br/>You finished within 3 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"9ce202ec-0c6e-40a4-90a6-0f6833d39603",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 10 minutes. = 5 points<br/>Finished within 6 minutes. = 10 points<br/>Finished within 3 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

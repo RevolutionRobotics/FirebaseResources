@@ -1,0 +1,54 @@
+{
+   "id":"4688a41b-ffae-4c28-9e12-cd38fcc05f65",
+   "name":{
+      "en":"Cannon"
+   },
+   "draft": true,
+   "order": 43,
+   "steps":[
+      {
+         "id":"d711c20a-d2da-4888-bc26-270475727f80",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"FFor this challenge you will need a tape measure. Yoóour task is to build a cannon that can shoot a ball from your kit as far as possible."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"be9ad27f-f55a-4cbc-a9af-c5a208b213d1",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Draw an X on the floor where your robot stands.<br/>Be careful not to face anyone with your robot while shooting.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"0c9b2326-f171-469d-bb50-247924c04dde",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You shot 1 meter. = Good job! Let's try again.<br/>You shot within 2 meters. = Wow! Excellent job! Another try?<br/>You shot 2+ meters. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"f7a579e2-7d50-48e0-afc7-8d7ea239b0ea",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You shot within 1 meter. = 5 points<br/>You shot within 2 meters. = 10 points<br/>You shot 2+ meters. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

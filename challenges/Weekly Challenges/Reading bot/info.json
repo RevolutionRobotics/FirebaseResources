@@ -1,0 +1,54 @@
+{
+   "id":"a1e0b8fd-fd90-4f4d-91cd-98e12dd8bacc",
+   "name":{
+      "en":"Reading bot"
+   },
+   "draft": true,
+   "order": 44,
+   "steps":[
+      {
+         "id":"41546fad-cc95-4878-aaca-ce81ca1354e6",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need a book. Your task is to build a robot that can turn the pages of your book. Try to turn as many pages as possible within 1 minute."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"aaf6f9f0-9ae3-472d-9697-5d61ae6e5f47",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Put the book down the floor.<br/>Open it in the middle before starting the challenge.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"54763eac-f864-4a12-82b3-d76c59b712a5",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You managed to turn 3 pages. = Good job! Let's try again.<br/>You managed to turn 4-6 pages. = Wow! Excellent job! Another try?<br/>You managed to turn 7+ pages. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"47081f87-5561-4279-b756-6f3141607654",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You managed to turn 3 pages. = 5 points<br/>You managed to turn 4-6 pages. = 10 points<br/>You managed to turn 7+ pages. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

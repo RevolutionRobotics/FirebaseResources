@@ -1,0 +1,54 @@
+{
+   "id":"f08b3a36-84ad-4d73-8d3d-a3499bdc842d",
+   "name":{
+      "en":"Snake"
+   },
+   "draft": true,
+   "order": 42,
+   "steps":[
+      {
+         "id":"755e5af6-aaf4-4c7b-9fbd-91ba06bc23ea",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Position your robot at the red circle of your challenge field. Your task is follow the arrows of this image driving in an 'S' shape to get to the orange circle as fast as possible."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"53cf809b-a0f1-4cd5-8741-60e700c3da32",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Your robot cannot step outside the field.<br/>Start at the red circle.<br/>Finish at the orange circle.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"3f86f54a-4251-4e08-8bb8-dc8272ff8a94",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 15 seconds. = Good job! Let's try again.<br/>You finished within 10 seconds. = Wow! Excellent job! Another try?<br/>You finished within 5 seconds. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"f8d9c84b-3219-4f74-a2dc-562912481403",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 15 seconds. = 5 points<br/>Finished within 10 seconds. = 10 points<br/>Finished within 5 seconds. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

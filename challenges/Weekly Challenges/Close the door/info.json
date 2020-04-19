@@ -1,0 +1,54 @@
+{
+   "id":"67d6faab-f55b-4390-99f2-0314a46197bf",
+   "name":{
+      "en":"Close the door"
+   },
+   "draft": true,
+   "order": 45,
+   "steps":[
+      {
+         "id":"4b3b469c-2209-4a73-bde2-8d43503e35c2",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need one piece of shoelace. Your task is to tie the shoelace to a door handle, then get your robot to hold the other end of the lace. Try to pull the handle to close the door with the help of the lace without dropping it."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"8c8582b5-47c6-4bd9-80cf-bbc4490699b8",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Open the door 45 degrees.<br/>Try again if you dropped the shoelace.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"8cee1d03-dd19-4fb3-b89e-cc1d248de954",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You managed to close the door once out of 3 trials. = Good job! Let's try again.<br/>You managed to close the door twice out of 3 trials. = Wow! Excellent job! Another try?<br/>You managed to close the door oncthree times out of 3 trials. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"30cae718-e5cd-4891-9b8f-a60916924054",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You managed to close the door once out of 3 trials. = 5 points<br/>You managed to close the door twice out of 3 trials. = 10 points<br/>You managed to close the door oncthree times out of 3 trials. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

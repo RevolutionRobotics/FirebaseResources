@@ -1,0 +1,54 @@
+{
+   "id":"506cab6d-7836-41d2-9130-ceb99a5800b7",
+   "name":{
+      "en":"Push the ball"
+   },
+   "draft": true,
+   "order": 48,
+   "steps":[
+      {
+         "id":"faf75513-94a9-4998-bb37-d332cd412cd0",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Your task is to build a robot that can push a ball from your kit over the outer ring of your challenge field. How many rounds can you make under 1 minute without letting the ball go off the line?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"62744a45-8afc-493d-98f0-ef766ab407aa",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start driving from the yellow square.<br/>Do not let the ball get off the line.<br/>Time limit : 1 minute<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"6d88af39-b9bf-4b4b-af1e-638ffa58351e",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You made 1 round. = Good job! Let's try again.<br/>You made 2 rounds. = Wow! Excellent job! Another try?<br/>You made 3 rounds. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"1b94772a-ba3d-4685-bbee-25f6c7384068",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You made 1 round. = 5 points<br/>You made 2 rounds. = 10 points<br/>You made 3 rounds. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

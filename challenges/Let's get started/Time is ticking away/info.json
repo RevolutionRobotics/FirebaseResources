@@ -12,7 +12,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"In this exciting challenge you will learn about variables and logic blocks to make your programming experience more professional. First, click on variables and create one, let's name it as 'tick'."
+            "en":"In this exciting challenge you will learn about variables and logic blocks to make your programming experience more professional. First, click on variables and create one. Let's name it as 'tick'."
          },
          "challengeType":"vertical"
       },
@@ -22,7 +22,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Add a number block from 'math' category and change it to 1. It means your variable's, tick' value will be one."
+            "en":"Add a number block from 'math' category and change it to 1. It means your variable's - tick - value will be one."
          },
          "challengeType":"vertical"
       },
@@ -32,7 +32,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Now add a light block which sets the LEDs. Continue the numbering until 12 then change the color to black. It means you switch off all the 12 LEDs."
+            "en":"Now add a light block that sets the LEDs. Continue the numbering until 12, then change the color to black. It means you switch off all the 12 LEDs."
          },
          "challengeType":"vertical"
       },
@@ -52,7 +52,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Next add an infinate loop to your flow. The first block in the infinate loop should be one that sets the LED color. Add the tick variable to your LED block. Then change the color to green."
+            "en":"Next, add an infinate loop to your flow. The first block in the infinate loop should be one that sets the LED color. Embed the tick variable to your LED block. Then change the color to green."
          },
          "challengeType":"vertical"
       },
@@ -62,7 +62,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Add a 5-second-break block. With the help of this 5-second-long break your robot will run an exact 1-minute circle (5x12=60)."
+            "en":"Add a 5-second-break block. With the help of this, your robot will run an exact 1-minute circle (5x12=60)."
          },
          "challengeType":"vertical"
       },
@@ -72,7 +72,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Pick a 'set LEDs' block, add your variable - tick - to it and set the LED to black. It will switch off the previously active LED after its 5-second-long activation."
+            "en":"Pick a 'set LEDs' block, add your variable - tick - to it and set the color black. It will switch off the previously active LED after its 5-second-long activation."
          },
          "challengeType":"vertical"
       },
@@ -82,7 +82,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Add a variable block and add number 1 to it. It will activate the following LED after the previous LEDs 5 seconds of activation."
+            "en":"Add a variable block and add number 1 to it. It will activate the following LED after the previous LED's 5 seconds of activation."
          },  
          "challengeType":"vertical"
       },
@@ -92,7 +92,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Now it's time for some logic block. Pick an if/then block from the logic category, embed the second block from the same category with the added tick variable. Change the operator to > and add 12."
+            "en":"Now it's time for some logic block. Pick an if/then block from the logic category, embed the second block from the same category with the added tick variable. Change the operator to > and add number 12."
          },  
          "challengeType":"vertical"
       },
@@ -102,7 +102,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Let's fill in the 'then' part: add the set tick block from the variable category first. "
+            "en":"Let's fill in the 'then' part: add the set tick block from the variable category first... "
          },  
          "challengeType":"vertical"
       },
@@ -112,7 +112,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"Then get a number block from math category and change it to 1."
+            "en":"...then get a number block from 'math' category and change it to 1."
          },  
          "challengeType":"vertical"
       },
@@ -122,7 +122,7 @@
             "en":"Time is ticking away"
          },
          "description":{
-            "en":"The if/then condition here means that if the value of the tick is higher than 12, it will set the tick to 1 again ending in your robot running a never ending full cirlce around the 12 LEDs and not stopping at LED 12."   
+            "en":"The if/then condition here means that if the value of the tick is higher than 12, it will set the tick to 1 again ending in your robot running a never ending full cirlce around the LEDs and not stopping at LED number 12."   
          },      
          "challengeType":"vertical"
       },
@@ -144,7 +144,7 @@
          "description":{
             "en":""
          },
-         "challengeType":"horizontal"
+         "challengeType":"zoomable"
       }
 ]
 }

@@ -3,7 +3,7 @@
    "name":{
       "en":"Snow Rake"
    },
-   "draft": true,
+   "draft": false,
    "order": 12,
    "steps":[
       {

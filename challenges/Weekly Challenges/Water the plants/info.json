@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You managed to water the plant once but some of the water spilled out. = Good job! Let's try again.<br/>You managed to water the plant twice but some of the water spilled out. = Excellent job! Another try?<br/>You managed to water the plant three times and didn't waste any of the water. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You watered the plant once, but some of the water spilled out. = Good job!<br/>You watered the plant twice but some of the water spilled out. = Excellent job!<br/>You watered the plant three times and didn't waste any of the water. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

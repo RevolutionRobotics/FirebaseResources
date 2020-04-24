@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You managed to close the door once out of 3 trials. = Good job! Let's try again.<br/>You managed to close the door twice out of 3 trials. = Wow! Excellent job! Another try?<br/>You managed to close the door oncthree times out of 3 trials. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You closed the door once out of 3 trials. = Good job!<br/>You closed the door twice out of 3 trials. = Excellent job!<br/>You closed the door oncthree times out of 3 trials. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -42,7 +42,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>You managed to close the door once out of 3 trials. = 5 points<br/>You managed to close the door twice out of 3 trials. = 10 points<br/>You managed to close the door oncthree times out of 3 trials. = 15 points<br/>We would love to see your scores."
+            "en":"Let's count your points.<br/>You managed to close the door once out of 3 trials. = 5 points<br/>You managed to close the door twice out of 3 trials. = 10 points<br/>You managed to close the door three times out of 3 trials. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"

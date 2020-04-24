@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"For this challenge you will need a plastic spoon and one ball from your kit. Your task is to build a robot that can hold the spoon holding the ball and carry it from the challenge field's start line to the other end of the field."
+            "en":"For this challenge you will need a plastic spoon and one ball from your kit. Your task is to build a robot that can hold the spoon with a ball on it and carry it from the challenge field's start line to the other end of the field."
          },
          "challengeType":"horizontal"
       },
@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "description":{
-            "en":"YStart from the start line.<br/>You have got 3 trials."
+            "en":"Start from the start line.<br/>You have got 3 trials."
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You got to the middle of the field. = Good job! Let's try again.<br/>You got to the third-quarter of the field. = Wow! Excellent job! Another try?<br/>You reached the other end of the field. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You got to the middle of the field. = Good job! Let's try again.<br/>You got to the third quarter of the field. = Wow! Excellent job! Another try?<br/>You reached the other end of the field. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },
@@ -42,7 +42,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>You got to the middle of the field. = 5 points<br/>You got to the third-quarter of the field. = 10 points<br/>You reached the other end of the field. = 15 points<br/>We would love to see your scores."
+            "en":"Let's count your points.<br/>You got to the middle of the field. = 5 points<br/>You got to the third quarter of the field. = 10 points<br/>You reached the other end of the field. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"

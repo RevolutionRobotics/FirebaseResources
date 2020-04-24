@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Position your robot at the red circle of your challenge field. Your task is follow the arrows of this image driving in an 'S' shape to get to the orange circle as fast as possible."
+            "en":"Position your robot at the red circle of your challenge field. Your task is to follow the arrows of this image driving in an 'S' shape to get to the orange circle as fast as possible."
          },
          "challengeType":"horizontal"
       },

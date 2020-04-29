@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Get two cups from your kit, fill one of them with 20 pins. Your task is to grab the cup and pour all the pins into the other cup without spilling them out."
+            "en":"Get two cups from your kit, fill one of them with 20 connector pins. Your task is to grab the cup and pour all the pins into the other cup without spilling them out."
          },
          "challengeType":"horizontal"
       },

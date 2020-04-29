@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"For this challenge you will need one piece of shoelace. Your task is to build a robot that can tie a knot on the shoelace."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"65a9205d-d28b-4e5d-99a2-3ade9fb4d3de",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Do not help the robot with your bare hand/foot.<br/>The faster you are, the better.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"db9d5044-e1e9-4133-b5d7-3a91752c544b",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You finished within 6 minutes. = Good job! Let's try again.<br/>You finished within 4 minutes. = Wow! Excellent job! Another try?<br/>You finished within 2 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"7d755019-06f4-4c8b-a2cc-6aac01ac0c80",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Finished within 6 minutes. = 5 points<br/>Finished within 4 minutes. = 10 points<br/>Finished within 2 minutes. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

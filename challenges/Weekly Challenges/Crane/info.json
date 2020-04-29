@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Build a robot crane. Your task is to collect the 4 cups from the squares and pile them up right in the middle of the center field."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"8d173da9-f665-4d82-8e09-2c21db809aab",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Start from the start line.<br/>Carry one cup at once.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"937696a8-4a7b-4198-9178-fd95474266a4",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You finished within 2 minutes. = Good job! Let's try again.<br/>You finished within 1.5 minutes. = Wow! Excellent job! Another try?<br/>You finished within less than 1 minute. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"3540d0db-08b4-48f8-bbc6-553042474dd3",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>You finished within 2 minutes. = 5 points<br/>You finished within 1.5 minutes. = 10 points<br/>You finished within less than 1 minute. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

@@ -11,110 +11,110 @@
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"In the previous challenge you learnt about if/then conditions. Let's continue with the if/then/else block from the logic category. Let's carry on work with the previous challenge's program flow."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"ea9a480d-a7d7-493e-b9f4-20cec116f574",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Choose an if/then/else block from the logic category."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"35e97aec-4f8e-4b6e-9acb-93ada0c0afb4",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Embed a logic block in it."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"2ed9cd0f-35b6-4cd7-a936-4e5e594f7a4b",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Add a math block."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"3dd00132-9e87-43d6-9930-117058021776",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Add the variable 'tick' to the math block, change the operator to % and the number (operand) to 2 within the same block. It means if the remainder of the tick divided by 2 is 1  (so tick is an odd number), then we switch on the LED marked by 'tick'."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"f3e9c773-7ea9-4f09-9df1-92b123392bd4",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Add the existing set LED block as the 'then' part."
          },  
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"306d7779-7684-494b-b844-df5c09b366d3",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Change the green color to blue."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"6cd6d3e6-0bf4-4724-90ec-48a039ea1e16",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Add another set LED block as the 'else' part. Keep the color red."
          },  
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"1fbc25c8-6e3b-4296-aaaa-b929278e32c5",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"To make the police light flashing faster, decrease time to 0.5."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"3f82938a-f04f-4ff1-b4da-7bd91875cae6",
          "title":{
             "en":"The police are coming!"
          },
-         "description":{
+         "text":{
             "en":"Check the program flow before running it. With the applied if/then/else condition odd and even number LEDs will alternate by flashing blue and red colors - just like a police car."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"d901c65a-a633-4c92-b1a3-35e4e018a304",
          "title":{
             "en":"Good job!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       }
 ]
 }

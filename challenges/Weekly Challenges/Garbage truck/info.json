@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"In the previous challenge you sorted out the delivery. Now use the same cups and their contents for this challenge, too. Build a garbage truck that can hold the cup and throw its content in its container."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"5ffa1e02-ef73-4dc3-a6bb-adf5df56756e",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Start from the start line.<br/>Empty one cup then carry it to the next square. Once you emptied the second cup, carry the two cups to the third station, and so on.<br/>Finally, you should have 4 empty cups at the last corner piled up.<br/>Do not spill out the items.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"04ca13de-83ae-4454-9533-e5ba4f38fa38",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You finished within 6 minutes. = Good job! Let's try again.<br/>You finished within 4 minutes. = Wow! Excellent job! Another try?<br/>You finished within 2 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"6ec6fc02-287d-450f-9945-a6b6142a486e",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Finished within 6 minutes. = 5 points<br/>Finished within 4 minutes. = 10 points<br/>Finished within 2 minutes. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

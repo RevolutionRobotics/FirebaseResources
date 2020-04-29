@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Place the cups from your kit on the challenge field the way you can see in the picture. Stand your robot at the start line and roll a ball to knock down all 4 cups at the other end of the field."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"86565f48-5aa8-45a2-84aa-7dc82def895e",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Your robot must stand at the start line.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"3fa07350-38a9-4060-915a-f575cdd640c8",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You knocked down 1-2 cups. = Good job! Let's try again.<br/>You knocked down 3 cups. = Wow! Excellent job! Another try?<br/>You knocked down all 4 cups. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"b0a31a1b-7e2e-4596-84ce-2a02f24aa0a9",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Hit 1-2 cups = 5 points<br/>Hit 3 cups = 10 points<br/>Hit all 4 cups = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

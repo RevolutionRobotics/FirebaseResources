@@ -11,54 +11,54 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Position 9 beams onto the challenge field the way you can see in the picture. Your robot should stand at the arrow, outside the field. The task is to throw a ball that hits the first beam which would knock over the rest in the line."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"84a105c0-879d-4a08-b487-77bf1d34a4b5",
          "title":{
             "en":"Beams you will need"
          },
-         "description":{
+         "text":{
             "en":"Get three beams of each type.<br/>4x2, 6x2, 8x2"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"2ddd4586-e6b9-452f-aff5-0142d725b4a4",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Your robot cannot step inside the field.<br/>Use the balls from your kit.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"f90e21a9-018e-49f8-8da6-fe8ec894c617",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You knocked over the beams for the third trial. = Good job! Let's try again!<br/>You needed two trials to knock over the beams = Excellent job! Do you want to try again?<br/>You knocked over the beams after the first trial. = You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"5a3fd4eb-ce89-418f-86cb-62f5908e85e0",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Needed 3 trials = 5 points<br/>Needed 2 trials = 10 points<br/>Needed only 1 trial = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/t/dominoes-weekly-challenge-11/83",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

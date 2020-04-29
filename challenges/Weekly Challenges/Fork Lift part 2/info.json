@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"In the second part of Fork Lift your task is to lift up one of the loads and carry it to the other pile putting it on the top of it. As a next step, lift up the two loads and carry them back to the first stand."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"334fb34c-c216-4484-96cc-649572f3fb91",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Launch you fork lift from the center.<br/>Use only one robot.<br/>Robots should only be built from parts from your Challenge Kit.<br/>It's your call which corner you will start from."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"5d28b70a-d9ef-4335-a0ba-c8e6e2c75c1d",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You finished within 6 minutes. = Good job! Are you ready for another round?<br/>You finished within 4 minutes. = Excellent job! Do you want to try again?<br/>You finished within 2 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"ad361d6f-2f0c-4f3d-a7a9-a67dbcfd3f0a",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Finished within 6 minutes = 5 points<br/>Finished within 4 minutes = 10 points<br/>Finished within 2 minutes = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

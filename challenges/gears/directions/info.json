@@ -10,99 +10,99 @@
          "title":{
             "en":"Directions"
          },
-         "description":{
+         "text":{
             "en":"In this challenge you will learn how one gear's direction can be changed."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"25f05b1f-362a-4d9c-a30e-ca3e48777a16",
          "title":{
             "en":"Directions"
          },
-         "description":{
+         "text":{
             "en":"Two wheels without teeth don't affect each other's direction as they don't touch."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"6c17e85b-a9f0-4c18-95e4-1e6760eef468",
          "title":{
             "en":"The power is in the teeth."
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"44dbc087-2964-450a-89e6-13bd895685d0",
          "title":{
             "en":"Directions"
          },
-         "description":{
+         "text":{
             "en":"Gear train: the second gear (driven gear) will rotate in the opposite direction of the first gear (driver gear)"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"1df74626-fe75-4476-889e-9a2320d1daf6",
          "title":{
             "en":"Directions"
          },
-         "description":{
+         "text":{
             "en":"Now let's use another gear. The direction will change again, the new driven gear will rotate in the same direction as the driver gear. The second gear between the driver gear and the driven gear is called the idler gear."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"f56d5187-888d-4b74-8744-e3ac0e353c21",
          "title":{
             "en":"Let us challenge you now!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"dfbc90ee-3dee-4006-be79-98398db85515",
          "title":{
             "en":"Let us challenge you now!"
          },
-         "description":{
+         "text":{
             "en":"If we continued to build the gear train, in what direction would the fifth gear rotate?"
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"87f3ad42-f299-4186-a43a-bc4b23bd4ce3",
          "title":{
             "en":"Let us challenge you now!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },      {
          "id":"5a201243-08de-4fd4-8a50-53610bbc6ebc",
          "title":{
             "en":"Answer"
          },
-         "description":{
+         "text":{
             "en":"In the same direction as the driver gear."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"bb570c81-3522-4e28-8f8b-dcb6ef00de74",
          "title":{
             "en":"Good job!!!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       }
    ]
 }

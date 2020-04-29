@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Pile up two sets of a 18x2 and a 4x4 beams and place them on the yellow and green squares on a beam-stand (2 sets of 4x2 beams). Build a fork lift and carry the beams from the yellow corner to the red one. Then lift and carry the load from the green corner to the blue square."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"423f7439-c588-4e14-8469-b45c467f7de2",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Launch you fork lift from the center.<br/>Use only one robot.<br/>Don't use any extra material, but the parts from your kit."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"d3af95a1-438a-4791-83a6-6ff0c7a5c494",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You carried both loads to the designated spots within 8 minutes. = Good job! Let's try again.<br/>You needed 6 minutes to carry the loads. = Excellent! Another try?<br/>You carried both loads within 4 minutes. = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"118fb357-cb78-4157-9e36-2149959b02f2",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Finished within 8 minutes = 5 points<br/>Finished within 6 minutes = 10 points<br/>Finished within 4 minutes = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

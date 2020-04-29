@@ -10,418 +10,418 @@
          "title":{
             "en":"Let's get started!"
          },
-         "description":{
+         "text":{
             "en":"In this challenge you will learn how to build and configure Revvy, your robot. Besides this challenge, you can also find Revvy's build instructions at the bottom of the Challenge Kit Parts Poster."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"ad40d0ad-f631-4d17-b87d-43c745007d62",
          "title":{
             "en":"Building sources"
          },
-         "description":{
+         "text":{
             "en":"Also, you can find Revvy's building instructions within your app, too, in case you plan to build your robot again anytime in the future. To find the steps, you just need to click on the 'robots' card in the main menu."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"b9617feb-1f3b-4710-92f4-fd4ad2e06a8b",
          "title":{
             "en":"Building sources"
          },
-         "description":{
+         "text":{
             "en":"Once you clicked on 'robots', you need to choose the 'New Robot' card."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"7656863d-6869-4235-bd8f-ab038cc14a6c",
          "title":{
             "en":"Building sources"
          },
-         "description":{
+         "text":{
             "en":"Finally, you need to click on the 'Revvy' card to find the steps of configuration. "
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"a11cb1cd-5891-4c9b-8c97-a9f6cc53d326",
          "title":{
             "en":"Building time."
          },
-         "description":{
+         "text":{
             "en":"Now let's start building Revvy for the first time. To do so, please follow the next couple of slides. Once you have built Revvy, you will be ready for more complex and more challenging tasks that you can accomplish with your kit. Come on, let's build your robot!"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"53953d5f-2bf9-4bc0-b315-ecf8ce97815c",
          "title":{
             "en":"Model parts"
          },
-         "description":{
+         "text":{
             "en":""   },      
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"2674519b-2fa2-4f18-b754-2aa6c647ed11",
          "title":{
             "en":"Step 1"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"6e8a4321-b51f-4961-ac1b-9b012fe0d128",
          "title":{
             "en":"Step 2"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"fd11ada3-7fb3-4f99-9bc8-c02bb5fab729",
          "title":{
             "en":"Step 3"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },      {
          "id":"12f5b91d-7aaa-4e44-82ee-d593cbc2419b",
          "title":{
             "en":"Step 4"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"cfc138da-992e-4d37-86d5-a355f837105e",
          "title":{
             "en":"Step 5"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"9aeee8a9-c0c6-4282-8d74-66bff00a50a1",
          "title":{
             "en":"Step 6"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
      {
          "id":"79299ed0-cf06-41ef-a10c-f18d405e81bf",
          "title":{
             "en":"Step 7"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"3fab5cea-57a7-40d8-851b-dce201065d77",
          "title":{
             "en":"Step 8"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"5404e25f-15c6-4600-be37-4f486d12b387",
          "title":{
             "en":"Step 9"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"48e7d52c-2295-4a39-83b3-141a4eb29d15",
          "title":{
             "en":"Step 10"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"a6d1f31e-25ec-4db7-8416-40f5e9d6cda4",
          "title":{
             "en":"Step 11"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"94b95c9d-f07c-4b1f-bac5-0c16282261c0",
          "title":{
             "en":"Step 12"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"ce790dbc-4e44-4733-8452-657f21ab06d6",
          "title":{
             "en":"Step 13"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"57cf04e2-5945-468c-9623-14e413801bf8",
          "title":{
             "en":"Step 14"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"003ce1a5-1caf-4a8c-a06b-fd99cbac4722",
          "title":{
             "en":"Step 15"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"1cf774c6-e30f-49e3-a785-272ddcb95857",
          "title":{
             "en":"Step 16"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"527b867a-ac22-4225-9655-75b4fe340e3e",
          "title":{
             "en":"Step 17"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },    
       {
          "id":"b952e771-98ce-484b-933e-66b1d62691c5",     
          "title":{
             "en":"Step 18"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"7d8c6871-e51c-4ac0-bebe-be816cf144f7",
          "title":{
             "en":"Step 19"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"461e6255-63ae-41ad-816b-33a7cc979fe5",
          "title":{
             "en":"Step 20"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"7345bcd6-219f-40b6-9bbf-18f0eec722ad",
          "title":{
             "en":"Good job!"
          },
-         "description":{
+         "text":{
             "en":"Well done! You have built Revvy! Before taking your robot for a drive, let's learn a bit about its configuration, too."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"927cdd22-532d-4a4a-be77-ed1ebd9fb59d",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"On the Home Screen click on 'robots'."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"60be7d46-800e-4b20-bf9b-252b77d479a2",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"Select Revvy (or the robot you are about to configure) and click on the pencil icon at the right bottom corner. "
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"fc5c2fd7-b520-42c8-b54e-dd2432879db6",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"Here you can see the brain and the configuration map."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"31f28023-493a-452f-812c-1e6947740627",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"You have six motor outputs signed as M1, M2, M3, M4, M5 and M6. "
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"1811f94a-3c7a-4b34-ae2a-963590181b8b",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"You can also find four sensor inputs, they are labeled as S1, S2, S3 and S4."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"5a8c70dc-ca0b-43a9-91e7-a32d0f61dc57",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"If you want to configure a motor output, you need to click on the one you are about to configure. Let's choose M1 as an example."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"ae5d54cd-5efc-4408-b82d-400db0fa2e15",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"First, you will see it marked as 'empty'. Here you can choose from 'Drive' and Motor' icons. Let's click on 'Drive' first."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"9a466e1a-a88e-44dc-a89b-e3d1f915adbc",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"You can see two options here, left and right. Choose one of them to decide which side is to be configured. However, please note, that all the drive-configured motors make a unit, they work together in sync."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"79a9fbff-cd4e-4bee-bf77-ce1b03dcf018",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"Once you have chosen the side, you need to press 'Done'."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },      
       {
          "id":"dddb757d-b6e4-42eb-8362-416924415d8b",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"You can see that M1 has been configured. Now let's play with the sensor inputs. First, click on one of them."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"9865c3ed-31a1-4890-8b38-1f0c18d3cd29",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"Originally these inputs are empty. You can leave them this way, or configure them by clicking on 'Bumper' or 'Distance'. These configurations can work separately on their own."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"bb3759b4-be00-41e8-a507-f88c0a46dbc8",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"If you choose 'Bumper', you can configure the bumper button from your kit. In this case, you will need to attach the button to the configured input, S1 in our example. Connect the button with the input by using a cable and use pins too to attach it to Revvy. Press 'Done' to activate the sensor."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
      {
          "id":"88fdee7e-aca0-4743-83f8-5fa8fc4b1c20",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"By choosing 'Distance' you can configure Revvy's eye sensors. Press 'Done' for activation."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"8483e76e-671a-4164-8875-4a69f8c96d51",
          "title":{
             "en":"Configuration"
          },
-         "description":{
+         "text":{
             "en":"You can see that M1 and S1 are configured now. You can continue working on the other inputs and outputs as well. When you are done, just press Play. How exciting! Let's do this!"
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"2b0ff9de-98f5-400b-b084-cbdd3c1f09de",
          "title":{
             "en":"Good job!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       }
 ]
 }

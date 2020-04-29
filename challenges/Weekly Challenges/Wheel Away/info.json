@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Place a wheel at the start line on the challenge field as pictured and get your robot to roll the wheel as far as possible.<br/>Try to push the wheel in a straight line."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"a2e56fcc-366d-43cc-9d9c-0e47f8760c27",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Do not help with your bare hands, let your robot do the job. The farther the wheel rolls, the better."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"06c2c464-7864-4678-aa80-65f11b61e819",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"The wheel reached the middle of the challenge field = Good job! Let's try again.<br/>You pushed the wheel to the other edge of the field = Excellent job! Do you think you can do it even farther?<br/>The wheel ran over the edge of the field  = Outstanding!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"6a98912c-f11e-4218-8c2f-5a6cea9edf05",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Your robot reached the middle of the challenge field = 5 points<br/>Your robot ran over the middle of the field but stayed within it = 10 points<br/>It ran off the field = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/t/wheel-away-weekly-challenge-6/75",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

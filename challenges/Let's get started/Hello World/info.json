@@ -11,129 +11,129 @@
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"In this exciting challenge you will learn how to program your robot. You will create your very first program that will enter you to the unlimited world of programming. Let's see how to make your robot move, play tunes or use its sensors. To start programming, choose the 'programs' card in your Home Screen. Let's get started!"
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"4b8a5df3-ed50-4efd-bb14-fd13c056bd58",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"You can see your tool-list on the left of the screen. Let's click on 'move' card."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"aa0d3d39-c142-4fb3-9f03-90edb52b27db",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"Here you can choose from different directions. Let's click on the first one. It will program your robot to move forward."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"43773eee-f743-45c5-96a2-b438c9bfc59f",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"After choosing the direction, let's click on 'Test' card to apply your program." 
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"5a4eff52-e813-4516-98e9-f1367e1e184e",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"Make sure your robot's brain is switched on. Once it's ready, click on 'Start' card."
          },  
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"d24bc7b5-c4a3-499f-8d79-94a94d944bce",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"Your device will search for your robot via bluetooth."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"217a9f39-c45f-46e5-a6c4-aa8ef5503bd1",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"Select your robot."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"9599febe-bc3a-4d0a-9a8b-3cc3b4f0ff81",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"Aaaand your robot has just made its first programmed steps. Well done! To finish, click on 'Stop' card."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"cdbc3c39-aab3-4f2d-8827-83f3767a9ade",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"To save your program, let's click on save icon on the right."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },      {
          "id":"f7546496-ec30-449c-9e47-4a658f5d8145",
          "title":{
             "en":"Hello World"
          },
-         "description":{
-            "en":"Now you can name your program and add its description."
+         "text":{
+            "en":"Now you can name your program and add its text."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"a5d48524-3a77-408d-bb35-b922222b41be",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"Press 'Done' once you are ready."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"f8b52ccf-6145-469a-98b5-4326c3f2b86c",
          "title":{
             "en":"Hello World"
          },
-         "description":{
+         "text":{
             "en":"You can continue programming by adding new blocks."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"dc704c84-081f-448c-b6bd-123482079d40",
          "title":{
             "en":"Good job!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       }
 ]
 }

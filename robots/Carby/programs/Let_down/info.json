@@ -6,7 +6,7 @@
     "description": {
         "en": "Lets down the arm."
     },
-    "variables":[
+    "requiredPortNames":[
         "lift"
     ]
 }

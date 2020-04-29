@@ -6,7 +6,7 @@
     "description": {
         "en": "Shows the distance on the LEDs."
     },
-    "variables":[
+    "requiredPortNames":[
         "distance"
     ]
 }

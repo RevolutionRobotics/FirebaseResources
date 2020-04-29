@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Put your robot in the middle of the challenge field. Your robot has to make as many circles within 30 seconds as possible without stepping out of the center field. The angles signed in the center will help you counting."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"569fa594-70fc-4b50-8401-9762c3ffbbf5",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Your robot cannot step outside the center field.<br/>You have 30 seconds to finish.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"09ece1b0-549a-4c7f-9492-aba758d471dc",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You made 5 full turns without stepping out. = Good job! Let's try again.<br/>You made 8 full turns without stepping out. = Wow! Excellent job! Another try?<br/>You made 10+ full turns without stepping out. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"81ab2534-74e5-4c68-a349-930e52fe7382",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>You made 5 full turns without stepping out. = 5 points<br/>You made 8 full turns without stepping out. = 10 points<br/>You made 10+ full turns without stepping out. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

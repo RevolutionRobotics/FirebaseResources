@@ -11,54 +11,54 @@
          "title":{
             "en":"Mini golf"
          },
-         "description":{
+         "text":{
             "en":"Teach your robot how to play mini golf."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"3ed26792-02ae-4eed-a159-775316d51bee",
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Place four ping pong balls at the start line. The task is to position them at any of the six color holes with the help of a 'golf club'"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"eb3691a6-0342-45cc-8b50-b929697bf1ee",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Do not help with your hands<br/>Each ball should launch from start line"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"30069759-ff23-4c58-80fb-2702b3f101c6",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"1 ball positioned = Good job! Are you ready for another round?<br/><You managed to put 2-3 balls into different holes = Wow! Excellent job!<br/>4 balls are in six different holes = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"f770d5c2-aa03-4af8-a75c-1216d0e4ca06",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>3 empty holes = 5 points<br/>1-2 empty holes = 10 points<br/>No empty hole = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/t/mini-golf-weekly-challenge-7/77",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

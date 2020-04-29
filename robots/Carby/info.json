@@ -1,88 +1,83 @@
 {
-    "id": "c92b9a90-e069-11f9-9d36-2a2ae2dbcce4",
-    "buildTime": "2h",
-    "description": {
-        "en": "Carby can grab and shoot balls"
-    },
+    "id": "carby",
     "name": {
         "en": "Carby"
     },
+    "description": {
+        "en": "Carby can grab and shoot balls"
+    },
+    "buildTime": "2h",
+    "complexity":"high",
+    "compatibility":[
+        "challenge-kit-2019",
+        "challenge-kit-2020",
+        "ultimate-kit-2020"
+     ],
     "order": 3,
-    "configuration": {
-        "id": "c2eb9436-32eb-4707-b123-6dd75770d3a3",
-        "mapping": {
-            "M1": {
-                "reversed": false,
-                "side": "left",
-                "type": "drive",
-                "variableName": "drive1"
-            },
-            "M2": {
-                "reversed": false,
-                "side": "left",
-                "type": "motor",
-                "variableName": "lift"
-            },
-            "M3": {
-                "reversed": false,
-                "side": "right",
-                "type": "motor",
-                "variableName": "gripper"
-            },
-            "M4": {
-                "reversed": false,
-                "side": "right",
-                "type": "drive",
-                "variableName": "drive4"
-            },
-            "M5": {
-                "reversed": false,
-                "side": "right",
-                "type": "motor",
-                "variableName": "shooter"
-            },
-            "S3": {
-                "type": "distance",
-                "variableName": "distance"
-            }
+    "portMapping": {
+        "M1": {
+            "reversed": false,
+            "side": "left",
+            "type": "drive",
+            "variableName": "drive1"
         },
-        "controller": {
-            "id": "3e507edc-b601-4877-9720-308830fac27a",
-            "description": {
-                "en": "desc"
+        "M2": {
+            "reversed": false,
+            "side": "left",
+            "type": "motor",
+            "variableName": "lift"
+        },
+        "M3": {
+            "reversed": false,
+            "side": "right",
+            "type": "motor",
+            "variableName": "gripper"
+        },
+        "M4": {
+            "reversed": false,
+            "side": "right",
+            "type": "drive",
+            "variableName": "drive4"
+        },
+        "M5": {
+            "reversed": false,
+            "side": "right",
+            "type": "motor",
+            "variableName": "shooter"
+        },
+        "S3": {
+            "type": "distance",
+            "variableName": "distance"
+        }
+    },
+    "controller": {
+        "type": "gamer",
+        "drivetrainPriority": 1,
+        "buttons": {
+            "b1": {
+                "priority": 5,
+                "program": "lift"
             },
-            "joystickPriority": 1,
-            "lastModified": 1557908790,
-            "mapping": {
-                "b1": {
-                    "priority": 5,
-                    "programId": "c9a8ed08-1dc0-11ea-978f-2e728ce88125"
-                },
-                "b2": {
-                    "priority": 6,
-                    "programId": "c9a8efe2-1dc0-11ea-978f-2e728ce88125"
-                },
-                "b3": {
-                    "priority": 7,
-                    "programId": "c9a8f140-1dc0-11ea-978f-2e728ce88125"
-                },
-                "b4": {
-                    "priority": 8,
-                    "programId": "c9a8f28a-1dc0-11ea-978f-2e728ce88125"
-                },
-                "b5": {
-                    "priority": 2,
-                    "programId": "c9a8f50a-1dc0-11ea-978f-2e728ce88125"
-                },
-                "b6": {
-                    "priority": 3,
-                    "programId": "c9a8fb86-1dc0-11ea-978f-2e728ce88125"
-                }
+            "b2": {
+                "priority": 6,
+                "program": "open"
             },
-            "name": {
-                "en": "Carby controller"
+            "b3": {
+                "priority": 7,
+                "program": "close"
             },
-            "type": "gamer"
+            "b4": {
+                "priority": 8,
+                "program": "let-down"
+            },
+            "b5": {
+                "priority": 2,
+                "program": "shoot"
+            },
+            "b6": {
+                "priority": 3,
+                "program": "sequence"
+            }
         }
     }
 }

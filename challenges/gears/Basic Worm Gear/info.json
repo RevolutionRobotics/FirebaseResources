@@ -11,150 +11,150 @@
          "title":{
             "en":"Basic Worm Gear"
          },
-         "description":{
+         "text":{
             "en":"In this challenge you will learn about worm gear and how it affects the gears' performance."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"98af599a-d030-45af-aa8d-7b7cc87c1b74",
          "title":{
             "en":"Basic Worm Gear"
          },
-         "description":{
+         "text":{
             "en":"The Worm Gear can be connected to every other type of gear in your kit , but if you check it closely, you can see that their connection is different from the way our standard gears connect each other."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"9600a5f4-2cc0-4fe6-bbed-0fb79eb27fbd",
          "title":{
             "en":"Basic Worm Gear"
          },
-         "description":{
+         "text":{
             "en":"The worm gear changes the axis of rotation by 90-degrees."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"f411bfb7-214f-4635-abcf-1530f50bc4f6",
          "title":{
             "en":"Review"
          },
-         "description":{
+         "text":{
             "en":"If the driver gear is half the size of the driven gear, it will slow it down by 50%.<br/>40/20=2<br/>The torque will be 50% higher."         
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"4e7c62c3-92fd-4908-a003-8b547d66bf08",
          "title":{
             "en":"Review"
          },
-         "description":{
+         "text":{
             "en":"If the driver gear has three times fewer gears than the driven gear, it will slow its speed down by three times.<br/>60/20=3<br/>The torque will be three times higher."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"585845d7-4f2c-4b2d-87e1-b59c53d6249c",
          "title":{
             "en":"Review"
          },
-         "description":{
+         "text":{
             "en":"If the driver gear has 1.5 times fewer gears than the driven gear, it will slow its speed down by 1.5 times.<br/>60/40=1.5<br/>The torque will be 1.5 times higher."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"3adf2d2d-06cb-4b73-a5fa-37ea0b7ec7c5",
          "title":{
             "en":"Worm gear with a 20-tooth-gear"
          },
-         "description":{
+         "text":{
             "en":"Let's imagine that we attach a 20-tooth-gear to a worm gear. The worm gear will slow down the 20-tooth-gear by 20 times. To make the 20-tooth-gear run one full circle, you need to spin the worm gear 20 times.<br/>The torque will be 20 times higher.<br/>Gear ratio becomes 20:1."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },   
       {
          "id":"4286fa51-d1fc-4b2f-9373-30cd2b0bf01b",     
          "title":{
             "en":"Worm gear with a 40-tooth-gear"
          },
-         "description":{
+         "text":{
             "en":"If we attach a 40-tooth-gear to a worm gear, it will slow down the 40-tooth-gear by 40 times. To make the 40-tooth-gear run one full circle, you need to spin the worm gear 40 times.<br/>The torque will be 40 times higher.<br/>Gear ratio becomes 40:1."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"102ddba2-80d5-470d-85a3-6e9cb7117787",
          "title":{
             "en":"Worm gear with a 60-tooth-gear"
          },
-         "description":{
+         "text":{
             "en":"Attaching a 60-tooth-gear to a worm gear will slow down the 40-tooth-gear by 60 times. To make the 60-tooth-gear run one full circle, you need to spin the worm gear 60 times.<br/>The torque will be 60 times higher.<br/>Gear ratio becomes 60:1."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"5b4b5f6c-07e6-4270-9c7e-5097ddb4d5d2",
          "title":{
             "en":"Basic Worm Gear"
          },
-         "description":{
+         "text":{
             "en":"There are two main reasons we need to use worm gears for: when we need a lot of driving torque or when speed is not important.<br/>(E.g. when moving a heavy load.)"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"a7bc1406-42dd-4022-b93f-2c755ab7a7f7",
          "title":{
             "en":"Let us challenge you now!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"ab1d338c-45cd-4d50-8305-8ffe8d182614",
          "title":{
             "en":"Challenge question"
          },
-         "description":{
+         "text":{
             "en":"Can you think of a situation when you would use worm gears?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       }, 
       {
          "id":"f7ec2539-99c6-4a79-9480-5396994b2c22",
          "title":{
             "en":"Let us challenge you now!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       },
       {
          "id":"faa39db1-4e31-4f04-b6f9-5e90a9bb2760",
          "title":{
             "en":"Answer"
          },
-         "description":{
+         "text":{
             "en":"Worm gears are needed when you build a lifting arm, an elevator, a press, or a rolling mill for instance, but the list is endless. "
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       }, 
       {
          "id":"ffe818cb-29bd-4f5c-99b2-4f92b4e61f90",
          "title":{
             "en":"Good job!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       }
 ]
 }

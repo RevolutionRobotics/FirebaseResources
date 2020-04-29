@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"You will need the same shoelace for this challenge just like for the previous one. Now your task is to open a closed door with the help of a shoelace attached to the door handle."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"f1859626-c136-4b2a-b1c6-c12b7c20ffc7",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Your robot mustn't drop the shoelace.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"cc735ee0-5084-474e-871d-9584eccf9d14",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You managed to open the door once. = Good job! Let's try again.<br/>You managed to open the door twice. = Wow! Excellent job! Another try?<br/>You managed to open the door three out of the three trials. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"59047a7d-5cf4-4b7e-8c7d-c544321c02a2",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>You managed to open the door once. = 5 points<br/>You managed to open the door twice. = 10 points<br/>You managed to open the door three out of the three trials. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

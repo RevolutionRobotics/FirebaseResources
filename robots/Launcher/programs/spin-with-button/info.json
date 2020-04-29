@@ -1,0 +1,14 @@
+{
+    "id": "spin-with-button",
+    "name": {
+        "en": "SPIN WITH BUTTON"
+    },
+    "description": {
+        "en": "Press the button to start or stop the spinning."
+    },
+    "variables":[
+        "button",
+        "left",
+        "right"
+    ]
+}

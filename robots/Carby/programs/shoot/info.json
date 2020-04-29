@@ -1,0 +1,12 @@
+{
+    "id": "shoot",
+    "name": {
+        "en": "SHOOT"
+    },
+    "description": {
+        "en": "Shoots the ball."
+    },
+    "variables":[
+        "shooter"
+    ]
+}

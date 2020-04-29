@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Build a robot that can dance through the challenge field in circles. Your task is to make your robot turn as many cirlces as possible from the start line to other end of the challenge field."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"6572f7b8-735a-4517-82f9-24b0d26a8bf6",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Your robot cannot step outside the field.<br/>You have 5 minutes for the task.<br/>You have got 3 trials."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"12788c46-87b7-4151-a6d0-45d8fda30333",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"Your robot could drive 10 circles. = Good job! Let's try again.<br/>Your robot could drive 15 circles. = Wow! Excellent job! Another try?<br/>Your robot could drive 20+ circles. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"d5bbf3ad-e7fc-41ed-b22c-5acbbceed15f",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Your robot could drive 10 circles. = 5 points<br/>Your robot could drive 15 circles. = 10 points<br/>Your robot could drive 20+ circles. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

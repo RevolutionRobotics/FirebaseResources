@@ -11,44 +11,44 @@
          "title":{
             "en":"Task"
          },
-         "description":{
+         "text":{
             "en":"Throw all the 1x1 and 1x2 beams all over the challenge field. Build a robot that sweeps all the 'snow' off the field. Pile the beams up at the green corner."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"42f33742-6573-43b7-ae52-c5d03a518335",
          "title":{
             "en":"Rules"
          },
-         "description":{
+         "text":{
             "en":"Start sweeping from the start point.<br/>Use only one robot.<br/>Robots should only be built from parts from your Challenge Kit."
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"485357f8-6a84-4a9d-8693-0f5828c2108a",
          "title":{
             "en":"Ranking and Bonus"
          },
-         "description":{
+         "text":{
             "en":"You could clean the field within 10 minutes. = Good job! Another try?<br/>You needed 7 minutes to sweep all the 'snow'. = Excellent job! Do you want to try again?<br/>You cleared the field within 5 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
-         "challengeType":"horizontal"
+         "type":"horizontal"
       },
       {
          "id":"530face8-6fa8-47d5-a819-13796eb22b21",
          "title":{
             "en":"Share your results!"
          },
-         "description":{
+         "text":{
             "en":"Let's count your points.<br/>Finished within 10 minutes = 5 points<br/>Finished within 7 minutes = 10 points<br/>Finished within 5 minutes = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
          "buttonUrl": "https://revolutionrobotics.discourse.group/",
-         "challengeType":"button"
+         "type":"button"
       }
    ]
 }

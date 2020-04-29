@@ -1,10 +1,10 @@
 {
-    "id": "883215f3-bced-4119-8a27-b2113ea712b6",
+    "id": "vacuum-cleaner",
     "name": {
         "en": "VACUUM CLEANER"
     },
     "description": {
-        "en": "Move around in the room like a robot vaccum cleaner"
+        "en": "Move around in the room like a robot vacuum cleaner"
     },
     "variables":[
         "distance"

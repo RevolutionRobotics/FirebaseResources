@@ -3,88 +3,88 @@
    "name":{
       "en":"Loops - Your New Best Friends"
    },
-   "draft": true,
-   "order": 9,
+   "draft": false,
+   "order": 10,
    "steps":[
       {
          "id":"5da1394f-383b-49c2-9467-10e8c3802435",
          "title":{
             "en":"Loops - Your New Best Friends"
          },
-         "description":{
+         "text":{
             "en":"In this challenge you will learn how to make programming quicker and easier with the help of the loops."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"4daf2e50-edaa-4532-b02b-f3b0976d126d",
          "title":{
             "en":"Loops - Your New Best Friends"
          },
-         "description":{
+         "text":{
             "en":"For this challenge put your robot in the center of your challenge field to check the degree of the turns."   
          },      
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"e7236d68-afd6-4c0d-92fe-19255e8ef164",
          "title":{
             "en":"Loops - Your New Best Friends"
          },
-         "description":{
+         "text":{
             "en":"Let's start your program flow with moving backward for 2 seconds with medium speed."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"bde8c921-6cd3-4cb3-a657-90f1a830129a",
          "title":{
             "en":"Loops - Your New Best Friends"
          },
-         "description":{
+         "text":{
             "en":"In the previous challenge we used the turn block as many times as it took to turn 360-degrees. Now let's use a loop to make a full cirlce: turning 90-degrees 4 times will make a 360-degree-turn to the left. Add a 1-second-break as well to be able to check the degrees on your challenge field, too."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"7cd9f157-c8e2-46bb-b28f-badaa74eaaf0",
          "title":{
             "en":"Loops - Your New Best Friends"
          },
-         "description":{
+         "text":{
             "en":"Let's do the same spin to the right, but change the degrees - choose 45-degrees this time with 8 repetitions to make a full circle. Add a 1-second-break."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"49549521-e197-4300-affa-7af21e869580",
          "title":{
             "en":"Loops - Your New Best Friends"
          },
-         "description":{
+         "text":{
             "en":"Now let's add an infinate loop. Add the turn block to it with a 45-degree-turn and a 1-minute-break. With this block you will have an ongoing motion."
          },  
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"0ce5ae7a-1b65-4f09-9500-b30d169fd297",
          "title":{
             "en":"Loops - Your New Best Friends"
          },
-         "description":{
+         "text":{
             "en":"Now you can see how much faster programming can be with the help of the loops. Check your program flow and create new programs on your own, too."
          },
-         "challengeType":"vertical"
+         "type":"vertical"
       },
       {
          "id":"428d5b2e-3144-421a-b8c0-7940304b6c63",
          "title":{
             "en":"Good job!"
          },
-         "description":{
+         "text":{
             "en":""
          },
-         "challengeType":"zoomable"
+         "type":"zoomable"
       }
 ]
 }

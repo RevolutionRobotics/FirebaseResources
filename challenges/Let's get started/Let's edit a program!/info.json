@@ -1,0 +1,169 @@
+{
+   "id":"75af979d-c8da-4af9-be6e-46ba5f735082",
+   "name":{
+      "en":"Let's edit a program!"
+   },
+   "order": 4,
+   "steps":[
+      {
+         "id":"eb73a5da-e666-4927-b1d4-21ea997f5853",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"After assigning your first program to your robot, let's edit another one to make Revvy move."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"d176b140-9958-4793-8fc7-d52e1845b2f9",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"To start this challenge, let's use our previously assigned program in 'Hello World'."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"ecb43ed8-aad1-41a4-9ed0-0896d38a68be",
+         "title":{
+            "en":"Let us challenge you!"
+         },
+         "text":{
+            "en":""
+         },
+         "type":"zoomable"
+      },
+      {
+         "id":"fb0f6de7-bfef-48c0-bd60-7b38756811a1",
+         "title":{
+            "en":"Challenge time"
+         },
+         "text":{
+            "en":"Edit the existing program to start with 'play tune' then drive for six seconds forward.<br/>Next, let's have a full cirle to the right that repeats for two times.<br/>Now let's create a 2-second-long pause.<br/>Finally move your robot backward for four seconds.<br/>Play the tune again at the end."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"80bde3bd-3d06-450a-8fcb-272a67e188c7",
+         "title":{
+            "en":"Challenge time"
+         },
+         "text":{
+            "en":""
+         },  
+         "type":"zoomable"
+      },
+      {
+         "id":"a8455f26-01c7-46dc-ba12-2868ceaba847",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Once you finished editing the program, let's save it by clicking on the save icon. Give it a name of your choice. We saved it as 'Program edit'."   
+         },      
+         "type":"vertical"
+      },
+      {
+         "id":"45fc91ef-0746-463b-9aa9-d6890dc1a872",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"You can reach Home Screen by clicking on the arrow in the top left corner. Choose robots card in the main menu."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"aeae6223-a1ac-4cc3-b38e-dbb0e36e4212",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Let's click on the pen icon to add your newly edited program to Revvy."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"db0061e6-e574-43f0-9d1a-528b6eb9e20a",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"First, you will see the 'Configure' map. However, we need to choose 'Controller' now by clicking on it."
+         },
+         "type":"vertical"
+      },      {
+         "id":"11d9f7d5-d09b-4688-8411-c65ade8b5f52",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Let's choose an empty button by clicking on the word 'empty' of your choice."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"172196f5-009b-44b4-a2b1-adf0b82cb790",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Add your previously saved program."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"38ed4d73-5e97-4ade-920f-2ffa070e0bf6",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Your chosen button is programmed now. Let's click on 'Play'."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"7c76fa9b-383f-4bd8-8311-0921c5737f53",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Switch on the brain and and press 'Start' once your robot is ready."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"0bf94641-710e-4a6f-93ec-b895bed77f04",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Select your robot found via Bluetooth."
+         },
+         "type":"vertical"
+      },
+      {
+         "id":"9418fea3-78b6-4fe6-8e36-920a509d7e78",
+         "title":{
+            "en":"Editing a program"
+         },
+         "text":{
+            "en":"Yeaaay! You have just edited a program which is now added to a button on your controller."
+         },
+         
+         "type":"vertical"
+      },
+      {
+         "id":"11e234a9-19b4-4c3f-90bd-ea62685fcaf9",
+         "title":{
+            "en":"Good job!"
+         },
+         "text":{
+            "en":""
+         },
+         "type":"zoomable"
+      }
+]
+}

@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "description":{
-            "en":"It's OK if your robot drop the pencil, get it and continue.<br/>You have got 3 trials."
+            "en":"It's OK if your robot drops the pencil, get it and continue.<br/>You have got 3 trials."
          },
          "challengeType":"horizontal"
       },

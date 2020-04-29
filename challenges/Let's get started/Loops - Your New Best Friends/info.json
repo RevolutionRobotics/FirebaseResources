@@ -3,8 +3,8 @@
    "name":{
       "en":"Loops - Your New Best Friends"
    },
-   "draft": true,
-   "order": 9,
+   "draft": false,
+   "order": 10,
    "steps":[
       {
          "id":"5da1394f-383b-49c2-9467-10e8c3802435",

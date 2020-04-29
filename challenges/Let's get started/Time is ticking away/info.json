@@ -3,8 +3,8 @@
    "name":{
       "en":"Time is ticking away"
    },
-   "draft": true,
-   "order": 10,
+   "draft": false,
+   "order": 11,
    "steps":[
       {
          "id":"614f8124-f0f5-4e26-bf40-ad64c71961eb",

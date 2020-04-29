@@ -3,8 +3,8 @@
    "name":{
       "en":"Hit the cups"
    },
-   "draft": true,
-   "order": 15,
+   "draft": false,
+   "order": 13,
    "steps":[
       {
          "id":"088489ae-f484-4051-b823-a6ccb828c5f9",

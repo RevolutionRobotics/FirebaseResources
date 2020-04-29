@@ -17,6 +17,16 @@
          "challengeType":"vertical"
       },
       {
+         "id":"4daf2e50-edaa-4532-b02b-f3b0976d126d",
+         "title":{
+            "en":"Loops - Your New Best Friends"
+         },
+         "description":{
+            "en":"For this challenge put your robot in the center of your challenge field to check the degree of the turns."   
+         },      
+         "challengeType":"vertical"
+      },
+      {
          "id":"e7236d68-afd6-4c0d-92fe-19255e8ef164",
          "title":{
             "en":"Loops - Your New Best Friends"
@@ -32,7 +42,7 @@
             "en":"Loops - Your New Best Friends"
          },
          "description":{
-            "en":"In the previous challenge we used the turn block as many times as it took to turn 360-degrees. Now let's use a loop to make a full cirlce: turning 90-degrees 4 times will make a 360-degree-turn."
+            "en":"In the previous challenge we used the turn block as many times as it took to turn 360-degrees. Now let's use a loop to make a full cirlce: turning 90-degrees 4 times will make a 360-degree-turn to the left. Add a 1-second-break as well to be able to check the degrees on your challenge field, too."
          },
          "challengeType":"vertical"
       },
@@ -42,7 +52,7 @@
             "en":"Loops - Your New Best Friends"
          },
          "description":{
-            "en":"If you want to program your robot to do something with no break, you need to apply the 'repeat forever' loop. First, let's add a light block to it."
+            "en":"Let's do the same spin to the right, but change the degrees - choose 45-degrees this time with 8 repetitions to make a full circle. Add a 1-second-break."
          },
          "challengeType":"vertical"
       },
@@ -52,18 +62,8 @@
             "en":"Loops - Your New Best Friends"
          },
          "description":{
-            "en":"Now add a short break to your infinate loop."
+            "en":"Now let's add an infinate loop. Add the turn block to it with a 45-degree-turn and a 1-minute-break. With this block you will have an ongoing motion."
          },  
-         "challengeType":"vertical"
-      },
-      {
-         "id":"4daf2e50-edaa-4532-b02b-f3b0976d126d",
-         "title":{
-            "en":"Loops - Your nNw Best Friends"
-         },
-         "description":{
-            "en":"Finish the loop with some light effect."   
-         },      
          "challengeType":"vertical"
       },
       {
@@ -72,7 +72,7 @@
             "en":"Loops - Your New Best Friends"
          },
          "description":{
-            "en":"Now you can see how much faster programming can be with the help of the loops. Check your program flow and create new programs on your own, too. Have fun!"
+            "en":"Now you can see how much faster programming can be with the help of the loops. Check your program flow and create new programs on your own, too."
          },
          "challengeType":"vertical"
       },

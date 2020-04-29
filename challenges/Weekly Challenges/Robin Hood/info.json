@@ -1,0 +1,54 @@
+{
+   "id":"6b9e13d2-4820-4d09-bb22-a8d4540b3b79",
+   "name":{
+      "en":"Robin Hood"
+   },
+   "draft": true,
+   "order": 32,
+   "steps":[
+      {
+         "id":"aa11aa1c-0abb-4d40-8085-62e47cca1a53",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Build a robot that can draw a bow. Your task is to draw the bow (the longest beam from your kit, 24x2) as far as possible."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"d6abec7a-a8ea-40e9-8431-3e9cad3f4385",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Be careful not to have anyone facing your robot while shooting.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"c7934d06-10a4-4f1b-a322-08474f724ba6",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You reached to 0.5 meters, or less. = Good job! Let's try again.<br/>You reached between 0.51-1.99 meters = Wow! Excellent job! Another try?<br/>You reached over 2 meters.  = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a9e2a9a7-c3b6-49d4-9437-eacf3771abcb",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You reached to 0.5 meters, or less. = 5 points<br/>You reached between 0.51-1.99 meters = 10 points<br/>You reached over 2 meters. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

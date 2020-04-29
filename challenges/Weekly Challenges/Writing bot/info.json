@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"In this challenge you will teach your robot wo write. Build a robot that can hold a pencil. Get a piece of paper, stand your robot on it and get yor robot write down three letters: A,B and C."
+            "en":"In this challenge you will teach your robot to write. Build a robot that can hold a pencil. Get a piece of paper, stand your robot on it and write down three letters: A,B and C."
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You managed to write the three letters, but they cover each other. = Good job! Let's try again.<br/>You managed to write the three letters but two of them cover each other. = Wow! Excellent job! Another try?<br/>A,B and C are nicely written, no coverage. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You wrote the three letters, but they cover each other. = Good job!<br/>You wrote the three letters but two of them cover each other. = Excellent job!<br/>A,B and C are nicely written, no coverage. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

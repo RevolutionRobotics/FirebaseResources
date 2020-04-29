@@ -1,0 +1,54 @@
+{
+   "id":"378d86f3-fb43-4d99-93ba-b4c41e75916c",
+   "name":{
+      "en":"Gordian knot"
+   },
+   "draft": true,
+   "order": 38,
+   "steps":[
+      {
+         "id":"b98f90d5-5dad-4d71-920b-4d62895cbd5a",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"For this challenge you will need one piece of shoelace. Your task is to build a robot that can tie a knot on the shoelace."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"65a9205d-d28b-4e5d-99a2-3ade9fb4d3de",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Do not help the robot with your bare hand/foot.<br/>The faster you are, the better.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"db9d5044-e1e9-4133-b5d7-3a91752c544b",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 6 minutes. = Good job! Let's try again.<br/>You finished within 4 minutes. = Wow! Excellent job! Another try?<br/>You finished within 2 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"7d755019-06f4-4c8b-a2cc-6aac01ac0c80",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 6 minutes. = 5 points<br/>Finished within 4 minutes. = 10 points<br/>Finished within 2 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

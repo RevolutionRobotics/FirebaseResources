@@ -3,7 +3,7 @@
    "name":{
       "en":"Snow Rake"
    },
-   "draft": true,
+   "draft": false,
    "order": 12,
    "steps":[
       {
@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "description":{
-            "en":"Start sweeping from the start point.<br/>Use only one robot.<br/>Don't use any extra material, but the parts from your kit."
+            "en":"Start sweeping from the start point.<br/>Use only one robot.<br/>Robots should only be built from parts from your Challenge Kit."
          },
          "challengeType":"horizontal"
       },

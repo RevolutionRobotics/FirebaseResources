@@ -1,0 +1,54 @@
+{
+   "id":"8a18922c-57fb-4f3f-a053-abc0a2ff47f5",
+   "name":{
+      "en":"Mind the gap"
+   },
+   "draft": true,
+   "order": 47,
+   "steps":[
+      {
+         "id":"b156f9f0-b72f-486f-9317-b5b0c031f8e4",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"In this challenge you need to drive your robot on a table. Your task is to drive as fast as possible and stop the robot right at the edge of the table avoiding the robot falling off."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"32e98894-c4d3-4944-bb79-6b03803bf729",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Position your robot 1 meter from the edge.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"06d300ca-3278-4dea-8f4d-2c1442de75fe",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You stopped 5+ cm from the edge. = Good job! Let's try again.<br/>You stopped  between 2 to 5cm from the edge. = Wow! Excellent job! Another try?<br/>You stopped  within less than 2 cm from the edge. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a9498a71-d733-4809-b23b-881e4fd2b6b5",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You stopped 5+ cm from the edge. = 5 points<br/>You stopped  between 2 to 5cm from the edge. = 10 points<br/>You stopped  within less than 2 cm from the edge. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

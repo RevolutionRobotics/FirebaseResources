@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Build the cup tower you can see in the picture and place it on your challenge field the way it's presented. Leave your robot 1 meter off the challenge field measured from the start point. Your task is to knock down the tower with your strike."
+            "en":"Build the cup tower you can see in the picture and place it on your challenge field the way it's presented. Leave your robot 1 meter off the challenge field measured from the start point. Your task is to knock down the tower by throwing a ball at it."
          },
          "challengeType":"horizontal"
       },
@@ -42,7 +42,7 @@
             "en":"Share your results!"
          },
          "description":{
-            "en":"Let's count your points.<br/>1 hit out of 3 trials = 5 points<br/><br/>2 hits out of 3 trials = 10 points<br/><br/>3 hits out of 3 trials = 15 points<br/>We would love to see your scores."
+            "en":"Let's count your points.<br/><br/>1 hit out of 3 trials = 5 points<br/>2 hits out of 3 trials = 10 points<br/>3 hits out of 3 trials = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
          "en": "Share results"

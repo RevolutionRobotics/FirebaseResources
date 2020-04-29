@@ -1,0 +1,54 @@
+{
+   "id":"594b5ea4-ea2e-42c3-aa5e-0b09207c00a2",
+   "name":{
+      "en":"Water Pong"
+   },
+   "draft": true,
+   "order": 26,
+   "steps":[
+      {
+         "id":"8332942a-ca19-4a45-a060-ed1b7904a8be",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Fill a cup from the kit with 2.5 cm (= an inch) of water. Stand your robot a meter away. Your task is to shoot a ball into the cup without kicking it off."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"33cb008d-0a21-4323-8fd2-99a6c445fb5d",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Your robot must stand a meter+ from the cup.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"76f42ae0-199a-47ae-b576-ee1d7a250eed",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You scored once out of the three trials. = Good job! Let's try again.<br/>You scored twice out of the three trials. = Wow! Excellent job! Another try?<br/>You scored all your three trials. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"82b8e324-b471-4f93-b3ea-1ff3bad5b741",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You scored once out of the three trials. = 5 points<br/>You scored twice out of the three trials. = 10 points<br/>You scored all your three trials. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

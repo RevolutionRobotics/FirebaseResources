@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"Build a robot that can lift up a cup from your kit. Place 4 cups in the 4 squares of your challenge field. Lift them up and carry them to the center of the field one by one. Stack them up by putting them into each other."
+            "en":"Build a robot that can lift up a cup from your kit. Place 4 cups on the 4 squares of your challenge field. Lift them up and carry them to the center of the field one by one. Stack them up by putting them into each other."
          },
          "challengeType":"horizontal"
       },

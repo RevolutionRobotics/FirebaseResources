@@ -1,0 +1,54 @@
+{
+   "id":"536b23cb-aded-43eb-a4a4-6c995ed342e5",
+   "name":{
+      "en":"Follow the line"
+   },
+   "draft": true,
+   "order": 33,
+   "steps":[
+      {
+         "id":"df927978-93ac-41f3-92da-af9a20c2e830",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Your task is to follow the outer black line of your challenge and make two full rounds the fastest you can."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"a79b3bbc-4b10-4149-8b73-97c2e84d6de2",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start from any of the 4 squares.<br/>You must stay on the outer line for the whole drive.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"de14e115-75b7-43b0-86ba-4f11c5a7576d",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You needed 3 minutes+ to finish. = Good job! Let's try again.<br/>You finished between 2-3 minutes. = Wow! Excellent job! Another try?<br/>You finished within 1 minute. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"56e1b831-e2ba-4b14-be7e-498543259d34",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>You needed 3 minutes+ to finish. = 5 points<br/>You finished within 2-3 minutes. = 10 points<br/>You finished within 1 minute. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

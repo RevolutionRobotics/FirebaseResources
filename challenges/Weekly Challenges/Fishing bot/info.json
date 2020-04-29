@@ -1,0 +1,54 @@
+{
+   "id":"067a727a-c484-48c6-927c-066b99e9a18c",
+   "name":{
+      "en":"Fishing bot"
+   },
+   "draft": true,
+   "order": 36,
+   "steps":[
+      {
+         "id":"51039a6e-b59e-4c7b-bc46-41fa849c9a2a",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"Build a fishing robot and position it at the start line. Throw 20 pieces of CP1x1 beams (fish) within the center field (pond). Your task is to get 10-10 pieces of fish into the two cups placed on the purple and blue circles. Be careful not to step in the pond."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"5367189b-6c8e-4216-81ff-cb4b2808d8e4",
+         "title":{
+            "en":"Rules"
+         },
+         "description":{
+            "en":"Start from the start line.<br/>Do not step inside the pond.<br/>Try to be as fast as possible.<br/>You have got 3 trials."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"50329c87-f254-4bb6-bbe0-8430de369db3",
+         "title":{
+            "en":"Ranking and Bonus"
+         },
+         "description":{
+            "en":"You finished within 15 minutes. = Good job! Let's try again.<br/>You finished within 10 minutes. = Wow! Excellent job! Another try?<br/>You finished within 5 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"b69d8721-ceae-44fa-a528-73a4df2eb351",
+         "title":{
+            "en":"Share your results!"
+         },
+         "description":{
+            "en":"Let's count your points.<br/>Finished within 15 minutes. = 5 points<br/>Finished within 10 minutes. = 10 points<br/>Finished within 5 minutes. = 15 points<br/>We would love to see your scores."
+         },
+         "buttonText": {
+            "en": "Share results"
+         },
+         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "challengeType":"button"
+      }
+   ]
+}

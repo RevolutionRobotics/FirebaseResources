@@ -12,7 +12,17 @@
             "en":"Task"
          },
          "description":{
-            "en":"In this fun challenge you will need to do some recycling work. Put 4 cups at the 4 corners of the challenge field, they will be your trashcans. Collect 4 types of 'trash' and position them inside the center field the way you see in the picture: the ball symbolises an apple (bio-degradable), the blue CT2x2 symbolises some re-usable plastic trash and the cable stands for communal waste. Also, add a tissue or any kind of paper to the collection, too as paper waste."
+            "en":"In this fun challenge you will need to do some recycling work. Put 4 cups at the 4 corners of the challenge field, they will be your trashcans. Collect 4 types of 'trash' and position them inside the center field the way you see in the picture."
+         },
+         "challengeType":"horizontal"
+      },
+      {
+         "id":"47e725dc-b410-4236-b0db-e5b2edfe80ea",
+         "title":{
+            "en":"Task"
+         },
+         "description":{
+            "en":"The ball symbolises an apple (bio-degradable), the blue CT2x2 symbolises some re-usable plastic trash and the cable stands for communal waste. Also, add a tissue or any kind of paper to the collection, too as paper waste."
          },
          "challengeType":"horizontal"
       },

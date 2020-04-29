@@ -3,8 +3,8 @@
    "name":{
       "en":"Spinning Around"
    },
-   "draft": true,
-   "order": 8,
+   "draft": false,
+   "order": 9,
    "steps":[
       {
          "id":"3ab74c7d-31a1-4014-ab68-f8d2b44a6b5d",

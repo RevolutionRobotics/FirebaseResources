@@ -4,7 +4,7 @@
       "en":"Fork Lift Part 2"
    },
    "draft": true,
-   "order": 14,
+   "order": 15,
    "steps":[
       {
          "id":"8112d27b-c9b3-498a-bfea-95e6e9c611ab",
@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "description":{
-            "en":"In the second part of Fork Lift your task is to lift up one of the loads and carry it to the other pile putting it on the top of it. As a next step, lift up the two loads and carry it back to the first stand."
+            "en":"In the second part of Fork Lift your task is to lift up one of the loads and carry it to the other pile putting it on the top of it. As a next step, lift up the two loads and carry them back to the first stand."
          },
          "challengeType":"horizontal"
       },
@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "description":{
-            "en":"Launch you fork lift from the center.<br/>Use only one robot.<br/>Don't use any extra material, but the parts from your kit.<br/>It's your call which corner you will start with."
+            "en":"Launch you fork lift from the center.<br/>Use only one robot.<br/>Robots should only be built from parts from your Challenge Kit.<br/>It's your call which corner you will start from."
          },
          "challengeType":"horizontal"
       },
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "description":{
-            "en":"You needed within 6 minutes to finish the task. = Good job! Are you ready for another round?<br/>You needed 4 minutes to finish the task. = Wow! Excellent job! Do you want to try again?<br/>You managed to accomplish the task only within 2 minutes. = Outstanding! You are such a pro! Well done!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You finished within 6 minutes. = Good job! Are you ready for another round?<br/>You finished within 4 minutes. = Excellent job! Do you want to try again?<br/>You finished within 2 minutes. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "challengeType":"horizontal"
       },

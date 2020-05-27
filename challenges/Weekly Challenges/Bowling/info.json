@@ -3,7 +3,7 @@
    "name":{
       "en":"Bowling"
    },
-   "draft": true,
+   "draft": false,
    "order": 17,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/bowling-weekly-challenge-17/92",
          "challengeType":"button"
       }
    ]

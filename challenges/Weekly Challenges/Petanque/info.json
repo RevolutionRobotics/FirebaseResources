@@ -3,8 +3,8 @@
    "name":{
       "en":"Petanque"
    },
-   "draft": true,
-   "order": 19,
+   "draft": false,
+   "order": 16,
    "steps":[
       {
          "id":"ee6e8fd6-cf5c-4b30-aa6f-c29e755de651",
@@ -47,7 +47,7 @@
          "buttonText": {
          "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/t/stack-the-cups-weekly-challenge-2/62",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/petanque-weekly-challenge-16/91",
          "type":"button"
      }
    ]

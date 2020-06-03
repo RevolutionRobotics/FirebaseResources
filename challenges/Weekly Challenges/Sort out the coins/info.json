@@ -3,8 +3,8 @@
    "name":{
       "en":"Sort out the coins"
    },
-   "draft": true,
-   "order": 20,
+   "draft": false,
+   "order": 18,
    "steps":[
       {
          "id":"6773d99f-926b-4ada-bd8d-49dab97ddc72",

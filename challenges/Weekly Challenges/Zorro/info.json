@@ -3,8 +3,8 @@
    "name":{
       "en":"Zorro"
    },
-   "draft": true,
-   "order": 17,
+   "draft": false,
+   "order": 15,
    "steps":[
       {
          "id":"ddf93b66-4f0a-4aff-8f7e-d419e5a0ef77",
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "text":{
-            "en":"You finished within 15 seconds. = Good job! Let's try again.<br/>You finished within 10 seconds = Wow! Excellent job! Another try?<br/>You finished within 5 seconds. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You finished within 15 seconds.=Good job! Let's try again.<br/>You finished within 10 seconds.=Wow! Excellent job! Another try?<br/>You finished within 5 seconds.=You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "type":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/zorro-weekly-challenge-15/88",
          "type":"button"
       }
    ]

@@ -3,8 +3,8 @@
    "name":{
       "en":"Collect the balls"
    },
-   "draft": true,
-   "order": 18,
+   "draft": false,
+   "order": 14,
    "steps":[
       {
          "id":"2dc424df-9254-4935-ac2a-c295dba1ba63",
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/collect-the-balls-weekly-challenge-14/87",
          "type":"button"
       }
    ]

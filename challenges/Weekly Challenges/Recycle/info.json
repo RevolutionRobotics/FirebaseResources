@@ -3,8 +3,8 @@
    "name":{
       "en":"Recycle"
    },
-   "draft": true,
-   "order": 21,
+   "draft": false,
+   "order": 19,
    "steps":[
       {
          "id":"4758320a-cbbf-464e-9a19-6d4a5363afc4",
@@ -67,7 +67,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/recycle-weekkly-challenge-19/95",
          "type":"button"
       }
    ]

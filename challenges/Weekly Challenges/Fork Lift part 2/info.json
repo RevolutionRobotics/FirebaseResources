@@ -3,7 +3,7 @@
    "name":{
       "en":"Fork Lift Part 2"
    },
-   "draft": true,
+   "draft": false,
    "order": 21,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/fork-lift-part-2-weekly-challenge-21/98",
          "type":"button"
       }
    ]

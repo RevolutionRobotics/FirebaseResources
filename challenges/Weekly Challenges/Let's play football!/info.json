@@ -3,7 +3,7 @@
    "name":{
       "en":"Let's play football!"
    },
-   "draft": true,
+   "draft": false,
    "order": 23,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/lets-play-football-weekly-challenge-23/105",
          "type":"button"
       }
    ]

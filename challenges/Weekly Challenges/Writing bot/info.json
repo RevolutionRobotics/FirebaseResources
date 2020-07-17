@@ -3,7 +3,7 @@
    "name":{
       "en":"Writing bot"
    },
-   "draft": true,
+   "draft": false,
    "order": 24,
    "steps":[
       {
@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "text":{
-            "en":"It's OK if your robot drops the pencil, get it and continue.<br/>You have got 3 trials."
+            "en":"It's OK if your robot drops the pencil. Simply pick the pencil back up and continue.<br/>You have got 3 trials."
          },
          "type":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/writing-bot-weekly-challenge-23/106",
          "type":"button"
       }
    ]

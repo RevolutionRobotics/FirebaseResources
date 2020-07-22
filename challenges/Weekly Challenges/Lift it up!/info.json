@@ -3,7 +3,7 @@
    "name":{
       "en":"Lift it up!"
    },
-   "draft": true,
+   "draft": false,
    "order": 25,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/lift-it-up-weekly-challenge-25/107",
          "type":"button"
       }
    ]

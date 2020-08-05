@@ -3,7 +3,7 @@
    "name":{
       "en":"Dancing bot"
    },
-   "draft": true,
+   "draft": false,
    "order": 27,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/dancing-bot-weekly-challenge-27/112",
          "type":"button"
       }
    ]

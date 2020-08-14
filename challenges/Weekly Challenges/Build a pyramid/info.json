@@ -3,7 +3,7 @@
    "name":{
       "en":"Build a pyramid"
    },
-   "draft": true,
+   "draft": false,
    "order": 28,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/build-a-pyramid-weekly-challenge-28/114",
          "type":"button"
       }
    ]

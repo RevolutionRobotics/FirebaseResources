@@ -3,7 +3,7 @@
    "name":{
       "en":"Spinning Around"
    },
-   "draft": true,
+   "draft": false,
    "order": 29,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/spinning-around-weekly-challenge-29/115",
          "type":"button"
       }
    ]

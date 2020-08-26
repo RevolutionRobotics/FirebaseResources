@@ -3,7 +3,7 @@
    "name":{
       "en":"Water a plant"
    },
-   "draft": true,
+   "draft": false,
    "order": 30,
    "steps":[
       {
@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "text":{
-            "en":"For this challenge you will need a cup from your kit and any kind of potted plant in your room/house. Fill the cup and water the plant without wasting any of the liquid."
+            "en":"For this challenge you will need a cup from your kit and any kind of potted plant in your room/house. Fill the cup and water the plant without wasting any of the liquid. Be careful not to dump the water on the robot!"
          },
          "type":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/water-the-plants-weekly-challenge-30/117",
          "type":"button"
       }
    ]

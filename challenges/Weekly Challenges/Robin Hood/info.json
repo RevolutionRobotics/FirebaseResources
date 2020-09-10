@@ -3,7 +3,7 @@
    "name":{
       "en":"Robin Hood"
    },
-   "draft": true,
+   "draft": false,
    "order": 32,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/robin-hood-weekly-challenge-32/120",
          "type":"button"
       }
    ]

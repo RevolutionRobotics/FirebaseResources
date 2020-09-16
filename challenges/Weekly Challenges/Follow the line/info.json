@@ -3,7 +3,7 @@
    "name":{
       "en":"Follow the line"
    },
-   "draft": true,
+   "draft": false,
    "order": 33,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/follow-the-line-weekly-challenge-33/121",
          "type":"button"
       }
    ]

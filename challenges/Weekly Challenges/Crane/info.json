@@ -3,7 +3,7 @@
    "name":{
       "en":"Crane"
    },
-   "draft": true,
+   "draft": false,
    "order": 34,
    "steps":[
       {
@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "text":{
-            "en":"Start from the start line.<br/>Carry one cup at once.<br/>You have got 3 trials."
+            "en":"Start from the start line.<br/>Carry one cup at once.<br/>The robot base must remain stationary.<br/>You have got 3 trials."
          },
          "type":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/crane-weekly-challenge-34/122",
          "type":"button"
       }
    ]

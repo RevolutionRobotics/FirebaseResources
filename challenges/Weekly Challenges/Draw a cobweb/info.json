@@ -3,7 +3,7 @@
    "name":{
       "en":"Draw a cobweb"
    },
-   "draft": true,
+   "draft": false,
    "order": 35,
    "steps":[
       {
@@ -32,7 +32,7 @@
             "en":"Ranking and Bonus"
          },
          "text":{
-            "en":"You drew 3 inner cirles. = Good job! Let's try again.<br/>You drew 4 inner cirles. = Wow! Excellent job! Another try?<br/>You drew 5+ inner cirles. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
+            "en":"You drew 3 inner circles. = Good job! Let's try again.<br/>You drew 4 inner circles. = Wow! Excellent job! Another try?<br/>You drew 5+ inner circles. = You are such a pro!<br/>Bonus task: Can you do the same by programming your robot?"
          },
          "type":"horizontal"
       },
@@ -42,12 +42,12 @@
             "en":"Share your results!"
          },
          "text":{
-            "en":"Let's count your points.<br/>You drew 3 inner cirles. = 5 points<br/>You drew 4 inner cirles. = 10 points<br/>You drew 5+ inner cirles. = 15 points<br/>We would love to see your scores."
+            "en":"Let's count your points.<br/>You drew 3 inner circles. = 5 points<br/>You drew 4 inner circles. = 10 points<br/>You drew 5+ inner circles. = 15 points<br/>We would love to see your scores."
          },
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/draw-a-cobweb-weekly-challenge-35/123",
          "type":"button"
       }
    ]

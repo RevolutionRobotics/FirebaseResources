@@ -3,7 +3,7 @@
    "name":{
       "en":"Fishing bot"
    },
-   "draft": true,
+   "draft": false,
    "order": 36,
    "steps":[
       {
@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "text":{
-            "en":"Build a fishing robot and position it at the start line. Throw 20 pieces of CP1x1 beams (fish) within the center field (pond). Your task is to get 10-10 pieces of fish into the two cups placed on the purple and blue circles. Be careful not to step in the pond."
+            "en":"Build a fishing robot and position it at the start line. Throw 20 pieces of CP1x1 beams (fish) within the circle in the middle of the challenge field (pond). Your task is to get 10 pieces of fish in each of the two cups placed on the purple and blue circles. Be careful not to step in the pond."
          },
          "type":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/fishing-bot-weekly-challenge-36/124",
          "type":"button"
       }
    ]

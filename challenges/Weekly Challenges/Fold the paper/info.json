@@ -1,9 +1,9 @@
 {
    "id":"78a581f6-2240-4a4e-995b-71161cd7cdc9",
    "name":{
-      "en":"Folding the map"
+      "en":"Fold the paper"
    },
-   "draft": true,
+   "draft": false,
    "order": 37,
    "steps":[
       {
@@ -12,7 +12,7 @@
             "en":"Task"
          },
          "text":{
-            "en":"Unfold the challenge field and lay it down the floor. Your task is to build a robot that can fold the field back."
+            "en":"Your task is to build a robot that can fold a piece of A4 paper into four equal parts."
          },
          "type":"horizontal"
       },
@@ -22,7 +22,7 @@
             "en":"Rules"
          },
          "text":{
-            "en":"Do not fold the paper smaller than its original folded size.<br/>You have got 3 trials."
+            "en":"The four parts must be equal.<br/>You have got 3 trials."
          },
          "type":"horizontal"
       },
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/fold-the-paper-weekly-challenge-37/126",
          "type":"button"
       }
    ]

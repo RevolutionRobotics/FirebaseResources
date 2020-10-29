@@ -3,7 +3,7 @@
    "name":{
       "en":"Braiding bot"
    },
-   "draft": true,
+   "draft": false,
    "order": 39,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/braiding-bot-weekly-challenge-39/135",
          "type":"button"
       }
    ]

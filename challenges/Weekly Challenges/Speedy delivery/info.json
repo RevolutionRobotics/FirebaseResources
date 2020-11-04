@@ -3,7 +3,7 @@
    "name":{
       "en":"Speedy delivery"
    },
-   "draft": true,
+   "draft": false,
    "order": 40,
    "steps":[
       {
@@ -57,7 +57,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/speedy-delivery-weekly-challenge-40/164",
          "type":"button"
       }
    ]

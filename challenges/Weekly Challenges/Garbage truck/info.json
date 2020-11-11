@@ -3,7 +3,7 @@
    "name":{
       "en":"Garbage truck"
    },
-   "draft": true,
+   "draft": false,
    "order": 41,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/garbage-truck-weekly-challenge-41/177",
          "type":"button"
       }
    ]

@@ -3,7 +3,7 @@
    "name":{
       "en":"Cannon"
    },
-   "draft": true,
+   "draft": false,
    "order": 43,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/cannon-weekly-challenges-43/194",
          "type":"button"
       }
    ]

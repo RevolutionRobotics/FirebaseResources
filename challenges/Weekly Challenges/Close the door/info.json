@@ -3,7 +3,7 @@
    "name":{
       "en":"Close the door"
    },
-   "draft": true,
+   "draft": false,
    "order": 45,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/close-the-door-weekly-challenges-45/215",
          "type":"button"
       }
    ]

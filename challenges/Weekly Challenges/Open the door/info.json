@@ -3,7 +3,7 @@
    "name":{
       "en":"Open the door"
    },
-   "draft": true,
+   "draft": false,
    "order": 46,
    "steps":[
       {
@@ -47,7 +47,7 @@
          "buttonText": {
             "en": "Share results"
          },
-         "buttonUrl": "https://revolutionrobotics.discourse.group/",
+         "buttonUrl": "https://revolutionrobotics.discourse.group/t/open-the-door-weekly-challenge-46/221",
          "type":"button"
       }
    ]
